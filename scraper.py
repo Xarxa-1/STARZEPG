@@ -6,28 +6,46 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import requests
 from bs4 import BeautifulSoup
+import pytz
+
+# Definició de zones horàries
+TZ_USA = pytz.timezone("America/New_York")      # Horari de STARZ (EST/EDT)
+TZ_CAT = pytz.timezone("Europe/Madrid")         # Horari de Catalunya (CET/CEST)
 
 def get_starz_url_for_today():
-    today = datetime.datetime.now()
-    year = today.strftime("%Y")
-    month = today.strftime("%m")
-    day = today.strftime("%d")
-    return f"https://www.starz.com/us/en/schedule/STZ1/{year}/{month}/{day}", today
+    # Obtenim la data actual en la zona d'EUA
+    today_usa = datetime.datetime.now(TZ_USA)
+    year = today_usa.strftime("%Y")
+    month = today_usa.strftime("%m")
+    day = today_usa.strftime("%d")
+    return f"https://www.starz.com/us/en/schedule/STZ1/{year}/{month}/{day}", today_usa
 
-def parse_time_to_24h(time_str):
-    """Converteix format '11:45 PM' o '1:21 AM' a '234500' per al format XMLTV."""
+def convert_usa_to_cat_xmltv(time_str, base_date_usa):
+    """
+    Converteix una hora d'EUA (ex: '11:45 PM') a la data/hora exacta
+    de Catalunya en format XMLTV (YYYYMMDDHHMMSS +0200).
+    """
     try:
         time_str = time_str.strip().upper()
-        dt = datetime.datetime.strptime(time_str, "%I:%M %p")
-        return dt.strftime("%H%M%S")
+        time_obj = datetime.datetime.strptime(time_str, "%I:%M %p").time()
+        
+        # Combinar la data base d'EUA amb l'hora indicada
+        dt_usa = datetime.datetime.combine(base_date_usa.date(), time_obj)
+        dt_usa = TZ_USA.localize(dt_usa)
+        
+        # Convertir a l'horari de Catalunya
+        dt_cat = dt_usa.astimezone(TZ_CAT)
+        
+        # Retorna la cadena en format XMLTV: YYYYMMDDHHMMSS +0200
+        return dt_cat.strftime("%Y%m%d%H%M%S %z")
     except Exception:
-        return "000000"
+        dt_fallback = datetime.datetime.now(TZ_CAT)
+        return dt_fallback.strftime("%Y%m%d%H%M%S %z")
 
 def fetch_starz_schedule():
-    url, today_dt = get_starz_url_for_today()
+    url, today_usa = get_starz_url_for_today()
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
         "Accept-Language": "en-US,en;q=0.9"
     }
     
@@ -38,12 +56,11 @@ def fetch_starz_schedule():
         
         programs = []
         
-        # Mètode 1: Intentar extreure les dades des del JSON intern de Next.js
+        # Extracció mitjançant script JSON de la pàgina
         next_data_script = soup.find("script", id="__NEXT_DATA__")
         if next_data_script and next_data_script.string:
             try:
                 data = json.loads(next_data_script.string)
-                # Navegar en l'estructura JSON de Next.js si existeix
                 schedule_blocks = data.get("props", {}).get("pageProps", {}).get("schedule", [])
                 for item in schedule_blocks:
                     programs.append({
@@ -54,52 +71,21 @@ def fetch_starz_schedule():
                     })
             except Exception:
                 pass
-                
-        # Mètode 2: Fallback directament analitzant el contingut de text o HTML rendertitzat
-        if not programs:
-            # Buscar tots els blocs que continguin informació d'un programa
-            # En la web de STARZ, el text HTML conté patro com "11:45 PM" i títols de pel·lícula
-            text_content = soup.get_text()
-            
-            # Buscar patrons d'hora i títols en el DOM
-            items = soup.select("[class*='schedule'], [class*='Schedule'], article, section, div")
-            for item in items:
-                time_match = item.find(string=re.compile(r'\b\d{1,2}:\d{2}\s*(?:AM|PM)\b', re.IGNORECASE))
-                title_elem = item.find(['h2', 'h3', 'h4', 'a', 'strong'])
-                
-                if time_match and title_elem:
-                    t_text = title_elem.get_text(strip=True)
-                    if t_text and len(t_text) > 2 and t_text not in [p['title'] for p in programs]:
-                        # Buscar descripció i rating si estan en el mateix contenidor
-                        desc_elem = item.find('p')
-                        desc = desc_elem.get_text(strip=True) if desc_elem else ""
-                        
-                        rating_match = re.search(r'\b(TV-MA|PG-13|PG|R|G|TV-14)\b', item.get_text())
-                        rating = rating_match.group(1) if rating_match else ""
 
-                        programs.append({
-                            "title": t_text,
-                            "start_time": time_match.strip(),
-                            "desc": desc,
-                            "rating": rating
-                        })
-
-        return programs, today_dt
+        return programs, today_usa
     except Exception as e:
         print(f"Error carregant STARZ ({url}): {e}", file=sys.stderr)
-        return [], today_dt
+        return [], today_usa
 
-def generate_xmltv(programs, today_dt):
-    date_str = today_dt.strftime("%Y%m%d")
-    
-    tv = ET.Element("tv", {"generator-info-name": "STARZ-EPG-Scraper"})
+def generate_xmltv(programs, today_usa):
+    tv = ET.Element("tv", {"generator-info-name": "STARZ-EPG-Scraper-Catalunya"})
     
     channel = ET.SubElement(tv, "channel", id="starz-stz1")
     display_name = ET.SubElement(channel, "display-name")
     display_name.text = "STARZ STZ1"
     
     if not programs:
-        # Si la pàgina utilitza JavaScript pur i no s'extreu res, afegim els elements obtinguts del teu text
+        # Dades de mostra ajustades si no hi ha resposta directa
         sample_data = [
             {"title": "Trouble Man", "start": "11:45 PM", "desc": "A PI gets hired to find a missing R&B star...", "rating": "TV-MA"},
             {"title": "Fightland S1 E6 - There Is a War Coming", "start": "01:21 AM", "desc": "Duke prepares for his long-awaited shot at revenge...", "rating": "TV-MA"},
@@ -118,55 +104,45 @@ def generate_xmltv(programs, today_dt):
             {"title": "The Italian Job", "start": "09:05 PM", "desc": "Betrayed after a perfect heist, Charlie Croker teams with a safecracker...", "rating": "PG-13"},
             {"title": "Non-Stop", "start": "11:00 PM", "desc": "U.S. air marshal Bill Marks is thrust into a crisis...", "rating": "PG-13"}
         ]
+        programs = sample_data
+
+    for idx, item in enumerate(programs):
+        start_cat = convert_usa_to_cat_xmltv(item.get("start_time") or item.get("start"), today_usa)
         
-        for idx, item in enumerate(sample_data):
-            start_time = parse_time_to_24h(item["start"])
-            stop_time = parse_time_to_24h(sample_data[idx+1]["start"]) if idx+1 < len(sample_data) else "235959"
-            
-            prog = ET.SubElement(tv, "programme", {
-                "start": f"{date_str}{start_time} -0500",
-                "stop": f"{date_str}{stop_time} -0500",
-                "channel": "starz-stz1"
-            })
-            title = ET.SubElement(prog, "title", lang="en")
-            title.text = item["title"]
-            
+        # Càlcul de l'hora de finalització (stop_time)
+        if idx + 1 < len(programs):
+            next_item = programs[idx+1]
+            stop_cat = convert_usa_to_cat_xmltv(next_item.get("start_time") or next_item.get("start"), today_usa)
+        else:
+            # Si és l'últim programa, sumem 2 hores per defecte
+            start_dt = datetime.datetime.strptime(start_cat, "%Y%m%d%H%M%S %z")
+            stop_cat = (start_dt + datetime.timedelta(hours=2)).strftime("%Y%m%d%H%M%S %z")
+
+        prog = ET.SubElement(tv, "programme", {
+            "start": start_cat,
+            "stop": stop_cat,
+            "channel": "starz-stz1"
+        })
+        
+        title = ET.SubElement(prog, "title", lang="en")
+        title.text = item["title"]
+        
+        if item.get("desc"):
             desc = ET.SubElement(prog, "desc", lang="en")
             desc.text = item["desc"]
             
-            if item["rating"]:
-                rating = ET.SubElement(prog, "rating")
-                val = ET.SubElement(rating, "value")
-                val.text = item["rating"]
-    else:
-        for idx, item in enumerate(programs):
-            start_time = parse_time_to_24h(item["start_time"])
-            stop_time = parse_time_to_24h(programs[idx+1]["start_time"]) if idx+1 < len(programs) else "235959"
-            
-            prog = ET.SubElement(tv, "programme", {
-                "start": f"{date_str}{start_time} -0500",
-                "stop": f"{date_str}{stop_time} -0500",
-                "channel": "starz-stz1"
-            })
-            title = ET.SubElement(prog, "title", lang="en")
-            title.text = item["title"]
-            
-            if item.get("desc"):
-                desc = ET.SubElement(prog, "desc", lang="en")
-                desc.text = item["desc"]
-                
-            if item.get("rating"):
-                rating = ET.SubElement(prog, "rating")
-                val = ET.SubElement(rating, "value")
-                val.text = item["rating"]
+        if item.get("rating"):
+            rating = ET.SubElement(prog, "rating")
+            val = ET.SubElement(rating, "value")
+            val.text = item["rating"]
 
     rough_string = ET.tostring(tv, encoding="utf-8")
     reparsed = minidom.parseString(rough_string)
     return reparsed.toprettyxml(indent="  ")
 
 def main():
-    programs, today_dt = fetch_starz_schedule()
-    xml_content = generate_xmltv(programs, today_dt)
+    programs, today_usa = fetch_starz_schedule()
+    xml_content = generate_xmltv(programs, today_usa)
     
     with open("epg.xml", "w", encoding="utf-8") as f:
         f.write(xml_content)
