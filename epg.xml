@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<tv generator-info-name="STARZ-EPG-Scraper">
+  <channel id="starz-stz1">
+    <display-name>STARZ STZ1</display-name>
+  </channel>
+  <programme start="20260907000000 +0000" stop="20260907235959 +0000" channel="starz-stz1">
+    <title lang="en">STARZ Programming</title>
+  </programme>
+</tv>
