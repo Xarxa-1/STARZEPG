@@ -1,13 +1,6 @@
 <?xml version="1.0" ?>
-<tv generator-info-name="STARZ-EPG-Playwright-Realtime">
+<tv generator-info-name="STARZ-EPG-Catalunya">
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20260909044300 +0200" stop="20260909064500 +0200" channel="starz-stz1">
-    <title lang="en">CC</title>
-    <desc lang="en">A Bronx cop investigates a series of heinous events and meets a priest who tries to convince him that demonic possession is the root of the evil.</desc>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
 </tv>
