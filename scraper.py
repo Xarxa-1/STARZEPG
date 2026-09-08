@@ -4,144 +4,96 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import re
 import os
+import json
 import subprocess
 import pytz
 from bs4 import BeautifulSoup
 
-# Zones horàries
+# Zones horàries: Nova York (EDT/UTC-4) i Catalunya (CEST/UTC+2)
 TZ_NY = pytz.timezone("America/New_York")
 TZ_CAT = pytz.timezone("Europe/Madrid")
 
-def parse_time_string(time_str):
-    time_str = time_str.strip().upper()
-    return datetime.datetime.strptime(time_str, "%I:%M %p").time()
+def parse_iso_to_cat(iso_str):
+    """Converteix cadenes ISO/UTC a l'horari de Catalunya (%Y%m%d%H%M%S +0200)."""
+    try:
+        if not iso_str:
+            return None
+        dt = datetime.datetime.fromisoformat(iso_str.replace("Z", "+00:00"))
+        dt_cat = dt.astimezone(TZ_CAT)
+        return dt_cat.strftime("%Y%m%d%H%M%S %z")
+    except Exception:
+        return None
 
-def convert_range_ny_to_cat(time_range_str, base_date_ny):
-    clean_str = re.sub(r'\b(EST|EDT)\b', '', time_range_str, flags=re.IGNORECASE).strip()
-    parts = clean_str.split('-')
-    
-    if len(parts) != 2:
-        start_t = parse_time_string(clean_str)
-        dt_start_ny = TZ_NY.localize(datetime.datetime.combine(base_date_ny.date(), start_t))
-        dt_start_cat = dt_start_ny.astimezone(TZ_CAT)
-        dt_stop_cat = dt_start_cat + datetime.timedelta(hours=2)
-        return dt_start_cat.strftime("%Y%m%d%H%M%S %z"), dt_stop_cat.strftime("%Y%m%d%H%M%S %z")
-
-    start_str, stop_str = parts[0].strip(), parts[1].strip()
-    
-    if not re.search(r'(AM|PM)', start_str, re.IGNORECASE):
-        period = "PM" if "PM" in stop_str.upper() else "AM"
-        start_str = f"{start_str} {period}"
-
-    start_t = parse_time_string(start_str)
-    stop_t = parse_time_string(stop_str)
-
-    dt_start_ny = TZ_NY.localize(datetime.datetime.combine(base_date_ny.date(), start_t))
-    
-    stop_date = base_date_ny.date()
-    if stop_t < start_t:
-        stop_date += datetime.timedelta(days=1)
-        
-    dt_stop_ny = TZ_NY.localize(datetime.datetime.combine(stop_date, stop_t))
-
-    dt_start_cat = dt_start_ny.astimezone(TZ_CAT)
-    dt_stop_cat = dt_stop_ny.astimezone(TZ_CAT)
-
-    return dt_start_cat.strftime("%Y%m%d%H%M%S %z"), dt_stop_cat.strftime("%Y%m%d%H%M%S %z")
-
-def PAS_1_descarregar_amb_curl(url):
-    """Pas 1: Descarrega la web de STARZ bypassejant bot-detectors mitjançant curl natiu de Linux."""
-    print(f"PAS 1: Descarregant la pàgina web des de {url} utilitzant curl...")
-    
+def PAS_1_descarregar_html(url):
+    print(f"Descarregant pàgina des de {url}...")
     cmd = [
         "curl", "-s", "-L",
         "-A", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-        "-H", "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
         "-H", "Accept-Language: en-US,en;q=0.9",
-        "-H", "Sec-Fetch-Dest: document",
-        "-H", "Sec-Fetch-Mode: navigate",
-        "-H", "Sec-Fetch-Site: none",
-        "-H", "Sec-Fetch-User: ?1",
-        "-H", "Upgrade-Insecure-Requests: 1",
         url,
         "-o", "starz_page.html"
     ]
-    
     try:
         subprocess.run(cmd, check=True)
-        print("PAS 1 completat: 'starz_page.html' generat correctament.")
+        print("Pàgina 'starz_page.html' descarregada amb èxit.")
     except Exception as e:
-        print(f"Error en descarregar la pàgina amb curl: {e}", file=sys.stderr)
+        print(f"Error en descarregar amb curl: {e}", file=sys.stderr)
 
-def PAS_2_extraure_epg(now_ny):
-    """Pas 2: Analitza l'HTML o JSON contingut dins del fitxer descarregat."""
-    print("PAS 2: Analitzant el contingut de 'starz_page.html'...")
-    
+def PAS_2_extraure_next_data():
     if not os.path.exists("starz_page.html"):
-        print("Error: No existeix el fitxer starz_page.html", file=sys.stderr)
+        print("Error: No es troba el fitxer starz_page.html", file=sys.stderr)
         return []
 
     with open("starz_page.html", "r", encoding="utf-8", errors="ignore") as f:
-        content = f.read()
+        html_content = f.read()
+
+    soup = BeautifulSoup(html_content, "html.parser")
+    next_data_script = soup.find("script", id="__NEXT_DATA__")
+
+    if not next_data_script or not next_data_script.string:
+        print("Error: No s'ha trobat el tag __NEXT_DATA__ a l'HTML.", file=sys.stderr)
+        return []
+
+    print("S'ha trobat el bloc __NEXT_DATA__. Parsejant el JSON complet...")
+
+    try:
+        data = json.loads(next_data_script.string)
+    except Exception as e:
+        print(f"Error parsejant el JSON de __NEXT_DATA__: {e}", file=sys.stderr)
+        return []
 
     programs = []
 
-    # Cerquem si hi ha estructures de dades en text/json
-    json_blocks = re.findall(r'<script[^>]*type=["\']application/json["\'][^>]*>(.*?)</script>', content, re.DOTALL)
-    for block in json_blocks:
-        if "schedule" in block or "title" in block:
-            try:
-                import json
-                data = json.loads(block)
-                # Extreure recursivament del JSON si existeix
-                def find_titles(obj):
-                    if isinstance(obj, dict):
-                        if ("title" in obj or "titleName" in obj) and ("startTime" in obj or "airStart" in obj):
-                            t = obj.get("title") or obj.get("titleName")
-                            s = obj.get("startTime") or obj.get("airStart")
-                            e = obj.get("endTime") or obj.get("airEnd")
-                            d = obj.get("description") or obj.get("synopsis", "")
-                            r = obj.get("rating", "")
-                            if t and s:
-                                programs.append({"title": t, "start_iso": s, "end_iso": e, "desc": d, "rating": r})
-                        for v in obj.values():
-                            find_titles(v)
-                    elif isinstance(obj, list):
-                        for item in obj:
-                            find_titles(item)
-                find_titles(data)
-            except Exception:
-                pass
+    # Funció per recórrer recursivament l'objecte JSON de Next.js
+    def extract_schedules(obj):
+        if isinstance(obj, dict):
+            # Comprovar si l'element té estructura de programa amb títol i horari
+            title = obj.get("title") or obj.get("titleName") or obj.get("name")
+            start_iso = obj.get("startTime") or obj.get("airStart") or obj.get("start")
+            end_iso = obj.get("endTime") or obj.get("airEnd") or obj.get("end")
+            desc = obj.get("description") or obj.get("synopsis") or obj.get("logLine", "")
+            rating = obj.get("rating") or obj.get("contentRating", "")
 
-    # Si no troba blocs JSON interns, parseja el text HTML estructurat
-    if not programs:
-        soup = BeautifulSoup(content, "html.parser")
-        text_blocks = soup.get_text(separator="\n").split("\n")
-        lines = [l.strip() for l in text_blocks if l.strip()]
+            # Si trobem un bloc vàlid amb títol i data d'inici ISO
+            if title and start_iso and isinstance(start_iso, str) and ("T" in start_iso or "Z" in start_iso):
+                if not any(p["title"] == title and p["start_iso"] == start_iso for p in programs):
+                    programs.append({
+                        "title": title,
+                        "start_iso": start_iso,
+                        "end_iso": end_iso,
+                        "desc": desc,
+                        "rating": rating
+                    })
 
-        for idx, line in enumerate(lines):
-            # Cercar línies de temps (ex: "11:22 AM - 1:21 PM" o "11:22 AM - 1:21 PM EST")
-            match = re.search(r'\b\d{1,2}:\d{2}\s*(?:AM|PM)?\s*-\s*\d{1,2}:\d{2}\s*(?:AM|PM)?(?:\s*(?:EST|EDT))?\b', line, re.IGNORECASE)
-            if match:
-                time_range = match.group(0)
-                title = None
-                
-                # Agafar el títol adjacent que no sigui un botó de navegació
-                if idx > 0 and lines[idx-1] not in ["PLAY", "MORE INFO", "CC", "STARZ"]:
-                    title = lines[idx-1]
-                elif idx + 1 < len(lines):
-                    title = lines[idx+1]
+            for value in obj.values():
+                extract_schedules(value)
 
-                if title and len(title) > 1 and title not in ["PLAY", "MORE INFO", "CC"]:
-                    if not any(p.get("title") == title and p.get("time_range") == time_range for p in programs):
-                        programs.append({
-                            "title": title,
-                            "time_range": time_range,
-                            "desc": "",
-                            "rating": ""
-                        })
+        elif isinstance(obj, list):
+            for item in obj:
+                extract_schedules(item)
 
-    print(f"PAS 2 completat: S'han trobat {len(programs)} programes.")
+    extract_schedules(data)
+    print(f"S'han extret {len(programs)} programes del JSON de Next.js.")
     return programs
 
 def main():
@@ -149,50 +101,41 @@ def main():
     date_path = now_ny.strftime("%Y/%m/%d")
     url = f"https://www.starz.com/us/en/schedule/STZ1/{date_path}"
 
-    PAS_1_descarregar_amb_curl(url)
-    programs = PAS_2_extraure_epg(now_ny)
+    PAS_1_descarregar_html(url)
+    programs = PAS_2_extraure_next_data()
 
-    tv = ET.Element("tv", {"generator-info-name": "STARZ-EPG-Curl"})
+    tv = ET.Element("tv", {"generator-info-name": "STARZ-EPG-NextJS-Full"})
     channel = ET.SubElement(tv, "channel", id="starz-stz1")
     display_name = ET.SubElement(channel, "display-name")
     display_name.text = "STARZ STZ1"
 
     count = 0
     for item in programs:
-        try:
-            if "start_iso" in item and item["start_iso"]:
-                # Si ve d'un format ISO
-                dt_start = datetime.datetime.fromisoformat(item["start_iso"].replace("Z", "+00:00")).astimezone(TZ_CAT)
-                start_cat = dt_start.strftime("%Y%m%d%H%M%S %z")
-                stop_cat = start_cat
-                if item.get("end_iso"):
-                    dt_stop = datetime.datetime.fromisoformat(item["end_iso"].replace("Z", "+00:00")).astimezone(TZ_CAT)
-                    stop_cat = dt_stop.strftime("%Y%m%d%H%M%S %z")
-            else:
-                # Si ve del format de text d'interval
-                start_cat, stop_cat = convert_range_ny_to_cat(item["time_range"], now_ny)
+        start_cat = parse_iso_to_cat(item.get("start_iso"))
+        stop_cat = parse_iso_to_cat(item.get("end_iso")) or start_cat
 
-            prog = ET.SubElement(tv, "programme", {
-                "start": start_cat,
-                "stop": stop_cat,
-                "channel": "starz-stz1"
-            })
+        if not start_cat:
+            continue
+
+        prog = ET.SubElement(tv, "programme", {
+            "start": start_cat,
+            "stop": stop_cat,
+            "channel": "starz-stz1"
+        })
+        
+        title = ET.SubElement(prog, "title", lang="en")
+        title.text = item["title"]
+        
+        if item.get("desc"):
+            desc = ET.SubElement(prog, "desc", lang="en")
+            desc.text = item["desc"]
             
-            title = ET.SubElement(prog, "title", lang="en")
-            title.text = item["title"]
+        if item.get("rating"):
+            rating = ET.SubElement(prog, "rating")
+            val = ET.SubElement(rating, "value")
+            val.text = str(item["rating"])
             
-            if item.get("desc"):
-                desc = ET.SubElement(prog, "desc", lang="en")
-                desc.text = item["desc"]
-                
-            if item.get("rating"):
-                rating = ET.SubElement(prog, "rating")
-                val = ET.SubElement(rating, "value")
-                val.text = str(item["rating"])
-                
-            count += 1
-        except Exception as e:
-            print(f"Error en afegir programa {item.get('title')}: {e}")
+        count += 1
 
     rough_string = ET.tostring(tv, encoding="utf-8")
     reparsed = minidom.parseString(rough_string)
@@ -201,7 +144,7 @@ def main():
     with open("epg.xml", "w", encoding="utf-8") as f:
         f.write(xml_content)
         
-    print(f"Procés finalitzat. {count} programes escrits a epg.xml.")
+    print(f"Proces finalitzat. S'han escrit {count} programes a epg.xml.")
 
 if __name__ == "__main__":
     main()
