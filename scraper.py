@@ -1,35 +1,28 @@
-import json
-import re
 import sys
 import datetime
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
-import requests
-from bs4 import BeautifulSoup
+import re
 import pytz
+from playwright.sync_api import sync_playwright
 
-# Zones horàries exactes: Nova York (EDT / UTC-4) i Catalunya (CEST / UTC+2)
+# Zones horàries: Nova York (EDT / UTC-4) i Catalunya (CEST / UTC+2)
 TZ_NY = pytz.timezone("America/New_York")
 TZ_CAT = pytz.timezone("Europe/Madrid")
 
 def parse_time_string(time_str):
-    """
-    Converteix textos com '11:22 AM' o '1:21 PM' a un objecte datetime.time.
-    """
     time_str = time_str.strip().upper()
     return datetime.datetime.strptime(time_str, "%I:%M %p").time()
 
 def convert_range_ny_to_cat(time_range_str, base_date_ny):
     """
-    Processa intervals com '11:22 AM - 1:21 PM' o '11:45 PM - 1:21 AM EST'.
-    Suma exactament les 6 hores de diferència entre Nova York i Catalunya.
+    Converteix els intervals d'hora de Nova York (EDT) a Catalunya (CEST),
+    sumant les 6 hores de diferència i gestionant salts de dia.
     """
-    # Netejar el text i eliminar 'EST' o 'EDT'
     clean_str = re.sub(r'\b(EST|EDT)\b', '', time_range_str, flags=re.IGNORECASE).strip()
     
     parts = clean_str.split('-')
     if len(parts) != 2:
-        # Fallback si no hi ha interval
         start_t = parse_time_string(clean_str)
         dt_start_ny = TZ_NY.localize(datetime.datetime.combine(base_date_ny.date(), start_t))
         dt_start_cat = dt_start_ny.astimezone(TZ_CAT)
@@ -38,7 +31,6 @@ def convert_range_ny_to_cat(time_range_str, base_date_ny):
 
     start_str, stop_str = parts[0].strip(), parts[1].strip()
     
-    # Arreglar l'AM/PM de l'hora d'inici si no en té (ex: '11:22 - 1:21 PM')
     if not re.search(r'(AM|PM)', start_str, re.IGNORECASE):
         period = "PM" if "PM" in stop_str.upper() else "AM"
         start_str = f"{start_str} {period}"
@@ -48,69 +40,117 @@ def convert_range_ny_to_cat(time_range_str, base_date_ny):
 
     dt_start_ny = TZ_NY.localize(datetime.datetime.combine(base_date_ny.date(), start_t))
     
-    # Si l'hora de fi és menor que la d'inici, ha passat de la mitjanit a NY
     stop_date = base_date_ny.date()
     if stop_t < start_t:
         stop_date += datetime.timedelta(days=1)
         
     dt_stop_ny = TZ_NY.localize(datetime.datetime.combine(stop_date, stop_t))
 
-    # Conversió a l'horari de Catalunya (afegeix 6 hores exactes)
     dt_start_cat = dt_start_ny.astimezone(TZ_CAT)
     dt_stop_cat = dt_stop_ny.astimezone(TZ_CAT)
 
     return dt_start_cat.strftime("%Y%m%d%H%M%S %z"), dt_stop_cat.strftime("%Y%m%d%H%M%S %z")
 
-def main():
-    # Data actual a Nova York
+def scrape_starz_live():
     now_ny = datetime.datetime.now(TZ_NY)
-    
-    # Dades extretes de la graella de STARZ
-    raw_schedule = [
-        {"title": "Trouble Man", "time_range": "11:45 PM - 1:21 AM EST", "desc": "A PI gets hired to find a missing R&B star...", "rating": "TV-MA"},
-        {"title": "Fightland S1 E6 - There Is a War Coming", "time_range": "1:21 - 2:18 AM EST", "desc": "Duke prepares for his long-awaited shot at revenge...", "rating": "TV-MA"},
-        {"title": "Double Take", "time_range": "2:18 - 3:50 AM EST", "desc": "An investment banker is on the run to Mexico...", "rating": "PG-13"},
-        {"title": "Date And Switch", "time_range": "3:50 - 5:25 AM EST", "desc": "Two high school seniors make a pact to lose their virginity...", "rating": "R"},
-        {"title": "Scary Movie", "time_range": "5:25 - 6:55 AM EST", "desc": "Cindy and her friends are stalked by a masked killer...", "rating": "R"},
-        {"title": "The Italian Job", "time_range": "6:55 - 8:50 AM EST", "desc": "Betrayed after a perfect heist, Charlie Croker teams with a safecracker...", "rating": "PG-13"},
-        {"title": "Beast", "time_range": "8:50 - 10:45 AM EST", "desc": "When his brother is at risk, a former MMA champ steps back into the ring...", "rating": "R"},
-        {"title": "Non-Stop", "time_range": "10:45 AM - 12:35 PM EST", "desc": "U.S. air marshal Bill Marks is thrust into a crisis...", "rating": "PG-13"},
-        {"title": "Scary Movie", "time_range": "12:35 - 2:05 PM EST", "desc": "Cindy and her friends are stalked by a masked killer...", "rating": "R"},
-        {"title": "Scary Movie 2", "time_range": "2:05 - 3:30 PM EST", "desc": "Cindy and her friends sign up for a sleep study...", "rating": "R"},
-        {"title": "Scary Movie 3", "time_range": "3:30 - 4:55 PM EST", "desc": "Cindy must stop a deadly videotape curse...", "rating": "PG-13"},
-        {"title": "Beast", "time_range": "4:55 - 6:50 PM EST", "desc": "When his brother is at risk, a former MMA champ steps back into the ring...", "rating": "R"},
-        {"title": "Resurrection Road", "time_range": "6:50 - 8:10 PM EST", "desc": "Six soldiers infiltrate a Confederate fort in Arkansas...", "rating": "R"},
-        {"title": "Fightland S1 E6 - There Is a War Coming", "time_range": "8:10 - 9:05 PM EST", "desc": "Duke prepares for his long-awaited shot at revenge...", "rating": "TV-MA"},
-        {"title": "The Italian Job", "time_range": "9:05 - 11:00 PM EST", "desc": "Betrayed after a perfect heist, Charlie Croker teams with a safecracker...", "rating": "PG-13"},
-        {"title": "Non-Stop", "time_range": "11:00 PM - 12:50 AM EST", "desc": "U.S. air marshal Bill Marks is thrust into a crisis...", "rating": "PG-13"}
-    ]
+    year = now_ny.strftime("%Y")
+    month = now_ny.strftime("%m")
+    day = now_ny.strftime("%d")
+    url = f"https://www.starz.com/us/en/schedule/STZ1/{year}/{month}/{day}"
 
-    tv = ET.Element("tv", {"generator-info-name": "STARZ-EPG-Scraper-Exact-CAT"})
+    programs = []
+
+    with sync_playwright() as p:
+        # Arrencar un navegador virtual (headless)
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        )
+        page = context.new_page()
+        
+        try:
+            print(f"Carregant la graella real des de: {url}")
+            page.goto(url, wait_until="networkidle", timeout=30000)
+            
+            # Esperar a que el contingut de la programació estigui present
+            page.wait_for_selector("text=MORE INFO", timeout=15000)
+            
+            # Obtenir tots els blocs de programa de la pàgina
+            elements = page.query_selector_all("section, article, div[class*='Schedule'], div[class*='schedule']")
+            
+            for elem in elements:
+                text = elem.inner_text()
+                if "MORE INFO" in text or "PLAY" in text:
+                    lines = [line.strip() for line in text.split('\n') if line.strip()]
+                    
+                    title = ""
+                    time_range = ""
+                    desc = ""
+                    rating = ""
+
+                    for idx, line in enumerate(lines):
+                        # Buscar línies d'interval horari com '11:22 AM - 1:21 PM EST'
+                        if re.search(r'\d{1,2}:\d{2}.*?-.*?\d{1,2}:\d{2}', line):
+                            time_range = line
+                            if idx > 0 and not title:
+                                title = lines[idx-1]
+                        
+                        if line in ["TV-MA", "PG-13", "PG", "R", "G", "TV-14"]:
+                            rating = line
+                            
+                        if len(line) > 30 and not line.startswith("http") and "STARZ" not in line:
+                            desc = line
+
+                    if title and time_range and title not in [p["title"] for p in programs]:
+                        programs.append({
+                            "title": title,
+                            "time_range": time_range,
+                            "desc": desc,
+                            "rating": rating
+                        })
+
+        except Exception as e:
+            print(f"Error durant l'scraping dinàmic: {e}", file=sys.stderr)
+        finally:
+            browser.close()
+
+    return programs, now_ny
+
+def main():
+    programs, now_ny = scrape_starz_live()
     
+    tv = ET.Element("tv", {"generator-info-name": "STARZ-EPG-Playwright-Realtime"})
     channel = ET.SubElement(tv, "channel", id="starz-stz1")
     display_name = ET.SubElement(channel, "display-name")
     display_name.text = "STARZ STZ1"
 
-    for item in raw_schedule:
-        start_cat, stop_cat = convert_range_ny_to_cat(item["time_range"], now_ny)
-        
-        prog = ET.SubElement(tv, "programme", {
-            "start": start_cat,
-            "stop": stop_cat,
-            "channel": "starz-stz1"
-        })
-        
-        title = ET.SubElement(prog, "title", lang="en")
-        title.text = item["title"]
-        
-        if item.get("desc"):
-            desc = ET.SubElement(prog, "desc", lang="en")
-            desc.text = item["desc"]
+    if not programs:
+        print("Atenció: No s'han pogut extreure programes en directe.")
+        return
+
+    for item in programs:
+        try:
+            start_cat, stop_cat = convert_range_ny_to_cat(item["time_range"], now_ny)
             
-        if item.get("rating"):
-            rating = ET.SubElement(prog, "rating")
-            val = ET.SubElement(rating, "value")
-            val.text = item["rating"]
+            prog = ET.SubElement(tv, "programme", {
+                "start": start_cat,
+                "stop": stop_cat,
+                "channel": "starz-stz1"
+            })
+            
+            title = ET.SubElement(prog, "title", lang="en")
+            title.text = item["title"]
+            
+            if item.get("desc"):
+                desc = ET.SubElement(prog, "desc", lang="en")
+                desc.text = item["desc"]
+                
+            if item.get("rating"):
+                rating = ET.SubElement(prog, "rating")
+                val = ET.SubElement(rating, "value")
+                val.text = item["rating"]
+        except Exception as e:
+            print(f"Error processant el programa {item.get('title')}: {e}")
 
     rough_string = ET.tostring(tv, encoding="utf-8")
     reparsed = minidom.parseString(rough_string)
