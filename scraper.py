@@ -4,9 +4,9 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import re
 import os
+import subprocess
 import pytz
 from bs4 import BeautifulSoup
-from playwright.sync_api import sync_playwright
 
 # Zones horàries
 TZ_NY = pytz.timezone("America/New_York")
@@ -49,113 +49,110 @@ def convert_range_ny_to_cat(time_range_str, base_date_ny):
 
     return dt_start_cat.strftime("%Y%m%d%H%M%S %z"), dt_stop_cat.strftime("%Y%m%d%H%M%S %z")
 
-
-def PAS_1_descarregar_html_complet(url):
-    """Pas 1: Obre la web amb un navegador real, espera que carregui i ho guarda a 'starz_page.html'."""
-    print(f"PAS 1: Descarregant la pàgina web des de {url}...")
+def PAS_1_descarregar_amb_curl(url):
+    """Pas 1: Descarrega la web de STARZ bypassejant bot-detectors mitjançant curl natiu de Linux."""
+    print(f"PAS 1: Descarregant la pàgina web des de {url} utilitzant curl...")
     
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-            viewport={"width": 1920, "height": 1080}
-        )
-        page = context.new_page()
-        
-        try:
-            page.goto(url, wait_until="networkidle", timeout=45000)
-            page.wait_for_timeout(5000)  # Espera 5 segons extra per assegurar-nos que tot el JS s'ha executat
-            
-            # Fer un desplaçament (scroll) per forçar la càrrega de tots els elements de la graella
-            page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-            page.wait_for_timeout(2000)
+    cmd = [
+        "curl", "-s", "-L",
+        "-A", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "-H", "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "-H", "Accept-Language: en-US,en;q=0.9",
+        "-H", "Sec-Fetch-Dest: document",
+        "-H", "Sec-Fetch-Mode: navigate",
+        "-H", "Sec-Fetch-Site: none",
+        "-H", "Sec-Fetch-User: ?1",
+        "-H", "Upgrade-Insecure-Requests: 1",
+        url,
+        "-o", "starz_page.html"
+    ]
+    
+    try:
+        subprocess.run(cmd, check=True)
+        print("PAS 1 completat: 'starz_page.html' generat correctament.")
+    except Exception as e:
+        print(f"Error en descarregar la pàgina amb curl: {e}", file=sys.stderr)
 
-            html_content = page.content()
-            
-            with open("starz_page.html", "w", encoding="utf-8") as f:
-                f.write(html_content)
-                
-            print("PAS 1 completat: S'ha descarregat i guardat 'starz_page.html' correctament.")
-        except Exception as e:
-            print(f"Error en descarregar la pàgina: {e}", file=sys.stderr)
-        finally:
-            browser.close()
-
-
-def PAS_2_extraure_epg_des_de_html(now_ny):
-    """Pas 2: Llegeix el fitxer local 'starz_page.html' i extreu la programació."""
-    print("PAS 2: Processant el fitxer 'starz_page.html' local...")
+def PAS_2_extraure_epg(now_ny):
+    """Pas 2: Analitza l'HTML o JSON contingut dins del fitxer descarregat."""
+    print("PAS 2: Analitzant el contingut de 'starz_page.html'...")
     
     if not os.path.exists("starz_page.html"):
-        print("Error: No es troba el fitxer starz_page.html", file=sys.stderr)
+        print("Error: No existeix el fitxer starz_page.html", file=sys.stderr)
         return []
 
-    with open("starz_page.html", "r", encoding="utf-8") as f:
-        html_content = f.read()
+    with open("starz_page.html", "r", encoding="utf-8", errors="ignore") as f:
+        content = f.read()
 
-    soup = BeautifulSoup(html_content, "html.parser")
     programs = []
 
-    # Cerquem tots els blocs de programa a l'HTML descarregat
-    cards = soup.find_all(re.compile(r'div|section|article'))
+    # Cerquem si hi ha estructures de dades en text/json
+    json_blocks = re.findall(r'<script[^>]*type=["\']application/json["\'][^>]*>(.*?)</script>', content, re.DOTALL)
+    for block in json_blocks:
+        if "schedule" in block or "title" in block:
+            try:
+                import json
+                data = json.loads(block)
+                # Extreure recursivament del JSON si existeix
+                def find_titles(obj):
+                    if isinstance(obj, dict):
+                        if ("title" in obj or "titleName" in obj) and ("startTime" in obj or "airStart" in obj):
+                            t = obj.get("title") or obj.get("titleName")
+                            s = obj.get("startTime") or obj.get("airStart")
+                            e = obj.get("endTime") or obj.get("airEnd")
+                            d = obj.get("description") or obj.get("synopsis", "")
+                            r = obj.get("rating", "")
+                            if t and s:
+                                programs.append({"title": t, "start_iso": s, "end_iso": e, "desc": d, "rating": r})
+                        for v in obj.values():
+                            find_titles(v)
+                    elif isinstance(obj, list):
+                        for item in obj:
+                            find_titles(item)
+                find_titles(data)
+            except Exception:
+                pass
 
-    for card in cards:
-        text = card.get_text(separator="\n").strip()
-        lines = [line.strip() for line in text.split("\n") if line.strip()]
-        
-        time_range = None
-        title = None
-        desc = ""
-        rating = ""
+    # Si no troba blocs JSON interns, parseja el text HTML estructurat
+    if not programs:
+        soup = BeautifulSoup(content, "html.parser")
+        text_blocks = soup.get_text(separator="\n").split("\n")
+        lines = [l.strip() for l in text_blocks if l.strip()]
 
-        # Busquem la línia que conté l'interval horari (ex: "11:22 AM - 1:21 PM")
         for idx, line in enumerate(lines):
+            # Cercar línies de temps (ex: "11:22 AM - 1:21 PM" o "11:22 AM - 1:21 PM EST")
             match = re.search(r'\b\d{1,2}:\d{2}\s*(?:AM|PM)?\s*-\s*\d{1,2}:\d{2}\s*(?:AM|PM)?(?:\s*(?:EST|EDT))?\b', line, re.IGNORECASE)
             if match:
                 time_range = match.group(0)
+                title = None
                 
-                # Normalment el títol està just abans o després de la línia de l'hora
-                if idx > 0 and lines[idx-1] not in ["PLAY", "MORE INFO", "CC"]:
+                # Agafar el títol adjacent que no sigui un botó de navegació
+                if idx > 0 and lines[idx-1] not in ["PLAY", "MORE INFO", "CC", "STARZ"]:
                     title = lines[idx-1]
                 elif idx + 1 < len(lines):
                     title = lines[idx+1]
-                break
 
-        if time_range and title:
-            # Ignorem títols buits o genèrics
-            if title in ["PLAY", "MORE INFO", "CC", "STARZ"] or len(title) < 2:
-                continue
+                if title and len(title) > 1 and title not in ["PLAY", "MORE INFO", "CC"]:
+                    if not any(p.get("title") == title and p.get("time_range") == time_range for p in programs):
+                        programs.append({
+                            "title": title,
+                            "time_range": time_range,
+                            "desc": "",
+                            "rating": ""
+                        })
 
-            for l in lines:
-                if l in ["TV-MA", "PG-13", "PG", "R", "G", "TV-14"]:
-                    rating = l
-                elif len(l) > 35 and "STARZ" not in l and not l.startswith("http"):
-                    desc = l
-
-            # Assegurem no afegir duplicats
-            if not any(p["title"] == title and p["time_range"] == time_range for p in programs):
-                programs.append({
-                    "title": title,
-                    "time_range": time_range,
-                    "desc": desc,
-                    "rating": rating
-                })
-
-    print(f"PAS 2 completat: S'han trobat {len(programs)} programes a l'HTML.")
+    print(f"PAS 2 completat: S'han trobat {len(programs)} programes.")
     return programs
-
 
 def main():
     now_ny = datetime.datetime.now(TZ_NY)
     date_path = now_ny.strftime("%Y/%m/%d")
     url = f"https://www.starz.com/us/en/schedule/STZ1/{date_path}"
 
-    # Execució dels dos passos
-    PAS_1_descarregar_html_complet(url)
-    programs = PAS_2_extraure_epg_des_de_html(now_ny)
+    PAS_1_descarregar_amb_curl(url)
+    programs = PAS_2_extraure_epg(now_ny)
 
-    # Generació del fitxer XMLTV
-    tv = ET.Element("tv", {"generator-info-name": "STARZ-EPG-Dos-Passos"})
+    tv = ET.Element("tv", {"generator-info-name": "STARZ-EPG-Curl"})
     channel = ET.SubElement(tv, "channel", id="starz-stz1")
     display_name = ET.SubElement(channel, "display-name")
     display_name.text = "STARZ STZ1"
@@ -163,8 +160,18 @@ def main():
     count = 0
     for item in programs:
         try:
-            start_cat, stop_cat = convert_range_ny_to_cat(item["time_range"], now_ny)
-            
+            if "start_iso" in item and item["start_iso"]:
+                # Si ve d'un format ISO
+                dt_start = datetime.datetime.fromisoformat(item["start_iso"].replace("Z", "+00:00")).astimezone(TZ_CAT)
+                start_cat = dt_start.strftime("%Y%m%d%H%M%S %z")
+                stop_cat = start_cat
+                if item.get("end_iso"):
+                    dt_stop = datetime.datetime.fromisoformat(item["end_iso"].replace("Z", "+00:00")).astimezone(TZ_CAT)
+                    stop_cat = dt_stop.strftime("%Y%m%d%H%M%S %z")
+            else:
+                # Si ve del format de text d'interval
+                start_cat, stop_cat = convert_range_ny_to_cat(item["time_range"], now_ny)
+
             prog = ET.SubElement(tv, "programme", {
                 "start": start_cat,
                 "stop": stop_cat,
@@ -181,11 +188,11 @@ def main():
             if item.get("rating"):
                 rating = ET.SubElement(prog, "rating")
                 val = ET.SubElement(rating, "value")
-                val.text = item["rating"]
+                val.text = str(item["rating"])
                 
             count += 1
         except Exception as e:
-            print(f"Error convertint el programa {item.get('title')}: {e}")
+            print(f"Error en afegir programa {item.get('title')}: {e}")
 
     rough_string = ET.tostring(tv, encoding="utf-8")
     reparsed = minidom.parseString(rough_string)
@@ -194,7 +201,7 @@ def main():
     with open("epg.xml", "w", encoding="utf-8") as f:
         f.write(xml_content)
         
-    print(f"S'ha generat l'EPG final amb {count} programes a epg.xml.")
+    print(f"Procés finalitzat. {count} programes escrits a epg.xml.")
 
 if __name__ == "__main__":
     main()
