@@ -1,6 +1,62 @@
 <?xml version="1.0" ?>
-<tv generator-info-name="STARZ-EPG-Curl">
+<tv generator-info-name="STARZ-EPG-NextJS-Full">
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
+  <programme start="20260908050000 +0200" stop="20260908065000 +0200" channel="starz-stz1">
+    <title lang="en">Non-Stop</title>
+    <desc lang="en">U.S. air marshal Bill Marks is thrust into a crisis when a passenger's life is threatened every 20 minutes unless $150 million is transferred.</desc>
+  </programme>
+  <programme start="20260908065000 +0200" stop="20260908082600 +0200" channel="starz-stz1">
+    <title lang="en">The Take</title>
+    <desc lang="en">A young pickpocket and an unruly CIA agent team up on an anti-terrorist mission in France.</desc>
+  </programme>
+  <programme start="20260908082600 +0200" stop="20260908101000 +0200" channel="starz-stz1">
+    <title lang="en">Righteous Kill</title>
+    <desc lang="en">Two veteran detectives hunt a vigilante targeting criminals, but links to an old case raise doubts about their past and who they can trust.</desc>
+  </programme>
+  <programme start="20260908101000 +0200" stop="20260908121300 +0200" channel="starz-stz1">
+    <title lang="en">Instant Family</title>
+    <desc lang="en">A couple adopts through foster care, only to be overwhelmed when three wild kids suddenly join their home.</desc>
+  </programme>
+  <programme start="20260908121300 +0200" stop="20260908133800 +0200" channel="starz-stz1">
+    <title lang="en">Scary Movie 2</title>
+    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
+  </programme>
+  <programme start="20260908133800 +0200" stop="20260908150400 +0200" channel="starz-stz1">
+    <title lang="en">Scary Movie 3</title>
+    <desc lang="en">Cindy must stop a deadly videotape curse while dealing with crop circles, an awkward farmer and a ghost girl determined to ruin everyone's week.</desc>
+  </programme>
+  <programme start="20260908150400 +0200" stop="20260908172200 +0200" channel="starz-stz1">
+    <title lang="en">Love Actually</title>
+    <desc lang="en">A prime minister, an office worker, a pop star, a jilted writer, married couples and various others deal with relationships in London.</desc>
+  </programme>
+  <programme start="20260908172200 +0200" stop="20260908192100 +0200" channel="starz-stz1">
+    <title lang="en">The Other Boleyn Girl</title>
+    <desc lang="en">Two sisters - one is an innocent and the other a schemer - both vie for the attentions of England's King Henry VIII.</desc>
+  </programme>
+  <programme start="20260908192100 +0200" stop="20260908210500 +0200" channel="starz-stz1">
+    <title lang="en">Man Of The House</title>
+    <desc lang="en">A by-the-book Texas Ranger finds himself going undercover as a live-in coach to protect a group of college cheerleaders who witnessed a murder.</desc>
+  </programme>
+  <programme start="20260908210500 +0200" stop="20260908225000 +0200" channel="starz-stz1">
+    <title lang="en">Zookeeper</title>
+    <desc lang="en">When a love-struck zookeeper can't land the girl of his dreams, help comes from an unlikely source: the animals at the zoo agree to help!</desc>
+  </programme>
+  <programme start="20260908225000 +0200" stop="20260909005100 +0200" channel="starz-stz1">
+    <title lang="en">Instant Family</title>
+    <desc lang="en">A couple adopts through foster care, only to be overwhelmed when three wild kids suddenly join their home.</desc>
+  </programme>
+  <programme start="20260909005100 +0200" stop="20260909024500 +0200" channel="starz-stz1">
+    <title lang="en">The Kingdom</title>
+    <desc lang="en">Sent to Saudi Arabia to investigate a bombing, FBI agents team up with local officers. Their search for answers leads them to a deadly confrontation.</desc>
+  </programme>
+  <programme start="20260909024500 +0200" stop="20260909044300 +0200" channel="starz-stz1">
+    <title lang="en">Beast</title>
+    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
+  </programme>
+  <programme start="20260909044300 +0200" stop="20260909064500 +0200" channel="starz-stz1">
+    <title lang="en">Deliver Us From Evil</title>
+    <desc lang="en">A Bronx cop investigates a series of heinous events and meets a priest who tries to convince him that demonic possession is the root of the evil.</desc>
+  </programme>
 </tv>
