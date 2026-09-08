@@ -1,9 +1,9 @@
 <?xml version="1.0" ?>
-<tv generator-info-name="STARZ-EPG-Scraper-Catalunya">
+<tv generator-info-name="STARZ-EPG-Scraper-Exact-CAT">
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20260909054500 +0200" stop="20260908072100 +0200" channel="starz-stz1">
+  <programme start="20260909054500 +0200" stop="20260909072100 +0200" channel="starz-stz1">
     <title lang="en">Trouble Man</title>
     <desc lang="en">A PI gets hired to find a missing R&amp;B star...</desc>
     <rating>
@@ -108,7 +108,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20260909050000 +0200" stop="20260909070000 +0200" channel="starz-stz1">
+  <programme start="20260909050000 +0200" stop="20260909065000 +0200" channel="starz-stz1">
     <title lang="en">Non-Stop</title>
     <desc lang="en">U.S. air marshal Bill Marks is thrust into a crisis...</desc>
     <rating>
