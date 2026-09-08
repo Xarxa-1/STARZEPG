@@ -1,4 +1,4 @@
-name: Actualitzador EPG STARZ en Temps Real
+name: Actualitzador EPG STARZ API
 
 on:
   schedule:
@@ -20,14 +20,10 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Instal·lar Dependències de Python
+      - name: Instal·lar Dependències
         run: pip install -r requirements.txt
 
-      - name: Instal·lar Navegador Playwright
-        run: |
-          python -m playwright install --with-deps chromium
-
-      - name: Executar Scraper Dinàmic
+      - name: Executar Scraper API
         run: python scraper.py
 
       - name: Guardar canvis a GitHub
