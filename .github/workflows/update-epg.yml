@@ -1,4 +1,4 @@
-name: Actualitzador EPG STARZ (2 Passos)
+name: Actualitzador EPG STARZ (Curl Directe)
 
 on:
   schedule:
@@ -23,10 +23,7 @@ jobs:
       - name: Instal·lar Dependències
         run: pip install -r requirements.txt
 
-      - name: Instal·lar Navegador Playwright
-        run: python -m playwright install --with-deps chromium
-
-      - name: Executar Scraper (Descarrega HTML + Extrau EPG)
+      - name: Executar Scraper
         run: python scraper.py
 
       - name: Guardar canvis a GitHub
