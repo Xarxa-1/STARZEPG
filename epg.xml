@@ -3,56 +3,64 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20260909044300 +0200" stop="20260909064500 +0200" channel="starz-stz1">
-    <title lang="en">Deliver Us From Evil</title>
-    <desc lang="en">A Bronx cop investigates a series of heinous events and meets a priest who tries to convince him that demonic possession is the root of the evil.</desc>
-  </programme>
-  <programme start="20260909064500 +0200" stop="20260909082500 +0200" channel="starz-stz1">
-    <title lang="en">Bones</title>
-    <desc lang="en">After betrayal and murder, a slain neighborhood protector returns from the grave to seek vengeance on the children of the man who killed him.</desc>
-  </programme>
-  <programme start="20260909082500 +0200" stop="20260909100000 +0200" channel="starz-stz1">
-    <title lang="en">Code Name: The Cleaner</title>
-    <desc lang="en">Entangled in a government conspiracy and a love triangle, Jake's only hope of survival is to become one thing - Code Name: The Cleaner!</desc>
-  </programme>
-  <programme start="20260909105000 +0200" stop="20260909124500 +0200" channel="starz-stz1">
-    <title lang="en">Beast</title>
-    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
-  </programme>
-  <programme start="20260909124500 +0200" stop="20260909144400 +0200" channel="starz-stz1">
-    <title lang="en">3 Days To Kill</title>
-    <desc lang="en">A CIA agent trying to reconnect with his daughter is offered an experimental drug that could save his life in exchange for one last assignment.</desc>
-  </programme>
-  <programme start="20260909144400 +0200" stop="20260909170400 +0200" channel="starz-stz1">
-    <title lang="en">Shutter Island</title>
-    <desc lang="en">When U.S. Marshal Teddy Daniels arrives at the asylum for the criminally insane on Shutter Island, he uncovers terrifying truths about the island.</desc>
-  </programme>
-  <programme start="20260909170400 +0200" stop="20260909185800 +0200" channel="starz-stz1">
-    <title lang="en">The Kingdom</title>
-    <desc lang="en">Sent to Saudi Arabia to investigate a bombing, FBI agents team up with local officers. Their search for answers leads them to a deadly confrontation.</desc>
-  </programme>
-  <programme start="20260909185800 +0200" stop="20260909203700 +0200" channel="starz-stz1">
-    <title lang="en">Turbulence</title>
-    <desc lang="en">A hot air balloon ride takes an unexpected turn when a third passenger joins, sparking events they never imagined five thousand meters in the air.</desc>
-  </programme>
-  <programme start="20260909203700 +0200" stop="20260909223500 +0200" channel="starz-stz1">
-    <title lang="en">Beast</title>
-    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
-  </programme>
-  <programme start="20260909223500 +0200" stop="20260910005500 +0200" channel="starz-stz1">
-    <title lang="en">Shutter Island</title>
-    <desc lang="en">When U.S. Marshal Teddy Daniels arrives at the asylum for the criminally insane on Shutter Island, he uncovers terrifying truths about the island.</desc>
-  </programme>
-  <programme start="20260910005500 +0200" stop="20260910030000 +0200" channel="starz-stz1">
-    <title lang="en">Underworld</title>
-    <desc lang="en">Selene, a vampire warrior, is in a war between vampires and werewolves - then she falls in love with Michael, a werewolf who longs for the war to end.</desc>
-  </programme>
-  <programme start="20260910030000 +0200" stop="20260910045000 +0200" channel="starz-stz1">
-    <title lang="en">Underworld: Evolution</title>
-    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
-  </programme>
   <programme start="20260910045000 +0200" stop="20260910062500 +0200" channel="starz-stz1">
     <title lang="en">Underworld: Rise Of The Lycans</title>
     <desc lang="en">A thousand years ago, the Death Dealer vampires enslaved the werewolf Lycans - but they broke free and began a battle that has lasted centuries!</desc>
+  </programme>
+  <programme start="20260910062500 +0200" stop="20260910075700 +0200" channel="starz-stz1">
+    <title lang="en">Underworld: Awakening</title>
+    <desc lang="en">When humans uncover the existence of Vampire and Lycan clans, a war erupts. Vampire warrior Selene takes charge in the fight against humanity.</desc>
+  </programme>
+  <programme start="20260910075700 +0200" stop="20260910101500 +0200" channel="starz-stz1">
+    <title lang="en">The Bourne Legacy</title>
+    <desc lang="en">As Jason Bourne exposes covert operations, a new agent becomes the target of a deadly cover-up protecting a secret government program.</desc>
+  </programme>
+  <programme start="20260910101500 +0200" stop="20260910114200 +0200" channel="starz-stz1">
+    <title lang="en">Freight: The Five Incarnations of Abel Green</title>
+    <desc lang="en">Abel lives five lives across time, guided and hindered by recurring characters who shape his destiny.</desc>
+  </programme>
+  <programme start="20260910114200 +0200" stop="20260910134700 +0200" channel="starz-stz1">
+    <title lang="en">Underworld</title>
+    <desc lang="en">Selene, a vampire warrior, is in a war between vampires and werewolves - then she falls in love with Michael, a werewolf who longs for the war to end.</desc>
+  </programme>
+  <programme start="20260910134700 +0200" stop="20260910153700 +0200" channel="starz-stz1">
+    <title lang="en">Underworld: Evolution</title>
+    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
+  </programme>
+  <programme start="20260910153700 +0200" stop="20260910171200 +0200" channel="starz-stz1">
+    <title lang="en">Underworld: Rise Of The Lycans</title>
+    <desc lang="en">A thousand years ago, the Death Dealer vampires enslaved the werewolf Lycans - but they broke free and began a battle that has lasted centuries!</desc>
+  </programme>
+  <programme start="20260910171200 +0200" stop="20260910184400 +0200" channel="starz-stz1">
+    <title lang="en">Underworld: Awakening</title>
+    <desc lang="en">When humans uncover the existence of Vampire and Lycan clans, a war erupts. Vampire warrior Selene takes charge in the fight against humanity.</desc>
+  </programme>
+  <programme start="20260910184400 +0200" stop="20260910210200 +0200" channel="starz-stz1">
+    <title lang="en">The Bourne Legacy</title>
+    <desc lang="en">As Jason Bourne exposes covert operations, a new agent becomes the target of a deadly cover-up protecting a secret government program.</desc>
+  </programme>
+  <programme start="20260910210200 +0200" stop="20260910223900 +0200" channel="starz-stz1">
+    <title lang="en">Blood And Bone</title>
+    <desc lang="en">An ex-convict shakes up Los Angeles' underground fighting scene as he pursues a promise made to a friend.</desc>
+  </programme>
+  <programme start="20260910223900 +0200" stop="20260911001000 +0200" channel="starz-stz1">
+    <title lang="en">Priest</title>
+    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
+  </programme>
+  <programme start="20260911001000 +0200" stop="20260911014500 +0200" channel="starz-stz1">
+    <title lang="en">The Take</title>
+    <desc lang="en">A young pickpocket and an unruly CIA agent team up on an anti-terrorist mission in France.</desc>
+  </programme>
+  <programme start="20260911014500 +0200" stop="20260911040300 +0200" channel="starz-stz1">
+    <title lang="en">The Bourne Legacy</title>
+    <desc lang="en">As Jason Bourne exposes covert operations, a new agent becomes the target of a deadly cover-up protecting a secret government program.</desc>
+  </programme>
+  <programme start="20260911040300 +0200" stop="20260911050000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E6 - There Is a War Coming</title>
+    <desc lang="en">Duke prepares for his long-awaited shot at revenge, while others take matters into their own hands.</desc>
+  </programme>
+  <programme start="20260911050000 +0200" stop="20260911063700 +0200" channel="starz-stz1">
+    <title lang="en">Blood And Bone</title>
+    <desc lang="en">An ex-convict shakes up Los Angeles' underground fighting scene as he pursues a promise made to a friend.</desc>
   </programme>
 </tv>
