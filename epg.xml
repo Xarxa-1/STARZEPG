@@ -3,64 +3,76 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20260910045000 +0200" stop="20260910062500 +0200" channel="starz-stz1">
-    <title lang="en">Underworld: Rise Of The Lycans</title>
-    <desc lang="en">A thousand years ago, the Death Dealer vampires enslaved the werewolf Lycans - but they broke free and began a battle that has lasted centuries!</desc>
-  </programme>
-  <programme start="20260910062500 +0200" stop="20260910075700 +0200" channel="starz-stz1">
-    <title lang="en">Underworld: Awakening</title>
-    <desc lang="en">When humans uncover the existence of Vampire and Lycan clans, a war erupts. Vampire warrior Selene takes charge in the fight against humanity.</desc>
-  </programme>
-  <programme start="20260910075700 +0200" stop="20260910101500 +0200" channel="starz-stz1">
-    <title lang="en">The Bourne Legacy</title>
-    <desc lang="en">As Jason Bourne exposes covert operations, a new agent becomes the target of a deadly cover-up protecting a secret government program.</desc>
-  </programme>
-  <programme start="20260910101500 +0200" stop="20260910114200 +0200" channel="starz-stz1">
-    <title lang="en">Freight: The Five Incarnations of Abel Green</title>
-    <desc lang="en">Abel lives five lives across time, guided and hindered by recurring characters who shape his destiny.</desc>
-  </programme>
-  <programme start="20260910114200 +0200" stop="20260910134700 +0200" channel="starz-stz1">
-    <title lang="en">Underworld</title>
-    <desc lang="en">Selene, a vampire warrior, is in a war between vampires and werewolves - then she falls in love with Michael, a werewolf who longs for the war to end.</desc>
-  </programme>
-  <programme start="20260910134700 +0200" stop="20260910153700 +0200" channel="starz-stz1">
-    <title lang="en">Underworld: Evolution</title>
-    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
-  </programme>
-  <programme start="20260910153700 +0200" stop="20260910171200 +0200" channel="starz-stz1">
-    <title lang="en">Underworld: Rise Of The Lycans</title>
-    <desc lang="en">A thousand years ago, the Death Dealer vampires enslaved the werewolf Lycans - but they broke free and began a battle that has lasted centuries!</desc>
-  </programme>
-  <programme start="20260910171200 +0200" stop="20260910184400 +0200" channel="starz-stz1">
-    <title lang="en">Underworld: Awakening</title>
-    <desc lang="en">When humans uncover the existence of Vampire and Lycan clans, a war erupts. Vampire warrior Selene takes charge in the fight against humanity.</desc>
-  </programme>
-  <programme start="20260910184400 +0200" stop="20260910210200 +0200" channel="starz-stz1">
-    <title lang="en">The Bourne Legacy</title>
-    <desc lang="en">As Jason Bourne exposes covert operations, a new agent becomes the target of a deadly cover-up protecting a secret government program.</desc>
-  </programme>
-  <programme start="20260910210200 +0200" stop="20260910223900 +0200" channel="starz-stz1">
-    <title lang="en">Blood And Bone</title>
-    <desc lang="en">An ex-convict shakes up Los Angeles' underground fighting scene as he pursues a promise made to a friend.</desc>
-  </programme>
-  <programme start="20260910223900 +0200" stop="20260911001000 +0200" channel="starz-stz1">
-    <title lang="en">Priest</title>
-    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
-  </programme>
-  <programme start="20260911001000 +0200" stop="20260911014500 +0200" channel="starz-stz1">
-    <title lang="en">The Take</title>
-    <desc lang="en">A young pickpocket and an unruly CIA agent team up on an anti-terrorist mission in France.</desc>
-  </programme>
-  <programme start="20260911014500 +0200" stop="20260911040300 +0200" channel="starz-stz1">
-    <title lang="en">The Bourne Legacy</title>
-    <desc lang="en">As Jason Bourne exposes covert operations, a new agent becomes the target of a deadly cover-up protecting a secret government program.</desc>
-  </programme>
-  <programme start="20260911040300 +0200" stop="20260911050000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E6 - There Is a War Coming</title>
-    <desc lang="en">Duke prepares for his long-awaited shot at revenge, while others take matters into their own hands.</desc>
-  </programme>
   <programme start="20260911050000 +0200" stop="20260911063700 +0200" channel="starz-stz1">
     <title lang="en">Blood And Bone</title>
     <desc lang="en">An ex-convict shakes up Los Angeles' underground fighting scene as he pursues a promise made to a friend.</desc>
+  </programme>
+  <programme start="20260911063700 +0200" stop="20260911082100 +0200" channel="starz-stz1">
+    <title lang="en">Righteous Kill</title>
+    <desc lang="en">Two veteran detectives hunt a vigilante targeting criminals, but links to an old case raise doubts about their past and who they can trust.</desc>
+  </programme>
+  <programme start="20260911082100 +0200" stop="20260911100000 +0200" channel="starz-stz1">
+    <title lang="en">Turbulence</title>
+    <desc lang="en">A hot air balloon ride takes an unexpected turn when a third passenger joins, sparking events they never imagined five thousand meters in the air.</desc>
+  </programme>
+  <programme start="20260911100000 +0200" stop="20260911114800 +0200" channel="starz-stz1">
+    <title lang="en">Focus</title>
+    <desc lang="en">A seasoned con artist's latest operation is disrupted when a woman from his past, now a skilled femme fatale, reappears and complicates his plans.</desc>
+  </programme>
+  <programme start="20260911114800 +0200" stop="20260911135300 +0200" channel="starz-stz1">
+    <title lang="en">Silver Linings Playbook</title>
+    <desc lang="en">After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife.</desc>
+  </programme>
+  <programme start="20260911135300 +0200" stop="20260911152800 +0200" channel="starz-stz1">
+    <title lang="en">The Take</title>
+    <desc lang="en">A young pickpocket and an unruly CIA agent team up on an anti-terrorist mission in France.</desc>
+  </programme>
+  <programme start="20260911152800 +0200" stop="20260911165900 +0200" channel="starz-stz1">
+    <title lang="en">Priest</title>
+    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
+  </programme>
+  <programme start="20260911165900 +0200" stop="20260911175600 +0200" channel="starz-stz1">
+    <title lang="en">S1 E6 - There Is a War Coming</title>
+    <desc lang="en">Duke prepares for his long-awaited shot at revenge, while others take matters into their own hands.</desc>
+  </programme>
+  <programme start="20260911175600 +0200" stop="20260911194400 +0200" channel="starz-stz1">
+    <title lang="en">Focus</title>
+    <desc lang="en">A seasoned con artist's latest operation is disrupted when a woman from his past, now a skilled femme fatale, reappears and complicates his plans.</desc>
+  </programme>
+  <programme start="20260911194400 +0200" stop="20260911215600 +0200" channel="starz-stz1">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20260911215600 +0200" stop="20260911233500 +0200" channel="starz-stz1">
+    <title lang="en">Turbulence</title>
+    <desc lang="en">A hot air balloon ride takes an unexpected turn when a third passenger joins, sparking events they never imagined five thousand meters in the air.</desc>
+  </programme>
+  <programme start="20260911233500 +0200" stop="20260912003500 +0200" channel="starz-stz1">
+    <title lang="en">S1 E9 - Braemar</title>
+    <desc lang="en">All the Highland clans attend the Earl of Mar's annual hunting event at Braemar Castle, where the Earl makes an inflammatory proclamation.</desc>
+  </programme>
+  <programme start="20260912003500 +0200" stop="20260912020500 +0200" channel="starz-stz1">
+    <title lang="en">S1 E10 - Something Borrowed</title>
+    <desc lang="en">Ellen prepares for her wedding day, while Julia attempts her escape.</desc>
+  </programme>
+  <programme start="20260912020500 +0200" stop="20260912030000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E6 - There Is a War Coming</title>
+    <desc lang="en">Duke prepares for his long-awaited shot at revenge, while others take matters into their own hands.</desc>
+  </programme>
+  <programme start="20260912030000 +0200" stop="20260912035500 +0200" channel="starz-stz1">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260912035500 +0200" stop="20260912044900 +0200" channel="starz-stz1">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260912044900 +0200" stop="20260912054300 +0200" channel="starz-stz1">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260912054300 +0200" stop="20260912075500 +0200" channel="starz-stz1">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
   </programme>
 </tv>
