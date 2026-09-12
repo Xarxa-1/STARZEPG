@@ -3,76 +3,76 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20260911050000 +0200" stop="20260911063700 +0200" channel="starz-stz1">
-    <title lang="en">Blood And Bone</title>
-    <desc lang="en">An ex-convict shakes up Los Angeles' underground fighting scene as he pursues a promise made to a friend.</desc>
-  </programme>
-  <programme start="20260911063700 +0200" stop="20260911082100 +0200" channel="starz-stz1">
-    <title lang="en">Righteous Kill</title>
-    <desc lang="en">Two veteran detectives hunt a vigilante targeting criminals, but links to an old case raise doubts about their past and who they can trust.</desc>
-  </programme>
-  <programme start="20260911082100 +0200" stop="20260911100000 +0200" channel="starz-stz1">
-    <title lang="en">Turbulence</title>
-    <desc lang="en">A hot air balloon ride takes an unexpected turn when a third passenger joins, sparking events they never imagined five thousand meters in the air.</desc>
-  </programme>
-  <programme start="20260911100000 +0200" stop="20260911114800 +0200" channel="starz-stz1">
-    <title lang="en">Focus</title>
-    <desc lang="en">A seasoned con artist's latest operation is disrupted when a woman from his past, now a skilled femme fatale, reappears and complicates his plans.</desc>
-  </programme>
-  <programme start="20260911114800 +0200" stop="20260911135300 +0200" channel="starz-stz1">
-    <title lang="en">Silver Linings Playbook</title>
-    <desc lang="en">After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife.</desc>
-  </programme>
-  <programme start="20260911135300 +0200" stop="20260911152800 +0200" channel="starz-stz1">
-    <title lang="en">The Take</title>
-    <desc lang="en">A young pickpocket and an unruly CIA agent team up on an anti-terrorist mission in France.</desc>
-  </programme>
-  <programme start="20260911152800 +0200" stop="20260911165900 +0200" channel="starz-stz1">
-    <title lang="en">Priest</title>
-    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
-  </programme>
-  <programme start="20260911165900 +0200" stop="20260911175600 +0200" channel="starz-stz1">
-    <title lang="en">S1 E6 - There Is a War Coming</title>
-    <desc lang="en">Duke prepares for his long-awaited shot at revenge, while others take matters into their own hands.</desc>
-  </programme>
-  <programme start="20260911175600 +0200" stop="20260911194400 +0200" channel="starz-stz1">
-    <title lang="en">Focus</title>
-    <desc lang="en">A seasoned con artist's latest operation is disrupted when a woman from his past, now a skilled femme fatale, reappears and complicates his plans.</desc>
-  </programme>
-  <programme start="20260911194400 +0200" stop="20260911215600 +0200" channel="starz-stz1">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20260911215600 +0200" stop="20260911233500 +0200" channel="starz-stz1">
-    <title lang="en">Turbulence</title>
-    <desc lang="en">A hot air balloon ride takes an unexpected turn when a third passenger joins, sparking events they never imagined five thousand meters in the air.</desc>
-  </programme>
-  <programme start="20260911233500 +0200" stop="20260912003500 +0200" channel="starz-stz1">
-    <title lang="en">S1 E9 - Braemar</title>
-    <desc lang="en">All the Highland clans attend the Earl of Mar's annual hunting event at Braemar Castle, where the Earl makes an inflammatory proclamation.</desc>
-  </programme>
-  <programme start="20260912003500 +0200" stop="20260912020500 +0200" channel="starz-stz1">
-    <title lang="en">S1 E10 - Something Borrowed</title>
-    <desc lang="en">Ellen prepares for her wedding day, while Julia attempts her escape.</desc>
-  </programme>
-  <programme start="20260912020500 +0200" stop="20260912030000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E6 - There Is a War Coming</title>
-    <desc lang="en">Duke prepares for his long-awaited shot at revenge, while others take matters into their own hands.</desc>
-  </programme>
-  <programme start="20260912030000 +0200" stop="20260912035500 +0200" channel="starz-stz1">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
-  </programme>
-  <programme start="20260912035500 +0200" stop="20260912044900 +0200" channel="starz-stz1">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
-  </programme>
-  <programme start="20260912044900 +0200" stop="20260912054300 +0200" channel="starz-stz1">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
-  </programme>
   <programme start="20260912054300 +0200" stop="20260912075500 +0200" channel="starz-stz1">
     <title lang="en">Michael</title>
     <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20260912075500 +0200" stop="20260912085000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260912085000 +0200" stop="20260912104900 +0200" channel="starz-stz1">
+    <title lang="en">Beast</title>
+    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
+  </programme>
+  <programme start="20260912104900 +0200" stop="20260912130000 +0200" channel="starz-stz1">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20260912130000 +0200" stop="20260912145500 +0200" channel="starz-stz1">
+    <title lang="en">Now You See Me: Now You Don't</title>
+    <desc lang="en">The Four Horsemen unite with new illusionists to expose a corrupt heiress in a global, magic-fueled heist packed with twists and daring illusions.</desc>
+  </programme>
+  <programme start="20260912145500 +0200" stop="20260912170000 +0200" channel="starz-stz1">
+    <title lang="en">Underworld</title>
+    <desc lang="en">Selene, a vampire warrior, is in a war between vampires and werewolves - then she falls in love with Michael, a werewolf who longs for the war to end.</desc>
+  </programme>
+  <programme start="20260912170000 +0200" stop="20260912182000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E1 - Providence</title>
+    <desc lang="en">At the Gathering, Brian Fraser and Ellen MacKenzie meet for the first time and are struck by their strong connection.</desc>
+  </programme>
+  <programme start="20260912182000 +0200" stop="20260912192000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E2 - S.W.A.K. (Sealed With A Kiss)</title>
+    <desc lang="en">While Henry fights in WWI and Julia works in the censorship office in London, their love story unfolds through the letters they write to each other.</desc>
+  </programme>
+  <programme start="20260912192000 +0200" stop="20260912202300 +0200" channel="starz-stz1">
+    <title lang="en">S1 E3 - School of the Moon</title>
+    <desc lang="en">Ellen hatches a new plan to protect herself and her family. Julia is forced to make an impossible choice.</desc>
+  </programme>
+  <programme start="20260912202300 +0200" stop="20260912212600 +0200" channel="starz-stz1">
+    <title lang="en">S1 E4 - A Soldier's Heart</title>
+    <desc lang="en">Henry tackles a challenging assignment in his own way. Ellen learns some concerning information about the family into which she's expected to marry.</desc>
+  </programme>
+  <programme start="20260912212600 +0200" stop="20260912222900 +0200" channel="starz-stz1">
+    <title lang="en">S1 E5 - Needfire</title>
+    <desc lang="en">Ellen and Brian attend Beltane. Henry struggles to hold onto his hope. Julia loses allies when secrets come out.</desc>
+  </programme>
+  <programme start="20260912222900 +0200" stop="20260912233000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E6 - Birthright</title>
+    <desc lang="en">Henry continues to look for Julia until a new discovery threatens to end his search.</desc>
+  </programme>
+  <programme start="20260912233000 +0200" stop="20260913003200 +0200" channel="starz-stz1">
+    <title lang="en">S1 E7 - Luceo Non Uro</title>
+    <desc lang="en">Lord Lovat goes to extreme lengths to fulfill a prophecy. Dougal attends a clandestine meeting that could spell political disaster for the MacKenzies.</desc>
+  </programme>
+  <programme start="20260913003200 +0200" stop="20260913013200 +0200" channel="starz-stz1">
+    <title lang="en">S1 E8 - A Virtuous Woman</title>
+    <desc lang="en">At the request of the Grants, Ellen undergoes a test to prove her worthiness to marry into the clan.</desc>
+  </programme>
+  <programme start="20260913013200 +0200" stop="20260913023000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E9 - Braemar</title>
+    <desc lang="en">All the Highland clans attend the Earl of Mar's annual hunting event at Braemar Castle, where the Earl makes an inflammatory proclamation.</desc>
+  </programme>
+  <programme start="20260913023000 +0200" stop="20260913040000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E10 - Something Borrowed</title>
+    <desc lang="en">Ellen prepares for her wedding day, while Julia attempts her escape.</desc>
+  </programme>
+  <programme start="20260913040000 +0200" stop="20260913045400 +0200" channel="starz-stz1">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260913045400 +0200" stop="20260913063500 +0200" channel="starz-stz1">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
   </programme>
 </tv>
