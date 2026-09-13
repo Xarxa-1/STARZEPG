@@ -3,76 +3,76 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20260912054300 +0200" stop="20260912075500 +0200" channel="starz-stz1">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20260912075500 +0200" stop="20260912085000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
-  </programme>
-  <programme start="20260912085000 +0200" stop="20260912104900 +0200" channel="starz-stz1">
-    <title lang="en">Beast</title>
-    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
-  </programme>
-  <programme start="20260912104900 +0200" stop="20260912130000 +0200" channel="starz-stz1">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20260912130000 +0200" stop="20260912145500 +0200" channel="starz-stz1">
-    <title lang="en">Now You See Me: Now You Don't</title>
-    <desc lang="en">The Four Horsemen unite with new illusionists to expose a corrupt heiress in a global, magic-fueled heist packed with twists and daring illusions.</desc>
-  </programme>
-  <programme start="20260912145500 +0200" stop="20260912170000 +0200" channel="starz-stz1">
-    <title lang="en">Underworld</title>
-    <desc lang="en">Selene, a vampire warrior, is in a war between vampires and werewolves - then she falls in love with Michael, a werewolf who longs for the war to end.</desc>
-  </programme>
-  <programme start="20260912170000 +0200" stop="20260912182000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E1 - Providence</title>
-    <desc lang="en">At the Gathering, Brian Fraser and Ellen MacKenzie meet for the first time and are struck by their strong connection.</desc>
-  </programme>
-  <programme start="20260912182000 +0200" stop="20260912192000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E2 - S.W.A.K. (Sealed With A Kiss)</title>
-    <desc lang="en">While Henry fights in WWI and Julia works in the censorship office in London, their love story unfolds through the letters they write to each other.</desc>
-  </programme>
-  <programme start="20260912192000 +0200" stop="20260912202300 +0200" channel="starz-stz1">
-    <title lang="en">S1 E3 - School of the Moon</title>
-    <desc lang="en">Ellen hatches a new plan to protect herself and her family. Julia is forced to make an impossible choice.</desc>
-  </programme>
-  <programme start="20260912202300 +0200" stop="20260912212600 +0200" channel="starz-stz1">
-    <title lang="en">S1 E4 - A Soldier's Heart</title>
-    <desc lang="en">Henry tackles a challenging assignment in his own way. Ellen learns some concerning information about the family into which she's expected to marry.</desc>
-  </programme>
-  <programme start="20260912212600 +0200" stop="20260912222900 +0200" channel="starz-stz1">
-    <title lang="en">S1 E5 - Needfire</title>
-    <desc lang="en">Ellen and Brian attend Beltane. Henry struggles to hold onto his hope. Julia loses allies when secrets come out.</desc>
-  </programme>
-  <programme start="20260912222900 +0200" stop="20260912233000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E6 - Birthright</title>
-    <desc lang="en">Henry continues to look for Julia until a new discovery threatens to end his search.</desc>
-  </programme>
-  <programme start="20260912233000 +0200" stop="20260913003200 +0200" channel="starz-stz1">
-    <title lang="en">S1 E7 - Luceo Non Uro</title>
-    <desc lang="en">Lord Lovat goes to extreme lengths to fulfill a prophecy. Dougal attends a clandestine meeting that could spell political disaster for the MacKenzies.</desc>
-  </programme>
-  <programme start="20260913003200 +0200" stop="20260913013200 +0200" channel="starz-stz1">
-    <title lang="en">S1 E8 - A Virtuous Woman</title>
-    <desc lang="en">At the request of the Grants, Ellen undergoes a test to prove her worthiness to marry into the clan.</desc>
-  </programme>
-  <programme start="20260913013200 +0200" stop="20260913023000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E9 - Braemar</title>
-    <desc lang="en">All the Highland clans attend the Earl of Mar's annual hunting event at Braemar Castle, where the Earl makes an inflammatory proclamation.</desc>
-  </programme>
-  <programme start="20260913023000 +0200" stop="20260913040000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E10 - Something Borrowed</title>
-    <desc lang="en">Ellen prepares for her wedding day, while Julia attempts her escape.</desc>
-  </programme>
-  <programme start="20260913040000 +0200" stop="20260913045400 +0200" channel="starz-stz1">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
-  </programme>
   <programme start="20260913045400 +0200" stop="20260913063500 +0200" channel="starz-stz1">
     <title lang="en">In The Grey</title>
     <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20260913063500 +0200" stop="20260913072700 +0200" channel="starz-stz1">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260913072700 +0200" stop="20260913090800 +0200" channel="starz-stz1">
+    <title lang="en">All About the Benjamins</title>
+    <desc lang="en">A bounty hunter chasing a fast-talking con man uncovers a criminal plot tied to a fortune worth millions, forcing the pair to work together.</desc>
+  </programme>
+  <programme start="20260913090800 +0200" stop="20260913100200 +0200" channel="starz-stz1">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260913100200 +0200" stop="20260913120100 +0200" channel="starz-stz1">
+    <title lang="en">The Devil You Know</title>
+    <desc lang="en">After a lifetime of trouble, a man has the chance to turn things around. He finds himself spiraling back into the dark place he overcame.</desc>
+  </programme>
+  <programme start="20260913120100 +0200" stop="20260913140000 +0200" channel="starz-stz1">
+    <title lang="en">The Bourne Ultimatum</title>
+    <desc lang="en">Jason Bourne evades a relentless C.I.A. official from a new assassination program as he seeks to uncover the origins of his life as a trained killer.</desc>
+  </programme>
+  <programme start="20260913140000 +0200" stop="20260913154100 +0200" channel="starz-stz1">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20260913154100 +0200" stop="20260913163500 +0200" channel="starz-stz1">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260913163500 +0200" stop="20260913183700 +0200" channel="starz-stz1">
+    <title lang="en">The Bourne Identity</title>
+    <desc lang="en">A man who cannot remember his past but is highly skilled in self-defense attempts to discover his identity while assailants try to kill him.</desc>
+  </programme>
+  <programme start="20260913183700 +0200" stop="20260913202900 +0200" channel="starz-stz1">
+    <title lang="en">The Bourne Supremacy</title>
+    <desc lang="en">Former assassin Jason Bourne is blamed for a murder committed in a failed CIA undercover operation and must go on the run to save his life.</desc>
+  </programme>
+  <programme start="20260913202900 +0200" stop="20260913222800 +0200" channel="starz-stz1">
+    <title lang="en">The Bourne Ultimatum</title>
+    <desc lang="en">Jason Bourne evades a relentless C.I.A. official from a new assassination program as he seeks to uncover the origins of his life as a trained killer.</desc>
+  </programme>
+  <programme start="20260913222800 +0200" stop="20260913232000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260913232000 +0200" stop="20260914010000 +0200" channel="starz-stz1">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20260914010000 +0200" stop="20260914030500 +0200" channel="starz-stz1">
+    <title lang="en">Southpaw</title>
+    <desc lang="en">After losing everything to a senseless tragedy, a boxer turns to a retired fighter for guidance as he struggles toward redemption.</desc>
+  </programme>
+  <programme start="20260914030500 +0200" stop="20260914040000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260914040000 +0200" stop="20260914045500 +0200" channel="starz-stz1">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260914045500 +0200" stop="20260914055000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260914055000 +0200" stop="20260914072200 +0200" channel="starz-stz1">
+    <title lang="en">Scary Movie</title>
+    <desc lang="en">Cindy and her friends are stalked by a masked killer in a ridiculous slasher spoof full of twists, scares and terrible choices.</desc>
   </programme>
 </tv>
