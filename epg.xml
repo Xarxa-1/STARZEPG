@@ -3,56 +3,60 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20260916045500 +0200" stop="20260916070000 +0200" channel="starz-stz1">
-    <title lang="en">Scream 2</title>
-    <desc lang="en">At college, Sidney Prescott faces a copycat killer reenacting past horrors, trapping her and other survivors in a deadly sequel.</desc>
-  </programme>
-  <programme start="20260916070000 +0200" stop="20260916085000 +0200" channel="starz-stz1">
-    <title lang="en">The Wood</title>
-    <desc lang="en">Hours before his wedding, Roland leans on his friends as they revisit growing up in Inglewood, where hard lessons and missteps shaped him.</desc>
-  </programme>
-  <programme start="20260916085000 +0200" stop="20260916110600 +0200" channel="starz-stz1">
-    <title lang="en">Love Actually</title>
-    <desc lang="en">A prime minister, an office worker, a pop star, a jilted writer, married couples and various others deal with relationships in London.</desc>
-  </programme>
-  <programme start="20260916110600 +0200" stop="20260916132600 +0200" channel="starz-stz1">
-    <title lang="en">Angels &amp; Demons</title>
-    <desc lang="en">The pope is dead and the candidates to replace him have been kidnapped - a secret group vows to kill the cardinals and destroy Vatican City.</desc>
-  </programme>
-  <programme start="20260916132600 +0200" stop="20260916152400 +0200" channel="starz-stz1">
-    <title lang="en">Boomerang</title>
-    <desc lang="en">A successful executive and notorious womanizer gets a taste of his own medicine as his new female boss proves to be even more of a deviant than he is.</desc>
-  </programme>
-  <programme start="20260916152400 +0200" stop="20260916170600 +0200" channel="starz-stz1">
-    <title lang="en">Man Of The House</title>
-    <desc lang="en">A by-the-book Texas Ranger finds himself going undercover as a live-in coach to protect a group of college cheerleaders who witnessed a murder.</desc>
-  </programme>
-  <programme start="20260916170600 +0200" stop="20260916190100 +0200" channel="starz-stz1">
-    <title lang="en">Holy Man</title>
-    <desc lang="en">A failing home shopping channel finds new life with a flamboyant guru, whose spiritual sales pitch brings unexpected consequences.</desc>
-  </programme>
-  <programme start="20260916190100 +0200" stop="20260916210000 +0200" channel="starz-stz1">
-    <title lang="en">Harlem Nights</title>
-    <desc lang="en">In 1930s New York, a gambling house owner and his crew battle rivals, gangsters, and corrupt police.</desc>
-  </programme>
-  <programme start="20260916210000 +0200" stop="20260916230000 +0200" channel="starz-stz1">
-    <title lang="en">Boomerang</title>
-    <desc lang="en">A successful executive and notorious womanizer gets a taste of his own medicine as his new female boss proves to be even more of a deviant than he is.</desc>
-  </programme>
-  <programme start="20260916230000 +0200" stop="20260917004000 +0200" channel="starz-stz1">
-    <title lang="en">Dreams</title>
-    <desc lang="en">A powerful American socialite and an undocumented Mexican ballet dancer begin a dangerous affair in this tense, erotic drama.</desc>
-  </programme>
-  <programme start="20260917004000 +0200" stop="20260917030000 +0200" channel="starz-stz1">
-    <title lang="en">Coach Carter</title>
-    <desc lang="en">A coach benches his undefeated team to teach that education, discipline, and self‑belief matter more than any trophy.</desc>
-  </programme>
-  <programme start="20260917030000 +0200" stop="20260917044100 +0200" channel="starz-stz1">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
   <programme start="20260917044100 +0200" stop="20260917062900 +0200" channel="starz-stz1">
     <title lang="en">Death Race</title>
     <desc lang="en">Ex-con Jensen Ames is forced by the warden of a notorious prison to compete in a lethal car race.</desc>
+  </programme>
+  <programme start="20260917062900 +0200" stop="20260917081300 +0200" channel="starz-stz1">
+    <title lang="en">Death Race 2</title>
+    <desc lang="en">Convicted of killing a cop, an inmate competes in a brutal race where cars are used as deadly weapons.</desc>
+  </programme>
+  <programme start="20260917081300 +0200" stop="20260917100300 +0200" channel="starz-stz1">
+    <title lang="en">Death Race 3: Inferno</title>
+    <desc lang="en">Only one victory away from winning his freedom, legendary driver Carl Lucas enters the first Death Race to take place in the brutal Kalahari Desert.</desc>
+  </programme>
+  <programme start="20260917100300 +0200" stop="20260917121300 +0200" channel="starz-stz1">
+    <title lang="en">Why Men Are Clueless</title>
+    <desc lang="en">In order to land his dream job and win back the love of his life, a young man must figure out what women truly want with the help of his friends.</desc>
+  </programme>
+  <programme start="20260917121300 +0200" stop="20260917141100 +0200" channel="starz-stz1">
+    <title lang="en">Holy Man</title>
+    <desc lang="en">A failing home shopping channel finds new life with a flamboyant guru, whose spiritual sales pitch brings unexpected consequences.</desc>
+  </programme>
+  <programme start="20260917141100 +0200" stop="20260917161200 +0200" channel="starz-stz1">
+    <title lang="en">The Other Boleyn Girl</title>
+    <desc lang="en">Two sisters - one is an innocent and the other a schemer - both vie for the attentions of England's King Henry VIII.</desc>
+  </programme>
+  <programme start="20260917161200 +0200" stop="20260917181100 +0200" channel="starz-stz1">
+    <title lang="en">Beast</title>
+    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
+  </programme>
+  <programme start="20260917181100 +0200" stop="20260917201300 +0200" channel="starz-stz1">
+    <title lang="en">Deliver Us From Evil</title>
+    <desc lang="en">A Bronx cop investigates a series of heinous events and meets a priest who tries to convince him that demonic possession is the root of the evil.</desc>
+  </programme>
+  <programme start="20260917201300 +0200" stop="20260917220100 +0200" channel="starz-stz1">
+    <title lang="en">Focus</title>
+    <desc lang="en">A seasoned con artist's latest operation is disrupted when a woman from his past, now a skilled femme fatale, reappears and complicates his plans.</desc>
+  </programme>
+  <programme start="20260917220100 +0200" stop="20260918002000 +0200" channel="starz-stz1">
+    <title lang="en">Coach Carter</title>
+    <desc lang="en">A coach benches his undefeated team to teach that education, discipline, and self‑belief matter more than any trophy.</desc>
+  </programme>
+  <programme start="20260918002000 +0200" stop="20260918020200 +0200" channel="starz-stz1">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20260918020200 +0200" stop="20260918040000 +0200" channel="starz-stz1">
+    <title lang="en">Beast</title>
+    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
+  </programme>
+  <programme start="20260918040000 +0200" stop="20260918045400 +0200" channel="starz-stz1">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260918045400 +0200" stop="20260918064300 +0200" channel="starz-stz1">
+    <title lang="en">Jack Ryan: Shadow Recruit</title>
+    <desc lang="en">Caught between espionage and betrayal, CIA recruit Jack Ryan uncovers a dangerous conspiracy and must act fast to stop a devastating terrorist attack.</desc>
   </programme>
 </tv>
