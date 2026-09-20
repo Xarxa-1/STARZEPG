@@ -3,67 +3,71 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20260919051500 +0200" stop="20260919062000 +0200" channel="starz-stz1">
+  <programme start="20260920045500 +0200" stop="20260920060200 +0200" channel="starz-stz1">
     <title lang="en">S2 E1 - Remembrance Day</title>
     <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
   </programme>
-  <programme start="20260919062000 +0200" stop="20260919083500 +0200" channel="starz-stz1">
-    <title lang="en">The Housemaid</title>
-    <desc lang="en">Millie's new job as a maid for the Winchesters seems perfect - until it becomes a dangerous game of secrets and scandal, full of shocking twists.</desc>
+  <programme start="20260920060200 +0200" stop="20260920074300 +0200" channel="starz-stz1">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
   </programme>
-  <programme start="20260919083500 +0200" stop="20260919094000 +0200" channel="starz-stz1">
+  <programme start="20260920074300 +0200" stop="20260920084800 +0200" channel="starz-stz1">
     <title lang="en">S2 E1 - Remembrance Day</title>
     <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
   </programme>
-  <programme start="20260919094000 +0200" stop="20260919104500 +0200" channel="starz-stz1">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
+  <programme start="20260920084800 +0200" stop="20260920102500 +0200" channel="starz-stz1">
+    <title lang="en">Turbulence</title>
+    <desc lang="en">A hot air balloon ride takes an unexpected turn when a third passenger joins, sparking events they never imagined five thousand meters in the air.</desc>
   </programme>
-  <programme start="20260919104500 +0200" stop="20260919124500 +0200" channel="starz-stz1">
-    <title lang="en">Deliver Us From Evil</title>
-    <desc lang="en">A Bronx cop investigates a series of heinous events and meets a priest who tries to convince him that demonic possession is the root of the evil.</desc>
+  <programme start="20260920102500 +0200" stop="20260920115500 +0200" channel="starz-stz1">
+    <title lang="en">Priest</title>
+    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
   </programme>
-  <programme start="20260919124500 +0200" stop="20260919143900 +0200" channel="starz-stz1">
-    <title lang="en">The Kingdom</title>
-    <desc lang="en">Sent to Saudi Arabia to investigate a bombing, FBI agents team up with local officers. Their search for answers leads them to a deadly confrontation.</desc>
+  <programme start="20260920115500 +0200" stop="20260920142000 +0200" channel="starz-stz1">
+    <title lang="en">Avengers: Age Of Ultron</title>
+    <desc lang="en">From Marvel Studios: An A.I. known as Ultron has the promise to bring world peace. But when Ultron turns against humanity, The Avengers must assemble.</desc>
   </programme>
-  <programme start="20260919143900 +0200" stop="20260919162900 +0200" channel="starz-stz1">
-    <title lang="en">Non-Stop</title>
-    <desc lang="en">U.S. air marshal Bill Marks is thrust into a crisis when a passenger's life is threatened every 20 minutes unless $150 million is transferred.</desc>
-  </programme>
-  <programme start="20260919162900 +0200" stop="20260919173400 +0200" channel="starz-stz1">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
-  </programme>
-  <programme start="20260919173400 +0200" stop="20260919194900 +0200" channel="starz-stz1">
-    <title lang="en">The Housemaid</title>
-    <desc lang="en">Millie's new job as a maid for the Winchesters seems perfect - until it becomes a dangerous game of secrets and scandal, full of shocking twists.</desc>
-  </programme>
-  <programme start="20260919194900 +0200" stop="20260919205400 +0200" channel="starz-stz1">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
-  </programme>
-  <programme start="20260919205400 +0200" stop="20260919230400 +0200" channel="starz-stz1">
+  <programme start="20260920142000 +0200" stop="20260920163100 +0200" channel="starz-stz1">
     <title lang="en">Michael</title>
     <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
   </programme>
-  <programme start="20260919230400 +0200" stop="20260920005500 +0200" channel="starz-stz1">
-    <title lang="en">The Italian Job</title>
-    <desc lang="en">Betrayed after a perfect heist, Charlie Croker teams with a safecracker to steal the loot back, sparking a high‑speed chase through Los Angeles.</desc>
-  </programme>
-  <programme start="20260920005500 +0200" stop="20260920020000 +0200" channel="starz-stz1">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
-  </programme>
-  <programme start="20260920020000 +0200" stop="20260920030600 +0200" channel="starz-stz1">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
-  </programme>
-  <programme start="20260920030600 +0200" stop="20260920045500 +0200" channel="starz-stz1">
+  <programme start="20260920163100 +0200" stop="20260920182000 +0200" channel="starz-stz1">
     <title lang="en">Shelter</title>
     <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
   </programme>
-  <programme start="20260920045500 +0200" stop="20260920060200 +0200" channel="starz-stz1">
+  <programme start="20260920182000 +0200" stop="20260920202100 +0200" channel="starz-stz1">
+    <title lang="en">Looper</title>
+    <desc lang="en">A hit man kills targets sent from the future. When his older self is sent back, he must fight to survive and change the fate set in motion by the mob.</desc>
+  </programme>
+  <programme start="20260920202100 +0200" stop="20260920212600 +0200" channel="starz-stz1">
+    <title lang="en">S2 E1 - Remembrance Day</title>
+    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
+  </programme>
+  <programme start="20260920212600 +0200" stop="20260920231500 +0200" channel="starz-stz1">
+    <title lang="en">Shelter</title>
+    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
+  </programme>
+  <programme start="20260920231500 +0200" stop="20260921002000 +0200" channel="starz-stz1">
+    <title lang="en">S2 E1 - Remembrance Day</title>
+    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
+  </programme>
+  <programme start="20260921002000 +0200" stop="20260921020000 +0200" channel="starz-stz1">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20260921020000 +0200" stop="20260921030500 +0200" channel="starz-stz1">
+    <title lang="en">S2 E1 - Remembrance Day</title>
+    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
+  </programme>
+  <programme start="20260921030500 +0200" stop="20260921041000 +0200" channel="starz-stz1">
+    <title lang="en">S2 E1 - Remembrance Day</title>
+    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
+  </programme>
+  <programme start="20260921041000 +0200" stop="20260921051500 +0200" channel="starz-stz1">
+    <title lang="en">S2 E1 - Remembrance Day</title>
+    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
+  </programme>
+  <programme start="20260921051500 +0200" stop="20260921062000 +0200" channel="starz-stz1">
     <title lang="en">S2 E1 - Remembrance Day</title>
     <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
   </programme>
