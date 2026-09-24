@@ -3,72 +3,56 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20260923050000 +0200" stop="20260923065000 +0200" channel="starz-stz1">
-    <title lang="en">Behind Enemy Lines</title>
-    <desc lang="en">A pilot downed in war-torn Bosnia must evade the local military and an assassin as his commanding officer risks everything to rescue him.</desc>
-  </programme>
-  <programme start="20260923065000 +0200" stop="20260923082500 +0200" channel="starz-stz1">
-    <title lang="en">The Benefactor</title>
-    <desc lang="en">Consumed by guilt over the accidental death of a couple, an eccentric Philadelphia philanthropist provides financial assistance to their daughter.</desc>
-  </programme>
-  <programme start="20260923082500 +0200" stop="20260923100400 +0200" channel="starz-stz1">
-    <title lang="en">Turbulence</title>
-    <desc lang="en">A hot air balloon ride takes an unexpected turn when a third passenger joins, sparking events they never imagined five thousand meters in the air.</desc>
-  </programme>
-  <programme start="20260923100400 +0200" stop="20260923115000 +0200" channel="starz-stz1">
-    <title lang="en">Love, Rosie</title>
-    <desc lang="en">Rosie and Alex have been best friends since they were 5, so they couldn't possibly be right for one another... or could they?</desc>
-  </programme>
-  <programme start="20260923115000 +0200" stop="20260923131600 +0200" channel="starz-stz1">
-    <title lang="en">Scary Movie 2</title>
-    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
-  </programme>
-  <programme start="20260923131600 +0200" stop="20260923152700 +0200" channel="starz-stz1">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20260923152700 +0200" stop="20260923174500 +0200" channel="starz-stz1">
-    <title lang="en">The Bourne Legacy</title>
-    <desc lang="en">As Jason Bourne exposes covert operations, a new agent becomes the target of a deadly cover-up protecting a secret government program.</desc>
-  </programme>
-  <programme start="20260923174500 +0200" stop="20260923183300 +0200" channel="starz-stz1">
-    <title lang="en">S1 E1 - Episode 1</title>
-    <desc lang="en">Claire starts hearing an incessant rumbling, no one seems able to help - until her student claims to also hear the noise.</desc>
-  </programme>
-  <programme start="20260923183300 +0200" stop="20260923192100 +0200" channel="starz-stz1">
-    <title lang="en">S1 E2 - Episode 2</title>
-    <desc lang="en">Claire and Kyle discover a group of others who can not only hear The Hum but also want to embrace it.</desc>
-  </programme>
-  <programme start="20260923192100 +0200" stop="20260923200900 +0200" channel="starz-stz1">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Unable to experience The Hum the way the others can, Claire has a crisis.</desc>
-  </programme>
-  <programme start="20260923200900 +0200" stop="20260923205600 +0200" channel="starz-stz1">
-    <title lang="en">S1 E4 - Episode 4</title>
-    <desc lang="en">At first resistant, Claire finally loses herself in the Hum.</desc>
-  </programme>
-  <programme start="20260923205600 +0200" stop="20260923214400 +0200" channel="starz-stz1">
-    <title lang="en">S1 E5 - Episode 5</title>
-    <desc lang="en">As the outside world closes in on the group, one last group session ends in tragedy.</desc>
-  </programme>
-  <programme start="20260923214400 +0200" stop="20260923235500 +0200" channel="starz-stz1">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20260923235500 +0200" stop="20260924012100 +0200" channel="starz-stz1">
-    <title lang="en">Scary Movie 2</title>
-    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
-  </programme>
-  <programme start="20260924012100 +0200" stop="20260924030000 +0200" channel="starz-stz1">
-    <title lang="en">Turbulence</title>
-    <desc lang="en">A hot air balloon ride takes an unexpected turn when a third passenger joins, sparking events they never imagined five thousand meters in the air.</desc>
-  </programme>
-  <programme start="20260924030000 +0200" stop="20260924051100 +0200" channel="starz-stz1">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
   <programme start="20260924051100 +0200" stop="20260924073000 +0200" channel="starz-stz1">
     <title lang="en">The Bourne Legacy</title>
     <desc lang="en">As Jason Bourne exposes covert operations, a new agent becomes the target of a deadly cover-up protecting a secret government program.</desc>
+  </programme>
+  <programme start="20260924073000 +0200" stop="20260924091800 +0200" channel="starz-stz1">
+    <title lang="en">Death Race</title>
+    <desc lang="en">Ex-con Jensen Ames is forced by the warden of a notorious prison to compete in a lethal car race.</desc>
+  </programme>
+  <programme start="20260924091800 +0200" stop="20260924111300 +0200" channel="starz-stz1">
+    <title lang="en">8 Mile</title>
+    <desc lang="en">A young white rapper struggles with poverty and frustration while trying to make a name for himself in Detroit's cutthroat underground music scene.</desc>
+  </programme>
+  <programme start="20260924111300 +0200" stop="20260924125400 +0200" channel="starz-stz1">
+    <title lang="en">Hierarchy</title>
+    <desc lang="en">Brothers prepare for the biggest and most dangerous heist of their lives and find themselves caught in a high-stakes game of survival.</desc>
+  </programme>
+  <programme start="20260924125400 +0200" stop="20260924143800 +0200" channel="starz-stz1">
+    <title lang="en">Man Of The House</title>
+    <desc lang="en">A by-the-book Texas Ranger finds himself going undercover as a live-in coach to protect a group of college cheerleaders who witnessed a murder.</desc>
+  </programme>
+  <programme start="20260924143800 +0200" stop="20260924165600 +0200" channel="starz-stz1">
+    <title lang="en">The Bourne Legacy</title>
+    <desc lang="en">As Jason Bourne exposes covert operations, a new agent becomes the target of a deadly cover-up protecting a secret government program.</desc>
+  </programme>
+  <programme start="20260924165600 +0200" stop="20260924185600 +0200" channel="starz-stz1">
+    <title lang="en">Instant Family</title>
+    <desc lang="en">A couple adopts through foster care, only to be overwhelmed when three wild kids suddenly join their home.</desc>
+  </programme>
+  <programme start="20260924185600 +0200" stop="20260924204400 +0200" channel="starz-stz1">
+    <title lang="en">Death Race</title>
+    <desc lang="en">Ex-con Jensen Ames is forced by the warden of a notorious prison to compete in a lethal car race.</desc>
+  </programme>
+  <programme start="20260924204400 +0200" stop="20260924223300 +0200" channel="starz-stz1">
+    <title lang="en">Behind Enemy Lines</title>
+    <desc lang="en">A pilot downed in war-torn Bosnia must evade the local military and an assassin as his commanding officer risks everything to rescue him.</desc>
+  </programme>
+  <programme start="20260924223300 +0200" stop="20260925001600 +0200" channel="starz-stz1">
+    <title lang="en">Hierarchy</title>
+    <desc lang="en">Brothers prepare for the biggest and most dangerous heist of their lives and find themselves caught in a high-stakes game of survival.</desc>
+  </programme>
+  <programme start="20260925001600 +0200" stop="20260925021800 +0200" channel="starz-stz1">
+    <title lang="en">Instant Family</title>
+    <desc lang="en">A couple adopts through foster care, only to be overwhelmed when three wild kids suddenly join their home.</desc>
+  </programme>
+  <programme start="20260925021800 +0200" stop="20260925040600 +0200" channel="starz-stz1">
+    <title lang="en">Death Race</title>
+    <desc lang="en">Ex-con Jensen Ames is forced by the warden of a notorious prison to compete in a lethal car race.</desc>
+  </programme>
+  <programme start="20260925040600 +0200" stop="20260925060000 +0200" channel="starz-stz1">
+    <title lang="en">8 Mile</title>
+    <desc lang="en">A young white rapper struggles with poverty and frustration while trying to make a name for himself in Detroit's cutthroat underground music scene.</desc>
   </programme>
 </tv>
