@@ -3,56 +3,72 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20260924051100 +0200" stop="20260924073000 +0200" channel="starz-stz1">
-    <title lang="en">The Bourne Legacy</title>
-    <desc lang="en">As Jason Bourne exposes covert operations, a new agent becomes the target of a deadly cover-up protecting a secret government program.</desc>
+  <programme start="20260925060000 +0200" stop="20260925064900 +0200" channel="starz-stz1">
+    <title lang="en">S1 E1 - Clean Entry</title>
+    <desc lang="en">After a fatal decision costs him his career, Hondo Harrelson gets one shot at redemption: build a brand-new S.W.A.T. unit from LA's overlooked talent.</desc>
   </programme>
-  <programme start="20260924073000 +0200" stop="20260924091800 +0200" channel="starz-stz1">
-    <title lang="en">Death Race</title>
-    <desc lang="en">Ex-con Jensen Ames is forced by the warden of a notorious prison to compete in a lethal car race.</desc>
+  <programme start="20260925064900 +0200" stop="20260925084700 +0200" channel="starz-stz1">
+    <title lang="en">Beast</title>
+    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
   </programme>
-  <programme start="20260924091800 +0200" stop="20260924111300 +0200" channel="starz-stz1">
-    <title lang="en">8 Mile</title>
-    <desc lang="en">A young white rapper struggles with poverty and frustration while trying to make a name for himself in Detroit's cutthroat underground music scene.</desc>
+  <programme start="20260925084700 +0200" stop="20260925111000 +0200" channel="starz-stz1">
+    <title lang="en">Avengers: Age Of Ultron</title>
+    <desc lang="en">From Marvel Studios: An A.I. known as Ultron has the promise to bring world peace. But when Ultron turns against humanity, The Avengers must assemble.</desc>
   </programme>
-  <programme start="20260924111300 +0200" stop="20260924125400 +0200" channel="starz-stz1">
-    <title lang="en">Hierarchy</title>
-    <desc lang="en">Brothers prepare for the biggest and most dangerous heist of their lives and find themselves caught in a high-stakes game of survival.</desc>
+  <programme start="20260925111000 +0200" stop="20260925120500 +0200" channel="starz-stz1">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
   </programme>
-  <programme start="20260924125400 +0200" stop="20260924143800 +0200" channel="starz-stz1">
+  <programme start="20260925120500 +0200" stop="20260925134900 +0200" channel="starz-stz1">
     <title lang="en">Man Of The House</title>
     <desc lang="en">A by-the-book Texas Ranger finds himself going undercover as a live-in coach to protect a group of college cheerleaders who witnessed a murder.</desc>
   </programme>
-  <programme start="20260924143800 +0200" stop="20260924165600 +0200" channel="starz-stz1">
-    <title lang="en">The Bourne Legacy</title>
-    <desc lang="en">As Jason Bourne exposes covert operations, a new agent becomes the target of a deadly cover-up protecting a secret government program.</desc>
+  <programme start="20260925134900 +0200" stop="20260925161200 +0200" channel="starz-stz1">
+    <title lang="en">Avengers: Age Of Ultron</title>
+    <desc lang="en">From Marvel Studios: An A.I. known as Ultron has the promise to bring world peace. But when Ultron turns against humanity, The Avengers must assemble.</desc>
   </programme>
-  <programme start="20260924165600 +0200" stop="20260924185600 +0200" channel="starz-stz1">
-    <title lang="en">Instant Family</title>
-    <desc lang="en">A couple adopts through foster care, only to be overwhelmed when three wild kids suddenly join their home.</desc>
+  <programme start="20260925161200 +0200" stop="20260925170600 +0200" channel="starz-stz1">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
   </programme>
-  <programme start="20260924185600 +0200" stop="20260924204400 +0200" channel="starz-stz1">
-    <title lang="en">Death Race</title>
-    <desc lang="en">Ex-con Jensen Ames is forced by the warden of a notorious prison to compete in a lethal car race.</desc>
+  <programme start="20260925170600 +0200" stop="20260925190400 +0200" channel="starz-stz1">
+    <title lang="en">Beast</title>
+    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
   </programme>
-  <programme start="20260924204400 +0200" stop="20260924223300 +0200" channel="starz-stz1">
-    <title lang="en">Behind Enemy Lines</title>
-    <desc lang="en">A pilot downed in war-torn Bosnia must evade the local military and an assassin as his commanding officer risks everything to rescue him.</desc>
+  <programme start="20260925190400 +0200" stop="20260925205500 +0200" channel="starz-stz1">
+    <title lang="en">Death Race: Beyond Anarchy</title>
+    <desc lang="en">A black ops specialist infiltrates a maximum security prison to take down legendary driver, Frankenstein, in a violent and brutal car race.</desc>
   </programme>
-  <programme start="20260924223300 +0200" stop="20260925001600 +0200" channel="starz-stz1">
-    <title lang="en">Hierarchy</title>
-    <desc lang="en">Brothers prepare for the biggest and most dangerous heist of their lives and find themselves caught in a high-stakes game of survival.</desc>
+  <programme start="20260925205500 +0200" stop="20260925223500 +0200" channel="starz-stz1">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
   </programme>
-  <programme start="20260925001600 +0200" stop="20260925021800 +0200" channel="starz-stz1">
-    <title lang="en">Instant Family</title>
-    <desc lang="en">A couple adopts through foster care, only to be overwhelmed when three wild kids suddenly join their home.</desc>
+  <programme start="20260925223500 +0200" stop="20260926010000 +0200" channel="starz-stz1">
+    <title lang="en">Avengers: Age Of Ultron</title>
+    <desc lang="en">From Marvel Studios: An A.I. known as Ultron has the promise to bring world peace. But when Ultron turns against humanity, The Avengers must assemble.</desc>
   </programme>
-  <programme start="20260925021800 +0200" stop="20260925040600 +0200" channel="starz-stz1">
-    <title lang="en">Death Race</title>
-    <desc lang="en">Ex-con Jensen Ames is forced by the warden of a notorious prison to compete in a lethal car race.</desc>
+  <programme start="20260926010000 +0200" stop="20260926020400 +0200" channel="starz-stz1">
+    <title lang="en">S2 E1 - Remembrance Day</title>
+    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
   </programme>
-  <programme start="20260925040600 +0200" stop="20260925060000 +0200" channel="starz-stz1">
-    <title lang="en">8 Mile</title>
-    <desc lang="en">A young white rapper struggles with poverty and frustration while trying to make a name for himself in Detroit's cutthroat underground music scene.</desc>
+  <programme start="20260926020400 +0200" stop="20260926030500 +0200" channel="starz-stz1">
+    <title lang="en">S2 E2 - The Veil of Time</title>
+    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
+  </programme>
+  <programme start="20260926030500 +0200" stop="20260926040000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E8 - You Won't See Me Coming</title>
+    <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
+  </programme>
+  <programme start="20260926040000 +0200" stop="20260926045000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E1 - Clean Entry</title>
+    <desc lang="en">After a fatal decision costs him his career, Hondo Harrelson gets one shot at redemption: build a brand-new S.W.A.T. unit from LA's overlooked talent.</desc>
+  </programme>
+  <programme start="20260926045000 +0200" stop="20260926055000 +0200" channel="starz-stz1">
+    <title lang="en">S2 E2 - The Veil of Time</title>
+    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
+  </programme>
+  <programme start="20260926055000 +0200" stop="20260926064600 +0200" channel="starz-stz1">
+    <title lang="en">S1 E8 - You Won't See Me Coming</title>
+    <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
   </programme>
 </tv>
