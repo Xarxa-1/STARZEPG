@@ -3,89 +3,93 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20260926055000 +0200" stop="20260926064600 +0200" channel="starz-stz1">
-    <title lang="en">S1 E8 - You Won't See Me Coming</title>
-    <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
-  </programme>
-  <programme start="20260926064600 +0200" stop="20260926073500 +0200" channel="starz-stz1">
-    <title lang="en">S1 E1 - Clean Entry</title>
-    <desc lang="en">After a fatal decision costs him his career, Hondo Harrelson gets one shot at redemption: build a brand-new S.W.A.T. unit from LA's overlooked talent.</desc>
-  </programme>
-  <programme start="20260926073500 +0200" stop="20260926083300 +0200" channel="starz-stz1">
+  <programme start="20260927054000 +0200" stop="20260927063800 +0200" channel="starz-stz1">
     <title lang="en">S2 E2 - The Veil of Time</title>
     <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
   </programme>
-  <programme start="20260926083300 +0200" stop="20260926092800 +0200" channel="starz-stz1">
+  <programme start="20260927063800 +0200" stop="20260927073200 +0200" channel="starz-stz1">
     <title lang="en">S1 E8 - You Won't See Me Coming</title>
     <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
   </programme>
-  <programme start="20260926092800 +0200" stop="20260926111200 +0200" channel="starz-stz1">
-    <title lang="en">Mr. 3000</title>
-    <desc lang="en">At the age of 47, an egotistical baseball Hall of Famer must return to the game in order to truly make his 3,000 base-hit mark.</desc>
+  <programme start="20260927073200 +0200" stop="20260927082400 +0200" channel="starz-stz1">
+    <title lang="en">S1 E1 - Clean Entry</title>
+    <desc lang="en">After a fatal decision costs him his career, Hondo Harrelson gets one shot at redemption: build a brand-new S.W.A.T. unit from LA's overlooked talent.</desc>
   </programme>
-  <programme start="20260926111200 +0200" stop="20260926124500 +0200" channel="starz-stz1">
+  <programme start="20260927082400 +0200" stop="20260927092400 +0200" channel="starz-stz1">
+    <title lang="en">S2 E2 - The Veil of Time</title>
+    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
+  </programme>
+  <programme start="20260927092400 +0200" stop="20260927101300 +0200" channel="starz-stz1">
+    <title lang="en">S1 E1 - Clean Entry</title>
+    <desc lang="en">After a fatal decision costs him his career, Hondo Harrelson gets one shot at redemption: build a brand-new S.W.A.T. unit from LA's overlooked talent.</desc>
+  </programme>
+  <programme start="20260927101300 +0200" stop="20260927114800 +0200" channel="starz-stz1">
     <title lang="en">Trouble Man</title>
     <desc lang="en">A PI gets hired to find a missing R&amp;B star and accidentally uncovers a larger conspiracy, forcing him to question those around him and his own past.</desc>
   </programme>
-  <programme start="20260926124500 +0200" stop="20260926150000 +0200" channel="starz-stz1">
-    <title lang="en">The Hate U Give</title>
-    <desc lang="en">After seeing her friend fatally shot by a police officer, a teen must find the courage to speak out and fight for justice for her community.</desc>
+  <programme start="20260927114800 +0200" stop="20260927140300 +0200" channel="starz-stz1">
+    <title lang="en">The Housemaid</title>
+    <desc lang="en">Millie's new job as a maid for the Winchesters seems perfect - until it becomes a dangerous game of secrets and scandal, full of shocking twists.</desc>
   </programme>
-  <programme start="20260926150000 +0200" stop="20260926170100 +0200" channel="starz-stz1">
-    <title lang="en">The Best Man</title>
-    <desc lang="en">A first-time author, attending the wedding of two old chums, worries that his friends will learn that they are the characters in his tell-all novel.</desc>
+  <programme start="20260927140300 +0200" stop="20260927160400 +0200" channel="starz-stz1">
+    <title lang="en">Ant-Man</title>
+    <desc lang="en">From Marvel: Looking for a new start, master thief Scott Lang is approached by Dr. Pym, creator of a technology that can shrink a man to insect size.</desc>
   </programme>
-  <programme start="20260926170100 +0200" stop="20260926175000 +0200" channel="starz-stz1">
+  <programme start="20260927160400 +0200" stop="20260927174300 +0200" channel="starz-stz1">
+    <title lang="en">Power Ballad</title>
+    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
+  </programme>
+  <programme start="20260927174300 +0200" stop="20260927183200 +0200" channel="starz-stz1">
     <title lang="en">S1 E1 - Clean Entry</title>
     <desc lang="en">After a fatal decision costs him his career, Hondo Harrelson gets one shot at redemption: build a brand-new S.W.A.T. unit from LA's overlooked talent.</desc>
   </programme>
-  <programme start="20260926175000 +0200" stop="20260926184800 +0200" channel="starz-stz1">
+  <programme start="20260927183200 +0200" stop="20260927192800 +0200" channel="starz-stz1">
+    <title lang="en">S1 E8 - You Won't See Me Coming</title>
+    <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
+  </programme>
+  <programme start="20260927192800 +0200" stop="20260927202600 +0200" channel="starz-stz1">
     <title lang="en">S2 E2 - The Veil of Time</title>
     <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
   </programme>
-  <programme start="20260926184800 +0200" stop="20260926204200 +0200" channel="starz-stz1">
+  <programme start="20260927202600 +0200" stop="20260927212100 +0200" channel="starz-stz1">
+    <title lang="en">S1 E8 - You Won't See Me Coming</title>
+    <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
+  </programme>
+  <programme start="20260927212100 +0200" stop="20260927221000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E1 - Clean Entry</title>
+    <desc lang="en">After a fatal decision costs him his career, Hondo Harrelson gets one shot at redemption: build a brand-new S.W.A.T. unit from LA's overlooked talent.</desc>
+  </programme>
+  <programme start="20260927221000 +0200" stop="20260928000500 +0200" channel="starz-stz1">
     <title lang="en">The Furious</title>
     <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
 </desc>
   </programme>
-  <programme start="20260926204200 +0200" stop="20260926213000 +0200" channel="starz-stz1">
+  <programme start="20260928000500 +0200" stop="20260928010500 +0200" channel="starz-stz1">
+    <title lang="en">S2 E2 - The Veil of Time</title>
+    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
+  </programme>
+  <programme start="20260928010500 +0200" stop="20260928020000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E8 - You Won't See Me Coming</title>
+    <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
+  </programme>
+  <programme start="20260928020000 +0200" stop="20260928030000 +0200" channel="starz-stz1">
+    <title lang="en">S2 E2 - The Veil of Time</title>
+    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
+  </programme>
+  <programme start="20260928030000 +0200" stop="20260928035500 +0200" channel="starz-stz1">
+    <title lang="en">S1 E8 - You Won't See Me Coming</title>
+    <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
+  </programme>
+  <programme start="20260928035500 +0200" stop="20260928044500 +0200" channel="starz-stz1">
     <title lang="en">S1 E1 - Clean Entry</title>
     <desc lang="en">After a fatal decision costs him his career, Hondo Harrelson gets one shot at redemption: build a brand-new S.W.A.T. unit from LA's overlooked talent.</desc>
   </programme>
-  <programme start="20260926213000 +0200" stop="20260926222500 +0200" channel="starz-stz1">
+  <programme start="20260928044500 +0200" stop="20260928054500 +0200" channel="starz-stz1">
+    <title lang="en">S2 E2 - The Veil of Time</title>
+    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
+  </programme>
+  <programme start="20260928054500 +0200" stop="20260928064100 +0200" channel="starz-stz1">
     <title lang="en">S1 E8 - You Won't See Me Coming</title>
     <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
-  </programme>
-  <programme start="20260926222500 +0200" stop="20260926232300 +0200" channel="starz-stz1">
-    <title lang="en">S2 E2 - The Veil of Time</title>
-    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
-  </programme>
-  <programme start="20260926232300 +0200" stop="20260927010300 +0200" channel="starz-stz1">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
-  </programme>
-  <programme start="20260927010300 +0200" stop="20260927020100 +0200" channel="starz-stz1">
-    <title lang="en">S2 E2 - The Veil of Time</title>
-    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
-  </programme>
-  <programme start="20260927020100 +0200" stop="20260927025600 +0200" channel="starz-stz1">
-    <title lang="en">S1 E8 - You Won't See Me Coming</title>
-    <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
-  </programme>
-  <programme start="20260927025600 +0200" stop="20260927034500 +0200" channel="starz-stz1">
-    <title lang="en">S1 E1 - Clean Entry</title>
-    <desc lang="en">After a fatal decision costs him his career, Hondo Harrelson gets one shot at redemption: build a brand-new S.W.A.T. unit from LA's overlooked talent.</desc>
-  </programme>
-  <programme start="20260927034500 +0200" stop="20260927044500 +0200" channel="starz-stz1">
-    <title lang="en">S2 E2 - The Veil of Time</title>
-    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
-  </programme>
-  <programme start="20260927044500 +0200" stop="20260927054000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E8 - You Won't See Me Coming</title>
-    <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
-  </programme>
-  <programme start="20260927054000 +0200" stop="20260927063800 +0200" channel="starz-stz1">
-    <title lang="en">S2 E2 - The Veil of Time</title>
-    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
   </programme>
 </tv>
