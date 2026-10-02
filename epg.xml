@@ -3,68 +3,76 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261001045700 +0200" stop="20261001062800 +0200" channel="starz-stz1">
-    <title lang="en">Priest</title>
-    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
+  <programme start="20261002060000 +0200" stop="20261002064900 +0200" channel="starz-stz1">
+    <title lang="en">S1 E2 - Take the Shot</title>
+    <desc lang="en">Taking point as Scout for the first time, Malik faces an impossible call; one that will haunt him, and the squad, long after the smoke clears.</desc>
   </programme>
-  <programme start="20261001062800 +0200" stop="20261001083100 +0200" channel="starz-stz1">
-    <title lang="en">Hellboy II: The Golden Army</title>
-    <desc lang="en">The mythical world starts a rebellion against humanity in order to rule Earth. Hellboy and his team must save the world from the rebellious creatures.</desc>
+  <programme start="20261002064900 +0200" stop="20261002083800 +0200" channel="starz-stz1">
+    <title lang="en">Mindhunters</title>
+    <desc lang="en">Young FBI profilers train on a remote island, but when deaths occur, they realize one of them has become a killer - and escape may be impossible.</desc>
   </programme>
-  <programme start="20261001083100 +0200" stop="20261001101300 +0200" channel="starz-stz1">
-    <title lang="en">Queen Of Manhattan</title>
-    <desc lang="en">Vanessa Del Rio rises in adult film amid Times Square’s danger and crime in the 70s and 80s.</desc>
+  <programme start="20261002083800 +0200" stop="20261002103000 +0200" channel="starz-stz1">
+    <title lang="en">The Sixth Man</title>
+    <desc lang="en">Antoine’s dead, but still ballin’! As a ghostly &quot;sixth man,&quot; he’s making the funniest comeback in NCAA history.</desc>
   </programme>
-  <programme start="20261001101300 +0200" stop="20261001121000 +0200" channel="starz-stz1">
-    <title lang="en">Couples Retreat</title>
-    <desc lang="en">Four couples find that paradise comes at a price when they must participate in therapy sessions at a tropical resort.</desc>
-  </programme>
-  <programme start="20261001121000 +0200" stop="20261001133400 +0200" channel="starz-stz1">
-    <title lang="en">Welcome to Sudden Death</title>
-    <desc lang="en">A security guard battles a group of tech-savvy terrorists after they take hostages inside a basketball arena.</desc>
-  </programme>
-  <programme start="20261001133400 +0200" stop="20261001153700 +0200" channel="starz-stz1">
-    <title lang="en">Hellboy II: The Golden Army</title>
-    <desc lang="en">The mythical world starts a rebellion against humanity in order to rule Earth. Hellboy and his team must save the world from the rebellious creatures.</desc>
-  </programme>
-  <programme start="20261001153700 +0200" stop="20261001171700 +0200" channel="starz-stz1">
-    <title lang="en">Win A Date With Tad Hamilton!</title>
-    <desc lang="en">Rosalee wins a date with star Tad Hamilton, thrilling her but worrying Pete, her best friend who secretly loves her.</desc>
-  </programme>
-  <programme start="20261001171700 +0200" stop="20261001191400 +0200" channel="starz-stz1">
-    <title lang="en">Couples Retreat</title>
-    <desc lang="en">Four couples find that paradise comes at a price when they must participate in therapy sessions at a tropical resort.</desc>
-  </programme>
-  <programme start="20261001191400 +0200" stop="20261001204500 +0200" channel="starz-stz1">
-    <title lang="en">Motives</title>
-    <desc lang="en">After Emery Simms betrays his wife for a one-night stand, he learns that in a world of high society and shady business, someone is always watching.</desc>
-  </programme>
-  <programme start="20261001204500 +0200" stop="20261001222000 +0200" channel="starz-stz1">
-    <title lang="en">Motives 2: Retribution</title>
-    <desc lang="en">After a framed convict is killed in prison, his brother uncovers evidence implicating his best friend, pulling him into a deadly web of lies.</desc>
-  </programme>
-  <programme start="20261001222000 +0200" stop="20261002000500 +0200" channel="starz-stz1">
-    <title lang="en">The Bounce Back</title>
-    <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
-  </programme>
-  <programme start="20261002000500 +0200" stop="20261002013800 +0200" channel="starz-stz1">
-    <title lang="en">Oscar Shaw</title>
-    <desc lang="en">A retired cop embarks on a quest for vengeance after his best friend's death, determined to achieve justice on his own terms.</desc>
-  </programme>
-  <programme start="20261002013800 +0200" stop="20261002031500 +0200" channel="starz-stz1">
+  <programme start="20261002103000 +0200" stop="20261002120900 +0200" channel="starz-stz1">
     <title lang="en">Alarum</title>
     <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
   </programme>
-  <programme start="20261002031500 +0200" stop="20261002041500 +0200" channel="starz-stz1">
-    <title lang="en">S2 E2 - The Veil of Time</title>
-    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
+  <programme start="20261002120900 +0200" stop="20261002135300 +0200" channel="starz-stz1">
+    <title lang="en">Man Of The House</title>
+    <desc lang="en">A by-the-book Texas Ranger finds himself going undercover as a live-in coach to protect a group of college cheerleaders who witnessed a murder.</desc>
   </programme>
-  <programme start="20261002041500 +0200" stop="20261002051100 +0200" channel="starz-stz1">
+  <programme start="20261002135300 +0200" stop="20261002154100 +0200" channel="starz-stz1">
+    <title lang="en">The Man in the White Van</title>
+    <desc lang="en">Inspired by true events, a Florida teen’s life turns to fear when she realizes a man in a white van is watching her every move.</desc>
+  </programme>
+  <programme start="20261002154100 +0200" stop="20261002171400 +0200" channel="starz-stz1">
+    <title lang="en">Oscar Shaw</title>
+    <desc lang="en">A retired cop embarks on a quest for vengeance after his best friend's death, determined to achieve justice on his own terms.</desc>
+  </programme>
+  <programme start="20261002171400 +0200" stop="20261002180900 +0200" channel="starz-stz1">
     <title lang="en">S1 E8 - You Won't See Me Coming</title>
     <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
   </programme>
-  <programme start="20261002051100 +0200" stop="20261002060000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E1 - Clean Entry</title>
-    <desc lang="en">After a fatal decision costs him his career, Hondo Harrelson gets one shot at redemption: build a brand-new S.W.A.T. unit from LA's overlooked talent.</desc>
+  <programme start="20261002180900 +0200" stop="20261002195700 +0200" channel="starz-stz1">
+    <title lang="en">Shelter</title>
+    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
+  </programme>
+  <programme start="20261002195700 +0200" stop="20261002214600 +0200" channel="starz-stz1">
+    <title lang="en">Deliver Us from Eva</title>
+    <desc lang="en">Three men pay Ray to romance Eva, their girlfriends' bossy older sister. But they get more than they bargained for when Ray begins to fall for Eva.</desc>
+  </programme>
+  <programme start="20261002214600 +0200" stop="20261002232500 +0200" channel="starz-stz1">
+    <title lang="en">Alarum</title>
+    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  </programme>
+  <programme start="20261002232500 +0200" stop="20261003010500 +0200" channel="starz-stz1">
+    <title lang="en">Power Ballad</title>
+    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
+  </programme>
+  <programme start="20261003010500 +0200" stop="20261003020500 +0200" channel="starz-stz1">
+    <title lang="en">S2 E2 - The Veil of Time</title>
+    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
+  </programme>
+  <programme start="20261003020500 +0200" stop="20261003030500 +0200" channel="starz-stz1">
+    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
+    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
+  </programme>
+  <programme start="20261003030500 +0200" stop="20261003040000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E1 - Episode 1</title>
+    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
+  </programme>
+  <programme start="20261003040000 +0200" stop="20261003044900 +0200" channel="starz-stz1">
+    <title lang="en">S1 E2 - Take the Shot</title>
+    <desc lang="en">Taking point as Scout for the first time, Malik faces an impossible call; one that will haunt him, and the squad, long after the smoke clears.</desc>
+  </programme>
+  <programme start="20261003044900 +0200" stop="20261003054700 +0200" channel="starz-stz1">
+    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
+    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
+  </programme>
+  <programme start="20261003054700 +0200" stop="20261003063800 +0200" channel="starz-stz1">
+    <title lang="en">S1 E1 - Episode 1</title>
+    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
   </programme>
 </tv>
