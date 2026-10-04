@@ -3,88 +3,94 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261003054700 +0200" stop="20261003063800 +0200" channel="starz-stz1">
-    <title lang="en">S1 E1 - Episode 1</title>
-    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
-  </programme>
-  <programme start="20261003063800 +0200" stop="20261003072700 +0200" channel="starz-stz1">
-    <title lang="en">S1 E2 - Take the Shot</title>
-    <desc lang="en">Taking point as Scout for the first time, Malik faces an impossible call; one that will haunt him, and the squad, long after the smoke clears.</desc>
-  </programme>
-  <programme start="20261003072700 +0200" stop="20261003082300 +0200" channel="starz-stz1">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261003082300 +0200" stop="20261003101100 +0200" channel="starz-stz1">
-    <title lang="en">Shelter</title>
-    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
-  </programme>
-  <programme start="20261003101100 +0200" stop="20261003110000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E1 - Episode 1</title>
-    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
-  </programme>
-  <programme start="20261003110000 +0200" stop="20261003132000 +0200" channel="starz-stz1">
-    <title lang="en">Outlaw Johnny Black</title>
-    <desc lang="en">Cowboy Johnny Black becomes a wanted man while seeking revenge for the death of his father.</desc>
-  </programme>
-  <programme start="20261003132000 +0200" stop="20261003150000 +0200" channel="starz-stz1">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
-  </programme>
-  <programme start="20261003150000 +0200" stop="20261003171000 +0200" channel="starz-stz1">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20261003171000 +0200" stop="20261003180600 +0200" channel="starz-stz1">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261003180600 +0200" stop="20261003185500 +0200" channel="starz-stz1">
-    <title lang="en">S1 E2 - Take the Shot</title>
-    <desc lang="en">Taking point as Scout for the first time, Malik faces an impossible call; one that will haunt him, and the squad, long after the smoke clears.</desc>
-  </programme>
-  <programme start="20261003185500 +0200" stop="20261003194500 +0200" channel="starz-stz1">
-    <title lang="en">S1 E1 - Episode 1</title>
-    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
-  </programme>
-  <programme start="20261003194500 +0200" stop="20261003204000 +0200" channel="starz-stz1">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261003204000 +0200" stop="20261003223100 +0200" channel="starz-stz1">
-    <title lang="en">ATL</title>
-    <desc lang="en">In Atlanta's skating world, Rashad struggles to guide his younger brother but finds hope in New‑New, unaware she’s keeping a major secret.</desc>
-  </programme>
-  <programme start="20261003223100 +0200" stop="20261003232100 +0200" channel="starz-stz1">
-    <title lang="en">S1 E2 - Take the Shot</title>
-    <desc lang="en">Taking point as Scout for the first time, Malik faces an impossible call; one that will haunt him, and the squad, long after the smoke clears.</desc>
-  </programme>
-  <programme start="20261003232100 +0200" stop="20261004010000 +0200" channel="starz-stz1">
-    <title lang="en">Alarum</title>
-    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
-  </programme>
-  <programme start="20261004010000 +0200" stop="20261004015800 +0200" channel="starz-stz1">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261004015800 +0200" stop="20261004024900 +0200" channel="starz-stz1">
-    <title lang="en">S1 E1 - Episode 1</title>
-    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
-  </programme>
-  <programme start="20261004024900 +0200" stop="20261004033800 +0200" channel="starz-stz1">
-    <title lang="en">S1 E2 - Take the Shot</title>
-    <desc lang="en">Taking point as Scout for the first time, Malik faces an impossible call; one that will haunt him, and the squad, long after the smoke clears.</desc>
-  </programme>
-  <programme start="20261004033800 +0200" stop="20261004043600 +0200" channel="starz-stz1">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261004043600 +0200" stop="20261004052700 +0200" channel="starz-stz1">
-    <title lang="en">S1 E1 - Episode 1</title>
-    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
-  </programme>
   <programme start="20261004052700 +0200" stop="20261004062500 +0200" channel="starz-stz1">
     <title lang="en">S2 E3 - Rabbits Don't Swim</title>
     <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
+  </programme>
+  <programme start="20261004062500 +0200" stop="20261004071600 +0200" channel="starz-stz1">
+    <title lang="en">S1 E1 - Episode 1</title>
+    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
+  </programme>
+  <programme start="20261004071600 +0200" stop="20261004080500 +0200" channel="starz-stz1">
+    <title lang="en">S1 E2 - Take the Shot</title>
+    <desc lang="en">Taking point as Scout for the first time, Malik faces an impossible call; one that will haunt him, and the squad, long after the smoke clears.</desc>
+  </programme>
+  <programme start="20261004080500 +0200" stop="20261004090300 +0200" channel="starz-stz1">
+    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
+    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
+  </programme>
+  <programme start="20261004090300 +0200" stop="20261004111500 +0200" channel="starz-stz1">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20261004111500 +0200" stop="20261004120500 +0200" channel="starz-stz1">
+    <title lang="en">S1 E2 - Take the Shot</title>
+    <desc lang="en">Taking point as Scout for the first time, Malik faces an impossible call; one that will haunt him, and the squad, long after the smoke clears.</desc>
+  </programme>
+  <programme start="20261004120500 +0200" stop="20261004140000 +0200" channel="starz-stz1">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
+  </programme>
+  <programme start="20261004140000 +0200" stop="20261004155000 +0200" channel="starz-stz1">
+    <title lang="en">Mamma Mia!</title>
+    <desc lang="en">Hoping to meet her real father and have him walk her down the aisle, a bride secretly invites three men from her mother's past to come to the wedding.</desc>
+  </programme>
+  <programme start="20261004155000 +0200" stop="20261004172000 +0200" channel="starz-stz1">
+    <title lang="en">Oscar Shaw</title>
+    <desc lang="en">A retired cop embarks on a quest for vengeance after his best friend's death, determined to achieve justice on his own terms.</desc>
+  </programme>
+  <programme start="20261004172000 +0200" stop="20261004185600 +0200" channel="starz-stz1">
+    <title lang="en">Alarum</title>
+    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  </programme>
+  <programme start="20261004185600 +0200" stop="20261004194500 +0200" channel="starz-stz1">
+    <title lang="en">S1 E2 - Take the Shot</title>
+    <desc lang="en">Taking point as Scout for the first time, Malik faces an impossible call; one that will haunt him, and the squad, long after the smoke clears.</desc>
+  </programme>
+  <programme start="20261004194500 +0200" stop="20261004203500 +0200" channel="starz-stz1">
+    <title lang="en">S1 E1 - Episode 1</title>
+    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
+  </programme>
+  <programme start="20261004203500 +0200" stop="20261004213100 +0200" channel="starz-stz1">
+    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
+    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
+  </programme>
+  <programme start="20261004213100 +0200" stop="20261004222000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E2 - Take the Shot</title>
+    <desc lang="en">Taking point as Scout for the first time, Malik faces an impossible call; one that will haunt him, and the squad, long after the smoke clears.</desc>
+  </programme>
+  <programme start="20261004222000 +0200" stop="20261005001500 +0200" channel="starz-stz1">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
+  </programme>
+  <programme start="20261005001500 +0200" stop="20261005011100 +0200" channel="starz-stz1">
+    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
+    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
+  </programme>
+  <programme start="20261005011100 +0200" stop="20261005020200 +0200" channel="starz-stz1">
+    <title lang="en">S1 E1 - Episode 1</title>
+    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
+  </programme>
+  <programme start="20261005020200 +0200" stop="20261005030000 +0200" channel="starz-stz1">
+    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
+    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
+  </programme>
+  <programme start="20261005030000 +0200" stop="20261005035100 +0200" channel="starz-stz1">
+    <title lang="en">S1 E1 - Episode 1</title>
+    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
+  </programme>
+  <programme start="20261005035100 +0200" stop="20261005044000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E2 - Take the Shot</title>
+    <desc lang="en">Taking point as Scout for the first time, Malik faces an impossible call; one that will haunt him, and the squad, long after the smoke clears.</desc>
+  </programme>
+  <programme start="20261005044000 +0200" stop="20261005053800 +0200" channel="starz-stz1">
+    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
+    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
+  </programme>
+  <programme start="20261005053800 +0200" stop="20261005062900 +0200" channel="starz-stz1">
+    <title lang="en">S1 E1 - Episode 1</title>
+    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
   </programme>
 </tv>
