@@ -3,77 +3,72 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261005053800 +0200" stop="20261005062900 +0200" channel="starz-stz1">
-    <title lang="en">S1 E1 - Episode 1</title>
-    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
-  </programme>
-  <programme start="20261005062900 +0200" stop="20261005072700 +0200" channel="starz-stz1">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261005072700 +0200" stop="20261005092400 +0200" channel="starz-stz1">
-    <title lang="en">The Furious</title>
-    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
-</desc>
-  </programme>
-  <programme start="20261005092400 +0200" stop="20261005112400 +0200" channel="starz-stz1">
-    <title lang="en">How to Lose a Guy in 10 Days</title>
-    <desc lang="en">Andie must write about losing a guy in 10 days.  Benjamin bets he can make her fall in love. Their clash sparks hilarious chaos - and true love.</desc>
-  </programme>
-  <programme start="20261005112400 +0200" stop="20261005122400 +0200" channel="starz-stz1">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261005122400 +0200" stop="20261005150600 +0200" channel="starz-stz1">
-    <title lang="en">2012</title>
-    <desc lang="en">Solar flares creating instability at the Earth's core lead to a series of mega-earthquakes, toppling skyscrapers, and massive tidal waves!</desc>
-  </programme>
-  <programme start="20261005150600 +0200" stop="20261005170500 +0200" channel="starz-stz1">
-    <title lang="en">How to Lose a Guy in 10 Days</title>
-    <desc lang="en">Andie must write about losing a guy in 10 days.  Benjamin bets he can make her fall in love. Their clash sparks hilarious chaos - and true love.</desc>
-  </programme>
-  <programme start="20261005170500 +0200" stop="20261005180300 +0200" channel="starz-stz1">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261005180300 +0200" stop="20261005185200 +0200" channel="starz-stz1">
-    <title lang="en">S1 E2 - Take the Shot</title>
-    <desc lang="en">Taking point as Scout for the first time, Malik faces an impossible call; one that will haunt him, and the squad, long after the smoke clears.</desc>
-  </programme>
-  <programme start="20261005185200 +0200" stop="20261005194300 +0200" channel="starz-stz1">
-    <title lang="en">S1 E1 - Episode 1</title>
-    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
-  </programme>
-  <programme start="20261005194300 +0200" stop="20261005204100 +0200" channel="starz-stz1">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261005204100 +0200" stop="20261005213000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E2 - Take the Shot</title>
-    <desc lang="en">Taking point as Scout for the first time, Malik faces an impossible call; one that will haunt him, and the squad, long after the smoke clears.</desc>
-  </programme>
-  <programme start="20261005213000 +0200" stop="20261005232000 +0200" channel="starz-stz1">
-    <title lang="en">Underworld: Evolution</title>
-    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
-  </programme>
-  <programme start="20261005232000 +0200" stop="20261006020000 +0200" channel="starz-stz1">
-    <title lang="en">2012</title>
-    <desc lang="en">Solar flares creating instability at the Earth's core lead to a series of mega-earthquakes, toppling skyscrapers, and massive tidal waves!</desc>
-  </programme>
-  <programme start="20261006020000 +0200" stop="20261006024900 +0200" channel="starz-stz1">
-    <title lang="en">S1 E2 - Take the Shot</title>
-    <desc lang="en">Taking point as Scout for the first time, Malik faces an impossible call; one that will haunt him, and the squad, long after the smoke clears.</desc>
-  </programme>
-  <programme start="20261006024900 +0200" stop="20261006034700 +0200" channel="starz-stz1">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261006034700 +0200" stop="20261006043800 +0200" channel="starz-stz1">
-    <title lang="en">S1 E1 - Episode 1</title>
-    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
-  </programme>
   <programme start="20261006043800 +0200" stop="20261006063200 +0200" channel="starz-stz1">
     <title lang="en">Speak No Evil</title>
     <desc lang="en">A family accepts an invitation to spend a weekend at a secluded country home, only to discover unsettling truths about their hosts as the days unfold.</desc>
+  </programme>
+  <programme start="20261006063200 +0200" stop="20261006081300 +0200" channel="starz-stz1">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20261006081300 +0200" stop="20261006100000 +0200" channel="starz-stz1">
+    <title lang="en">Let's Be Cops</title>
+    <desc lang="en">Two slackers impersonate cops and enjoy the perks - drugs, women, and a squad car - until their scam entangles them with real mobsters.</desc>
+  </programme>
+  <programme start="20261006100000 +0200" stop="20261006111900 +0200" channel="starz-stz1">
+    <title lang="en">Resurrection Road</title>
+    <desc lang="en">Six soldiers infiltrate a Confederate fort in Arkansas, but their mission takes a chilling turn when they uncover a dark, sinister secret.</desc>
+  </programme>
+  <programme start="20261006111900 +0200" stop="20261006132000 +0200" channel="starz-stz1">
+    <title lang="en">Sisters</title>
+    <desc lang="en">Two sisters return to their family home and throw one final high-school-style party that turns into a cathartic rager that they really need.</desc>
+  </programme>
+  <programme start="20261006132000 +0200" stop="20261006145000 +0200" channel="starz-stz1">
+    <title lang="en">Motives</title>
+    <desc lang="en">After Emery Simms betrays his wife for a one-night stand, he learns that in a world of high society and shady business, someone is always watching.</desc>
+  </programme>
+  <programme start="20261006145000 +0200" stop="20261006162500 +0200" channel="starz-stz1">
+    <title lang="en">Motives 2: Retribution</title>
+    <desc lang="en">After a framed convict is killed in prison, his brother uncovers evidence implicating his best friend, pulling him into a deadly web of lies.</desc>
+  </programme>
+  <programme start="20261006162500 +0200" stop="20261006172100 +0200" channel="starz-stz1">
+    <title lang="en">S3 E1 - DO OR DIE</title>
+    <desc lang="en">With some of his biggest obstacles off the map, Tommy faces new opportunities and challenges in his quest to take over the Chicago drug game.</desc>
+  </programme>
+  <programme start="20261006172100 +0200" stop="20261006182000 +0200" channel="starz-stz1">
+    <title lang="en">S3 E2 - A SEAT AT THE TABLE</title>
+    <desc lang="en">Tommy's ambition sets him on a dangerous path, testing his alliances and endangering those closest to him.</desc>
+  </programme>
+  <programme start="20261006182000 +0200" stop="20261006192000 +0200" channel="starz-stz1">
+    <title lang="en">S3 E3 - THERE'S ALWAYS A PRICE TO PAY</title>
+    <desc lang="en">As Tommy does damage control with allies, Diamond and Jenard devise a plan to deal with D-Mac, and Vic plots his next move.</desc>
+  </programme>
+  <programme start="20261006192000 +0200" stop="20261006202100 +0200" channel="starz-stz1">
+    <title lang="en">S3 E4 - TIME TO SEE THE KING</title>
+    <desc lang="en">Tommy finds a way to protect D-Mac, and Jenard mends fences to please Shanti.</desc>
+  </programme>
+  <programme start="20261006202100 +0200" stop="20261006212200 +0200" channel="starz-stz1">
+    <title lang="en">S3 E5 - THE LAST DANCE</title>
+    <desc lang="en">Diamond and Jenard strengthen their relationship over a common enemy, while Tommy ties up a loose end.</desc>
+  </programme>
+  <programme start="20261006212200 +0200" stop="20261006231000 +0200" channel="starz-stz1">
+    <title lang="en">Let's Be Cops</title>
+    <desc lang="en">Two slackers impersonate cops and enjoy the perks - drugs, women, and a squad car - until their scam entangles them with real mobsters.</desc>
+  </programme>
+  <programme start="20261006231000 +0200" stop="20261007005900 +0200" channel="starz-stz1">
+    <title lang="en">Deliver Us from Eva</title>
+    <desc lang="en">Three men pay Ray to romance Eva, their girlfriends' bossy older sister. But they get more than they bargained for when Ray begins to fall for Eva.</desc>
+  </programme>
+  <programme start="20261007005900 +0200" stop="20261007030000 +0200" channel="starz-stz1">
+    <title lang="en">Sisters</title>
+    <desc lang="en">Two sisters return to their family home and throw one final high-school-style party that turns into a cathartic rager that they really need.</desc>
+  </programme>
+  <programme start="20261007030000 +0200" stop="20261007044100 +0200" channel="starz-stz1">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20261007044100 +0200" stop="20261007061600 +0200" channel="starz-stz1">
+    <title lang="en">The Strangers: Chapter 3</title>
+    <desc lang="en">As the killers’ mythology grows darker, Maya is dragged deeper into their cycle of terror and forced toward a final confrontation she can’t outrun.</desc>
   </programme>
 </tv>
