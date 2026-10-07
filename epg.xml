@@ -3,72 +3,68 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261006043800 +0200" stop="20261006063200 +0200" channel="starz-stz1">
-    <title lang="en">Speak No Evil</title>
-    <desc lang="en">A family accepts an invitation to spend a weekend at a secluded country home, only to discover unsettling truths about their hosts as the days unfold.</desc>
-  </programme>
-  <programme start="20261006063200 +0200" stop="20261006081300 +0200" channel="starz-stz1">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
-  <programme start="20261006081300 +0200" stop="20261006100000 +0200" channel="starz-stz1">
-    <title lang="en">Let's Be Cops</title>
-    <desc lang="en">Two slackers impersonate cops and enjoy the perks - drugs, women, and a squad car - until their scam entangles them with real mobsters.</desc>
-  </programme>
-  <programme start="20261006100000 +0200" stop="20261006111900 +0200" channel="starz-stz1">
-    <title lang="en">Resurrection Road</title>
-    <desc lang="en">Six soldiers infiltrate a Confederate fort in Arkansas, but their mission takes a chilling turn when they uncover a dark, sinister secret.</desc>
-  </programme>
-  <programme start="20261006111900 +0200" stop="20261006132000 +0200" channel="starz-stz1">
-    <title lang="en">Sisters</title>
-    <desc lang="en">Two sisters return to their family home and throw one final high-school-style party that turns into a cathartic rager that they really need.</desc>
-  </programme>
-  <programme start="20261006132000 +0200" stop="20261006145000 +0200" channel="starz-stz1">
-    <title lang="en">Motives</title>
-    <desc lang="en">After Emery Simms betrays his wife for a one-night stand, he learns that in a world of high society and shady business, someone is always watching.</desc>
-  </programme>
-  <programme start="20261006145000 +0200" stop="20261006162500 +0200" channel="starz-stz1">
-    <title lang="en">Motives 2: Retribution</title>
-    <desc lang="en">After a framed convict is killed in prison, his brother uncovers evidence implicating his best friend, pulling him into a deadly web of lies.</desc>
-  </programme>
-  <programme start="20261006162500 +0200" stop="20261006172100 +0200" channel="starz-stz1">
-    <title lang="en">S3 E1 - DO OR DIE</title>
-    <desc lang="en">With some of his biggest obstacles off the map, Tommy faces new opportunities and challenges in his quest to take over the Chicago drug game.</desc>
-  </programme>
-  <programme start="20261006172100 +0200" stop="20261006182000 +0200" channel="starz-stz1">
-    <title lang="en">S3 E2 - A SEAT AT THE TABLE</title>
-    <desc lang="en">Tommy's ambition sets him on a dangerous path, testing his alliances and endangering those closest to him.</desc>
-  </programme>
-  <programme start="20261006182000 +0200" stop="20261006192000 +0200" channel="starz-stz1">
-    <title lang="en">S3 E3 - THERE'S ALWAYS A PRICE TO PAY</title>
-    <desc lang="en">As Tommy does damage control with allies, Diamond and Jenard devise a plan to deal with D-Mac, and Vic plots his next move.</desc>
-  </programme>
-  <programme start="20261006192000 +0200" stop="20261006202100 +0200" channel="starz-stz1">
-    <title lang="en">S3 E4 - TIME TO SEE THE KING</title>
-    <desc lang="en">Tommy finds a way to protect D-Mac, and Jenard mends fences to please Shanti.</desc>
-  </programme>
-  <programme start="20261006202100 +0200" stop="20261006212200 +0200" channel="starz-stz1">
-    <title lang="en">S3 E5 - THE LAST DANCE</title>
-    <desc lang="en">Diamond and Jenard strengthen their relationship over a common enemy, while Tommy ties up a loose end.</desc>
-  </programme>
-  <programme start="20261006212200 +0200" stop="20261006231000 +0200" channel="starz-stz1">
-    <title lang="en">Let's Be Cops</title>
-    <desc lang="en">Two slackers impersonate cops and enjoy the perks - drugs, women, and a squad car - until their scam entangles them with real mobsters.</desc>
-  </programme>
-  <programme start="20261006231000 +0200" stop="20261007005900 +0200" channel="starz-stz1">
-    <title lang="en">Deliver Us from Eva</title>
-    <desc lang="en">Three men pay Ray to romance Eva, their girlfriends' bossy older sister. But they get more than they bargained for when Ray begins to fall for Eva.</desc>
-  </programme>
-  <programme start="20261007005900 +0200" stop="20261007030000 +0200" channel="starz-stz1">
-    <title lang="en">Sisters</title>
-    <desc lang="en">Two sisters return to their family home and throw one final high-school-style party that turns into a cathartic rager that they really need.</desc>
-  </programme>
-  <programme start="20261007030000 +0200" stop="20261007044100 +0200" channel="starz-stz1">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
   <programme start="20261007044100 +0200" stop="20261007061600 +0200" channel="starz-stz1">
     <title lang="en">The Strangers: Chapter 3</title>
     <desc lang="en">As the killers’ mythology grows darker, Maya is dragged deeper into their cycle of terror and forced toward a final confrontation she can’t outrun.</desc>
+  </programme>
+  <programme start="20261007061600 +0200" stop="20261007074700 +0200" channel="starz-stz1">
+    <title lang="en">Priest</title>
+    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
+  </programme>
+  <programme start="20261007074700 +0200" stop="20261007093800 +0200" channel="starz-stz1">
+    <title lang="en">Shelter</title>
+    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
+  </programme>
+  <programme start="20261007093800 +0200" stop="20261007112300 +0200" channel="starz-stz1">
+    <title lang="en">Cradle 2 The Grave</title>
+    <desc lang="en">After his daughter is kidnapped, Tony Fait joins forces with a relentless operative to recover stolen black diamonds and stop a dangerous conspiracy.</desc>
+  </programme>
+  <programme start="20261007112300 +0200" stop="20261007131900 +0200" channel="starz-stz1">
+    <title lang="en">How to Lose a Guy in 10 Days</title>
+    <desc lang="en">Andie must write about losing a guy in 10 days.  Benjamin bets he can make her fall in love. Their clash sparks hilarious chaos - and true love.</desc>
+  </programme>
+  <programme start="20261007131900 +0200" stop="20261007153000 +0200" channel="starz-stz1">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20261007153000 +0200" stop="20261007163000 +0200" channel="starz-stz1">
+    <title lang="en">S3 E6 - ASSET FORFEITURE</title>
+    <desc lang="en">Tommy and Diamond disagree on business, Stacy does damage control to salvage her campaign, and Mireya contemplates her future.</desc>
+  </programme>
+  <programme start="20261007163000 +0200" stop="20261007173100 +0200" channel="starz-stz1">
+    <title lang="en">S3 E7 - LINES IN THE SAND</title>
+    <desc lang="en">While some relationships are mended, other brewing tensions reach their boiling point, setting the stage for unlikely allies.</desc>
+  </programme>
+  <programme start="20261007173100 +0200" stop="20261007183200 +0200" channel="starz-stz1">
+    <title lang="en">S3 E8 - BUILD BACK BETTER</title>
+    <desc lang="en">After a major shakeup, Tommy moves fast to rebuild, and the stakes are higher than ever.</desc>
+  </programme>
+  <programme start="20261007183200 +0200" stop="20261007193200 +0200" channel="starz-stz1">
+    <title lang="en">S3 E9 - WAR REQUIEM</title>
+    <desc lang="en">Revenge, new alliances and dangerous secrets collide, leaving everyone to fight dirty in a game with deadly consequences.</desc>
+  </programme>
+  <programme start="20261007193200 +0200" stop="20261007203800 +0200" channel="starz-stz1">
+    <title lang="en">S3 E10 - BEGINNING OF THE END</title>
+    <desc lang="en">The mounting pressure for retaliation looms, as disastrous moves and shocking secrets shake the streets.</desc>
+  </programme>
+  <programme start="20261007203800 +0200" stop="20261007230000 +0200" channel="starz-stz1">
+    <title lang="en">Star Wars: The Force Awakens</title>
+    <desc lang="en">As a new threat emerges, Rey, a scavenger from the desert, and Finn, a former stormtrooper, team up with Han Solo to find the key to restoring peace.</desc>
+  </programme>
+  <programme start="20261007230000 +0200" stop="20261008010000 +0200" channel="starz-stz1">
+    <title lang="en">Deliver Us From Evil</title>
+    <desc lang="en">A Bronx cop investigates a series of heinous events and meets a priest who tries to convince him that demonic possession is the root of the evil.</desc>
+  </programme>
+  <programme start="20261008010000 +0200" stop="20261008030000 +0200" channel="starz-stz1">
+    <title lang="en">Ant-Man</title>
+    <desc lang="en">From Marvel: Looking for a new start, master thief Scott Lang is approached by Dr. Pym, creator of a technology that can shrink a man to insect size.</desc>
+  </programme>
+  <programme start="20261008030000 +0200" stop="20261008045100 +0200" channel="starz-stz1">
+    <title lang="en">Shelter</title>
+    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
+  </programme>
+  <programme start="20261008045100 +0200" stop="20261008070400 +0200" channel="starz-stz1">
+    <title lang="en">Pain &amp; Gain</title>
+    <desc lang="en">When an ambitious group of personal trainers go after the American Dream, they get caught up in a criminal enterprise that goes horribly wrong.</desc>
   </programme>
 </tv>
