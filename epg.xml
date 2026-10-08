@@ -3,68 +3,64 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261007044100 +0200" stop="20261007061600 +0200" channel="starz-stz1">
-    <title lang="en">The Strangers: Chapter 3</title>
-    <desc lang="en">As the killers’ mythology grows darker, Maya is dragged deeper into their cycle of terror and forced toward a final confrontation she can’t outrun.</desc>
-  </programme>
-  <programme start="20261007061600 +0200" stop="20261007074700 +0200" channel="starz-stz1">
-    <title lang="en">Priest</title>
-    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
-  </programme>
-  <programme start="20261007074700 +0200" stop="20261007093800 +0200" channel="starz-stz1">
-    <title lang="en">Shelter</title>
-    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
-  </programme>
-  <programme start="20261007093800 +0200" stop="20261007112300 +0200" channel="starz-stz1">
-    <title lang="en">Cradle 2 The Grave</title>
-    <desc lang="en">After his daughter is kidnapped, Tony Fait joins forces with a relentless operative to recover stolen black diamonds and stop a dangerous conspiracy.</desc>
-  </programme>
-  <programme start="20261007112300 +0200" stop="20261007131900 +0200" channel="starz-stz1">
-    <title lang="en">How to Lose a Guy in 10 Days</title>
-    <desc lang="en">Andie must write about losing a guy in 10 days.  Benjamin bets he can make her fall in love. Their clash sparks hilarious chaos - and true love.</desc>
-  </programme>
-  <programme start="20261007131900 +0200" stop="20261007153000 +0200" channel="starz-stz1">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20261007153000 +0200" stop="20261007163000 +0200" channel="starz-stz1">
-    <title lang="en">S3 E6 - ASSET FORFEITURE</title>
-    <desc lang="en">Tommy and Diamond disagree on business, Stacy does damage control to salvage her campaign, and Mireya contemplates her future.</desc>
-  </programme>
-  <programme start="20261007163000 +0200" stop="20261007173100 +0200" channel="starz-stz1">
-    <title lang="en">S3 E7 - LINES IN THE SAND</title>
-    <desc lang="en">While some relationships are mended, other brewing tensions reach their boiling point, setting the stage for unlikely allies.</desc>
-  </programme>
-  <programme start="20261007173100 +0200" stop="20261007183200 +0200" channel="starz-stz1">
-    <title lang="en">S3 E8 - BUILD BACK BETTER</title>
-    <desc lang="en">After a major shakeup, Tommy moves fast to rebuild, and the stakes are higher than ever.</desc>
-  </programme>
-  <programme start="20261007183200 +0200" stop="20261007193200 +0200" channel="starz-stz1">
-    <title lang="en">S3 E9 - WAR REQUIEM</title>
-    <desc lang="en">Revenge, new alliances and dangerous secrets collide, leaving everyone to fight dirty in a game with deadly consequences.</desc>
-  </programme>
-  <programme start="20261007193200 +0200" stop="20261007203800 +0200" channel="starz-stz1">
-    <title lang="en">S3 E10 - BEGINNING OF THE END</title>
-    <desc lang="en">The mounting pressure for retaliation looms, as disastrous moves and shocking secrets shake the streets.</desc>
-  </programme>
-  <programme start="20261007203800 +0200" stop="20261007230000 +0200" channel="starz-stz1">
-    <title lang="en">Star Wars: The Force Awakens</title>
-    <desc lang="en">As a new threat emerges, Rey, a scavenger from the desert, and Finn, a former stormtrooper, team up with Han Solo to find the key to restoring peace.</desc>
-  </programme>
-  <programme start="20261007230000 +0200" stop="20261008010000 +0200" channel="starz-stz1">
-    <title lang="en">Deliver Us From Evil</title>
-    <desc lang="en">A Bronx cop investigates a series of heinous events and meets a priest who tries to convince him that demonic possession is the root of the evil.</desc>
-  </programme>
-  <programme start="20261008010000 +0200" stop="20261008030000 +0200" channel="starz-stz1">
-    <title lang="en">Ant-Man</title>
-    <desc lang="en">From Marvel: Looking for a new start, master thief Scott Lang is approached by Dr. Pym, creator of a technology that can shrink a man to insect size.</desc>
-  </programme>
-  <programme start="20261008030000 +0200" stop="20261008045100 +0200" channel="starz-stz1">
-    <title lang="en">Shelter</title>
-    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
-  </programme>
   <programme start="20261008045100 +0200" stop="20261008070400 +0200" channel="starz-stz1">
     <title lang="en">Pain &amp; Gain</title>
     <desc lang="en">When an ambitious group of personal trainers go after the American Dream, they get caught up in a criminal enterprise that goes horribly wrong.</desc>
+  </programme>
+  <programme start="20261008070400 +0200" stop="20261008092700 +0200" channel="starz-stz1">
+    <title lang="en">Star Wars: The Force Awakens</title>
+    <desc lang="en">As a new threat emerges, Rey, a scavenger from the desert, and Finn, a former stormtrooper, team up with Han Solo to find the key to restoring peace.</desc>
+  </programme>
+  <programme start="20261008092700 +0200" stop="20261008104900 +0200" channel="starz-stz1">
+    <title lang="en">Resurrection Road</title>
+    <desc lang="en">Six soldiers infiltrate a Confederate fort in Arkansas, but their mission takes a chilling turn when they uncover a dark, sinister secret.</desc>
+  </programme>
+  <programme start="20261008104900 +0200" stop="20261008121500 +0200" channel="starz-stz1">
+    <title lang="en">Like A Boss</title>
+    <desc lang="en">Mia and Mel face a tough choice: accept a buyout or risk losing their friendship. In the beauty biz, things get messy fast - and not just the mascara.</desc>
+  </programme>
+  <programme start="20261008121500 +0200" stop="20261008141200 +0200" channel="starz-stz1">
+    <title lang="en">The Longest Yard</title>
+    <desc lang="en">After landing in prison, Paul &quot;Wrecking&quot; Crewe must form an inmate football team to face the guards - only the &quot;Mean Machine&quot; decides to fight back.</desc>
+  </programme>
+  <programme start="20261008141200 +0200" stop="20261008153800 +0200" channel="starz-stz1">
+    <title lang="en">Scary Movie 2</title>
+    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
+  </programme>
+  <programme start="20261008153800 +0200" stop="20261008180000 +0200" channel="starz-stz1">
+    <title lang="en">Star Wars: The Force Awakens</title>
+    <desc lang="en">As a new threat emerges, Rey, a scavenger from the desert, and Finn, a former stormtrooper, team up with Han Solo to find the key to restoring peace.</desc>
+  </programme>
+  <programme start="20261008180000 +0200" stop="20261008200000 +0200" channel="starz-stz1">
+    <title lang="en">The 40-Year-Old Virgin</title>
+    <desc lang="en">Andy’s 40 and has never had sex. Add in a hot single mom with a &quot;no-touch&quot; policy and you’ve got one frustrated late bloomer.</desc>
+  </programme>
+  <programme start="20261008200000 +0200" stop="20261008220000 +0200" channel="starz-stz1">
+    <title lang="en">Ant-Man</title>
+    <desc lang="en">From Marvel: Looking for a new start, master thief Scott Lang is approached by Dr. Pym, creator of a technology that can shrink a man to insect size.</desc>
+  </programme>
+  <programme start="20261008220000 +0200" stop="20261008235600 +0200" channel="starz-stz1">
+    <title lang="en">The Longest Yard</title>
+    <desc lang="en">After landing in prison, Paul &quot;Wrecking&quot; Crewe must form an inmate football team to face the guards - only the &quot;Mean Machine&quot; decides to fight back.</desc>
+  </programme>
+  <programme start="20261008235600 +0200" stop="20261009012200 +0200" channel="starz-stz1">
+    <title lang="en">Scary Movie 2</title>
+    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
+  </programme>
+  <programme start="20261009012200 +0200" stop="20261009032200 +0200" channel="starz-stz1">
+    <title lang="en">The 40-Year-Old Virgin</title>
+    <desc lang="en">Andy’s 40 and has never had sex. Add in a hot single mom with a &quot;no-touch&quot; policy and you’ve got one frustrated late bloomer.</desc>
+  </programme>
+  <programme start="20261009032200 +0200" stop="20261009042000 +0200" channel="starz-stz1">
+    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
+    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
+  </programme>
+  <programme start="20261009042000 +0200" stop="20261009051100 +0200" channel="starz-stz1">
+    <title lang="en">S1 E1 - Episode 1</title>
+    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
+  </programme>
+  <programme start="20261009051100 +0200" stop="20261009060000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E2 - Take the Shot</title>
+    <desc lang="en">Taking point as Scout for the first time, Malik faces an impossible call; one that will haunt him, and the squad, long after the smoke clears.</desc>
   </programme>
 </tv>
