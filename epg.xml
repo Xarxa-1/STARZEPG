@@ -3,101 +3,80 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261018052900 +0200" stop="20261018062600 +0200" channel="starz-stz1">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
-  </programme>
-  <programme start="20261018062600 +0200" stop="20261018071900 +0200" channel="starz-stz1">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
-  </programme>
-  <programme start="20261018071900 +0200" stop="20261018080800 +0200" channel="starz-stz1">
-    <title lang="en">S1 E4 - Get Clear</title>
-    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
-  </programme>
-  <programme start="20261018080800 +0200" stop="20261018090500 +0200" channel="starz-stz1">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
-  </programme>
-  <programme start="20261018090500 +0200" stop="20261018110100 +0200" channel="starz-stz1">
-    <title lang="en">The Furious</title>
-    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
-</desc>
-  </programme>
-  <programme start="20261018110100 +0200" stop="20261018131300 +0200" channel="starz-stz1">
-    <title lang="en">Pain &amp; Gain</title>
-    <desc lang="en">When an ambitious group of personal trainers go after the American Dream, they get caught up in a criminal enterprise that goes horribly wrong.</desc>
-  </programme>
-  <programme start="20261018131300 +0200" stop="20261018153300 +0200" channel="starz-stz1">
-    <title lang="en">Star Wars: The Force Awakens</title>
-    <desc lang="en">As a new threat emerges, Rey, a scavenger from the desert, and Finn, a former stormtrooper, team up with Han Solo to find the key to restoring peace.</desc>
-  </programme>
-  <programme start="20261018153300 +0200" stop="20261018171400 +0200" channel="starz-stz1">
-    <title lang="en">Ride Along</title>
-    <desc lang="en">To prove he's worthy of marrying a cop's sister, school guard Ben joins detective James on a wild ride through Atlanta's toughest streets.</desc>
-  </programme>
-  <programme start="20261018171400 +0200" stop="20261018180300 +0200" channel="starz-stz1">
-    <title lang="en">S1 E4 - Get Clear</title>
-    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
-  </programme>
-  <programme start="20261018180300 +0200" stop="20261018181100 +0200" channel="starz-stz1">
-    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
-    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
-  </programme>
-  <programme start="20261018181100 +0200" stop="20261018190100 +0200" channel="starz-stz1">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
-  </programme>
-  <programme start="20261018190100 +0200" stop="20261018195500 +0200" channel="starz-stz1">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
-  </programme>
-  <programme start="20261018195500 +0200" stop="20261018204200 +0200" channel="starz-stz1">
-    <title lang="en">S1 E4 - Get Clear</title>
-    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
-  </programme>
-  <programme start="20261018204200 +0200" stop="20261018221700 +0200" channel="starz-stz1">
-    <title lang="en">Alarum</title>
-    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
-  </programme>
-  <programme start="20261018221700 +0200" stop="20261018222300 +0200" channel="starz-stz1">
-    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
-    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
-  </programme>
-  <programme start="20261018222300 +0200" stop="20261019000100 +0200" channel="starz-stz1">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
-  <programme start="20261019000100 +0200" stop="20261019005700 +0200" channel="starz-stz1">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
-  </programme>
-  <programme start="20261019005700 +0200" stop="20261019015000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
-  </programme>
-  <programme start="20261019015000 +0200" stop="20261019024500 +0200" channel="starz-stz1">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
-  </programme>
-  <programme start="20261019024500 +0200" stop="20261019033500 +0200" channel="starz-stz1">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
-  </programme>
-  <programme start="20261019033500 +0200" stop="20261019042400 +0200" channel="starz-stz1">
-    <title lang="en">S1 E4 - Get Clear</title>
-    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
-  </programme>
-  <programme start="20261019042400 +0200" stop="20261019043200 +0200" channel="starz-stz1">
-    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
-    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
-  </programme>
-  <programme start="20261019043200 +0200" stop="20261019052600 +0200" channel="starz-stz1">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
-  </programme>
   <programme start="20261019052600 +0200" stop="20261019061900 +0200" channel="starz-stz1">
     <title lang="en">S1 E3 - Episode 3</title>
     <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
+  </programme>
+  <programme start="20261019061900 +0200" stop="20261019071600 +0200" channel="starz-stz1">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261019071600 +0200" stop="20261019085300 +0200" channel="starz-stz1">
+    <title lang="en">Alarum</title>
+    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  </programme>
+  <programme start="20261019085300 +0200" stop="20261019103300 +0200" channel="starz-stz1">
+    <title lang="en">Queen Of Manhattan</title>
+    <desc lang="en">Vanessa Del Rio rises in adult film amid Times Square’s danger and crime in the 70s and 80s.</desc>
+  </programme>
+  <programme start="20261019103300 +0200" stop="20261019122700 +0200" channel="starz-stz1">
+    <title lang="en">The Raven</title>
+    <desc lang="en">A young detective in Baltimore teams up with Edgar Allan Poe to stop a killer who is enacting gruesome murders inspired by Poe's own stories.</desc>
+  </programme>
+  <programme start="20261019122700 +0200" stop="20261019143200 +0200" channel="starz-stz1">
+    <title lang="en">Underworld</title>
+    <desc lang="en">Selene, a vampire warrior, is in a war between vampires and werewolves - then she falls in love with Michael, a werewolf who longs for the war to end.</desc>
+  </programme>
+  <programme start="20261019143200 +0200" stop="20261019160000 +0200" channel="starz-stz1">
+    <title lang="en">Scary Movie 3</title>
+    <desc lang="en">Cindy must stop a deadly videotape curse while dealing with crop circles, an awkward farmer and a ghost girl determined to ruin everyone's week.</desc>
+  </programme>
+  <programme start="20261019160000 +0200" stop="20261019180000 +0200" channel="starz-stz1">
+    <title lang="en">Deliver Us From Evil</title>
+    <desc lang="en">A Bronx cop investigates a series of heinous events and meets a priest who tries to convince him that demonic possession is the root of the evil.</desc>
+  </programme>
+  <programme start="20261019180000 +0200" stop="20261019185700 +0200" channel="starz-stz1">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261019185700 +0200" stop="20261019194600 +0200" channel="starz-stz1">
+    <title lang="en">S1 E4 - Get Clear</title>
+    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
+  </programme>
+  <programme start="20261019194600 +0200" stop="20261019203900 +0200" channel="starz-stz1">
+    <title lang="en">S1 E3 - Episode 3</title>
+    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
+  </programme>
+  <programme start="20261019203900 +0200" stop="20261019213600 +0200" channel="starz-stz1">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261019213600 +0200" stop="20261019222500 +0200" channel="starz-stz1">
+    <title lang="en">S1 E4 - Get Clear</title>
+    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
+  </programme>
+  <programme start="20261019222500 +0200" stop="20261020000700 +0200" channel="starz-stz1">
+    <title lang="en">New Jersey Drive</title>
+    <desc lang="en">On the streets of Newark, NJ, two teenagers decide to start carjacking for fun and profit - but soon find themselves the target of every cop in town.</desc>
+  </programme>
+  <programme start="20261020000700 +0200" stop="20261020020000 +0200" channel="starz-stz1">
+    <title lang="en">Wanted</title>
+    <desc lang="en">A frustrated office worker discovers that he is the son of a professional assassin, and that he shares his father's superhuman killing abilities.</desc>
+  </programme>
+  <programme start="20261020020000 +0200" stop="20261020024900 +0200" channel="starz-stz1">
+    <title lang="en">S1 E4 - Get Clear</title>
+    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
+  </programme>
+  <programme start="20261020024900 +0200" stop="20261020034600 +0200" channel="starz-stz1">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261020034600 +0200" stop="20261020043900 +0200" channel="starz-stz1">
+    <title lang="en">S1 E3 - Episode 3</title>
+    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
+  </programme>
+  <programme start="20261020043900 +0200" stop="20261020064400 +0200" channel="starz-stz1">
+    <title lang="en">Underworld</title>
+    <desc lang="en">Selene, a vampire warrior, is in a war between vampires and werewolves - then she falls in love with Michael, a werewolf who longs for the war to end.</desc>
   </programme>
 </tv>
