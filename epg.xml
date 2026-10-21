@@ -3,64 +3,66 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261020043900 +0200" stop="20261020064400 +0200" channel="starz-stz1">
-    <title lang="en">Underworld</title>
-    <desc lang="en">Selene, a vampire warrior, is in a war between vampires and werewolves - then she falls in love with Michael, a werewolf who longs for the war to end.</desc>
-  </programme>
-  <programme start="20261020064400 +0200" stop="20261020081500 +0200" channel="starz-stz1">
-    <title lang="en">Priest</title>
-    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
-  </programme>
-  <programme start="20261020081500 +0200" stop="20261020094400 +0200" channel="starz-stz1">
-    <title lang="en">Scary Movie 3</title>
-    <desc lang="en">Cindy must stop a deadly videotape curse while dealing with crop circles, an awkward farmer and a ghost girl determined to ruin everyone's week.</desc>
-  </programme>
-  <programme start="20261020094400 +0200" stop="20261020112900 +0200" channel="starz-stz1">
-    <title lang="en">Man Of The House</title>
-    <desc lang="en">A by-the-book Texas Ranger finds himself going undercover as a live-in coach to protect a group of college cheerleaders who witnessed a murder.</desc>
-  </programme>
-  <programme start="20261020112900 +0200" stop="20261020131100 +0200" channel="starz-stz1">
-    <title lang="en">New Jersey Drive</title>
-    <desc lang="en">On the streets of Newark, NJ, two teenagers decide to start carjacking for fun and profit - but soon find themselves the target of every cop in town.</desc>
-  </programme>
-  <programme start="20261020131100 +0200" stop="20261020145400 +0200" channel="starz-stz1">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
-  </programme>
-  <programme start="20261020145400 +0200" stop="20261020163600 +0200" channel="starz-stz1">
-    <title lang="en">Baby Mama</title>
-    <desc lang="en">A successful, single businesswoman who dreams of having a baby discovers she's infertile and hires a working class woman to be her unlikely surrogate.</desc>
-  </programme>
-  <programme start="20261020163600 +0200" stop="20261020182900 +0200" channel="starz-stz1">
-    <title lang="en">Wanted</title>
-    <desc lang="en">A frustrated office worker discovers that he is the son of a professional assassin, and that he shares his father's superhuman killing abilities.</desc>
-  </programme>
-  <programme start="20261020182900 +0200" stop="20261020201300 +0200" channel="starz-stz1">
-    <title lang="en">Man Of The House</title>
-    <desc lang="en">A by-the-book Texas Ranger finds himself going undercover as a live-in coach to protect a group of college cheerleaders who witnessed a murder.</desc>
-  </programme>
-  <programme start="20261020201300 +0200" stop="20261020215000 +0200" channel="starz-stz1">
-    <title lang="en">Stuber</title>
-    <desc lang="en">Stu’s routine ride becomes a nightmare when his passenger is a cop hunting a killer, dragging him into a dangerous chase.</desc>
-  </programme>
-  <programme start="20261020215000 +0200" stop="20261020234000 +0200" channel="starz-stz1">
-    <title lang="en">A Lot Like Love</title>
-    <desc lang="en">A young couple spark on their first meeting, but decide to pass - except they keep running into one another before fanning the flames of love.</desc>
-  </programme>
-  <programme start="20261020234000 +0200" stop="20261021011800 +0200" channel="starz-stz1">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
-  <programme start="20261021011800 +0200" stop="20261021030000 +0200" channel="starz-stz1">
-    <title lang="en">Baby Mama</title>
-    <desc lang="en">A successful, single businesswoman who dreams of having a baby discovers she's infertile and hires a working class woman to be her unlikely surrogate.</desc>
-  </programme>
-  <programme start="20261021030000 +0200" stop="20261021044200 +0200" channel="starz-stz1">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
-  </programme>
   <programme start="20261021044200 +0200" stop="20261021061500 +0200" channel="starz-stz1">
     <title lang="en">Oscar Shaw</title>
     <desc lang="en">A retired cop embarks on a quest for vengeance after his best friend's death, determined to achieve justice on his own terms.</desc>
+  </programme>
+  <programme start="20261021061500 +0200" stop="20261021074400 +0200" channel="starz-stz1">
+    <title lang="en">Paranormal Activity</title>
+    <desc lang="en">A couple's peace is shattered when they encounter a disturbing demonic presence in their suburban home each night.
+</desc>
+  </programme>
+  <programme start="20261021074400 +0200" stop="20261021091700 +0200" channel="starz-stz1">
+    <title lang="en">Paranormal Activity 2</title>
+    <desc lang="en">After a series of break-ins, a family sets up security cameras around their home, only to realize that the events unfolding before them are sinister.</desc>
+  </programme>
+  <programme start="20261021091700 +0200" stop="20261021105200 +0200" channel="starz-stz1">
+    <title lang="en">Parkland</title>
+    <desc lang="en">When the wounded President John F. Kennedy arrives at Parkland Hospital in Dallas, a frantic trauma team attempts to save his life.</desc>
+  </programme>
+  <programme start="20261021105200 +0200" stop="20261021121300 +0200" channel="starz-stz1">
+    <title lang="en">Resurrection Road</title>
+    <desc lang="en">Six soldiers infiltrate a Confederate fort in Arkansas, but their mission takes a chilling turn when they uncover a dark, sinister secret.</desc>
+  </programme>
+  <programme start="20261021121300 +0200" stop="20261021141800 +0200" channel="starz-stz1">
+    <title lang="en">Underworld</title>
+    <desc lang="en">Selene, a vampire warrior, is in a war between vampires and werewolves - then she falls in love with Michael, a werewolf who longs for the war to end.</desc>
+  </programme>
+  <programme start="20261021141800 +0200" stop="20261021160800 +0200" channel="starz-stz1">
+    <title lang="en">Underworld: Evolution</title>
+    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
+  </programme>
+  <programme start="20261021160800 +0200" stop="20261021174000 +0200" channel="starz-stz1">
+    <title lang="en">Underworld: Awakening</title>
+    <desc lang="en">When humans uncover the existence of Vampire and Lycan clans, a war erupts. Vampire warrior Selene takes charge in the fight against humanity.</desc>
+  </programme>
+  <programme start="20261021174000 +0200" stop="20261021192100 +0200" channel="starz-stz1">
+    <title lang="en">The Covenant</title>
+    <desc lang="en">Four young warlocks, all descendants of Salem witches, make new discoveries about their powers when they must stop an evil force.</desc>
+  </programme>
+  <programme start="20261021192100 +0200" stop="20261021211500 +0200" channel="starz-stz1">
+    <title lang="en">Almost Christmas</title>
+    <desc lang="en">A family comes together for their first Christmas after the loss of their mother, navigating their dysfunctions and emotions.</desc>
+  </programme>
+  <programme start="20261021211500 +0200" stop="20261021230500 +0200" channel="starz-stz1">
+    <title lang="en">A Lot Like Love</title>
+    <desc lang="en">A young couple spark on their first meeting, but decide to pass - except they keep running into one another before fanning the flames of love.</desc>
+  </programme>
+  <programme start="20261021230500 +0200" stop="20261022010000 +0200" channel="starz-stz1">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
+  </programme>
+  <programme start="20261022010000 +0200" stop="20261022030500 +0200" channel="starz-stz1">
+    <title lang="en">Underworld</title>
+    <desc lang="en">Selene, a vampire warrior, is in a war between vampires and werewolves - then she falls in love with Michael, a werewolf who longs for the war to end.</desc>
+  </programme>
+  <programme start="20261022030500 +0200" stop="20261022045500 +0200" channel="starz-stz1">
+    <title lang="en">Underworld: Evolution</title>
+    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
+  </programme>
+  <programme start="20261022045500 +0200" stop="20261022062700 +0200" channel="starz-stz1">
+    <title lang="en">Underworld: Awakening</title>
+    <desc lang="en">When humans uncover the existence of Vampire and Lycan clans, a war erupts. Vampire warrior Selene takes charge in the fight against humanity.</desc>
   </programme>
 </tv>
