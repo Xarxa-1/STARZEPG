@@ -3,68 +3,72 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261022045500 +0200" stop="20261022062700 +0200" channel="starz-stz1">
-    <title lang="en">Underworld: Awakening</title>
-    <desc lang="en">When humans uncover the existence of Vampire and Lycan clans, a war erupts. Vampire warrior Selene takes charge in the fight against humanity.</desc>
+  <programme start="20261023060000 +0200" stop="20261023064900 +0200" channel="starz-stz1">
+    <title lang="en">S1 E5 - Molotov Cocktail Attire</title>
+    <desc lang="en">The Exiles race to protect a targeted dignitary at a gala. Malik's growing web of secrets puts him on a collision course with the rest of the team.</desc>
   </programme>
-  <programme start="20261022062700 +0200" stop="20261022080200 +0200" channel="starz-stz1">
-    <title lang="en">The Strangers: Chapter 3</title>
-    <desc lang="en">As the killers’ mythology grows darker, Maya is dragged deeper into their cycle of terror and forced toward a final confrontation she can’t outrun.</desc>
+  <programme start="20261023064900 +0200" stop="20261023083400 +0200" channel="starz-stz1">
+    <title lang="en">Eye for an Eye</title>
+    <desc lang="en">Anna finds herself ensnared by Mr. Sandman, who haunts bullies’ dreams before feasting on their eyeballs when they finally wake.</desc>
   </programme>
-  <programme start="20261022080200 +0200" stop="20261022094300 +0200" channel="starz-stz1">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
-  <programme start="20261022094300 +0200" stop="20261022110100 +0200" channel="starz-stz1">
-    <title lang="en">Nas: Time Is Illmatic</title>
-    <desc lang="en">A portrait of Nas and the making of &quot;Illmatic,&quot; showing how life in Queensbridge shaped one of hip‑hop’s most influential albums.</desc>
-  </programme>
-  <programme start="20261022110100 +0200" stop="20261022123300 +0200" channel="starz-stz1">
-    <title lang="en">The Night Clerk</title>
-    <desc lang="en">Bart, a hotel clerk, is suspected of murder. He connects with a guest, Andrea, and must stop the real killer before she’s the next victim.</desc>
-  </programme>
-  <programme start="20261022123300 +0200" stop="20261022143000 +0200" channel="starz-stz1">
-    <title lang="en">The Longest Yard</title>
-    <desc lang="en">After landing in prison, Paul &quot;Wrecking&quot; Crewe must form an inmate football team to face the guards - only the &quot;Mean Machine&quot; decides to fight back.</desc>
-  </programme>
-  <programme start="20261022143000 +0200" stop="20261022162700 +0200" channel="starz-stz1">
-    <title lang="en">The Eagle</title>
-    <desc lang="en">In Roman-ruled Britain, a young Roman soldier endeavors to honor his father's memory by finding his lost legion's golden emblem.</desc>
-  </programme>
-  <programme start="20261022162700 +0200" stop="20261022182100 +0200" channel="starz-stz1">
-    <title lang="en">Almost Christmas</title>
-    <desc lang="en">A family comes together for their first Christmas after the loss of their mother, navigating their dysfunctions and emotions.</desc>
-  </programme>
-  <programme start="20261022182100 +0200" stop="20261022195100 +0200" channel="starz-stz1">
-    <title lang="en">Mariah Carey: Merry Christmas to All!</title>
-    <desc lang="en">Pop icon Mariah Carey ushers in the holidays with a festive extravaganza featuring classic hits, seasonal staples and a lineup of very special guests.</desc>
-  </programme>
-  <programme start="20261022195100 +0200" stop="20261022220200 +0200" channel="starz-stz1">
+  <programme start="20261023083400 +0200" stop="20261023104600 +0200" channel="starz-stz1">
     <title lang="en">Michael</title>
     <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
   </programme>
-  <programme start="20261022220200 +0200" stop="20261022235900 +0200" channel="starz-stz1">
-    <title lang="en">The Longest Yard</title>
-    <desc lang="en">After landing in prison, Paul &quot;Wrecking&quot; Crewe must form an inmate football team to face the guards - only the &quot;Mean Machine&quot; decides to fight back.</desc>
-  </programme>
-  <programme start="20261022235900 +0200" stop="20261023014000 +0200" channel="starz-stz1">
+  <programme start="20261023104600 +0200" stop="20261023122800 +0200" channel="starz-stz1">
     <title lang="en">Little Man</title>
     <desc lang="en">A pint-sized thief hides a diamond in a woman's bag, then pretends to be her baby. Chaos, diapers, and laughs follow as he tries to grab it back!</desc>
   </programme>
-  <programme start="20261023014000 +0200" stop="20261023032100 +0200" channel="starz-stz1">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  <programme start="20261023122800 +0200" stop="20261023141500 +0200" channel="starz-stz1">
+    <title lang="en">Invincible</title>
+    <desc lang="en">After losing his job and his wife, a Philadelphia bartender defies the odds when he earns a chance to play for the NFL's Philadelphia Eagles.</desc>
   </programme>
-  <programme start="20261023032100 +0200" stop="20261023041800 +0200" channel="starz-stz1">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  <programme start="20261023141500 +0200" stop="20261023163800 +0200" channel="starz-stz1">
+    <title lang="en">The Talented Mr. Ripley</title>
+    <desc lang="en">Tom Ripley travels to Italy to bring home a wealthy heir, but his fascination with Dickie Greenleaf's life soon grows into a dangerous obsession.</desc>
   </programme>
-  <programme start="20261023041800 +0200" stop="20261023051100 +0200" channel="starz-stz1">
+  <programme start="20261023163800 +0200" stop="20261023173100 +0200" channel="starz-stz1">
     <title lang="en">S1 E3 - Episode 3</title>
     <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
   </programme>
-  <programme start="20261023051100 +0200" stop="20261023060000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E4 - Get Clear</title>
-    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
+  <programme start="20261023173100 +0200" stop="20261023194200 +0200" channel="starz-stz1">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20261023194200 +0200" stop="20261023213000 +0200" channel="starz-stz1">
+    <title lang="en">Doom</title>
+    <desc lang="en">Space Marines are dispatched to a Mars research facility to investigate unusual occurrences, only to confront deadly genetically modified creatures.</desc>
+  </programme>
+  <programme start="20261023213000 +0200" stop="20261023232000 +0200" channel="starz-stz1">
+    <title lang="en">Assault On Precinct 13</title>
+    <desc lang="en">A police sergeant rallies cops and prisoners to protect them in a police station on New Year's Eve as corrupt policemen plan to kill everyone inside.</desc>
+  </programme>
+  <programme start="20261023232000 +0200" stop="20261024011000 +0200" channel="starz-stz1">
+    <title lang="en">Shelter</title>
+    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
+  </programme>
+  <programme start="20261024011000 +0200" stop="20261024020500 +0200" channel="starz-stz1">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261024020500 +0200" stop="20261024030500 +0200" channel="starz-stz1">
+    <title lang="en">S2 E6 - Small Mercies</title>
+    <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
+  </programme>
+  <programme start="20261024030500 +0200" stop="20261024040000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E4 - Episode 4</title>
+    <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
+  </programme>
+  <programme start="20261024040000 +0200" stop="20261024044900 +0200" channel="starz-stz1">
+    <title lang="en">S1 E5 - Molotov Cocktail Attire</title>
+    <desc lang="en">The Exiles race to protect a targeted dignitary at a gala. Malik's growing web of secrets puts him on a collision course with the rest of the team.</desc>
+  </programme>
+  <programme start="20261024044900 +0200" stop="20261024054900 +0200" channel="starz-stz1">
+    <title lang="en">S2 E6 - Small Mercies</title>
+    <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
+  </programme>
+  <programme start="20261024054900 +0200" stop="20261024064400 +0200" channel="starz-stz1">
+    <title lang="en">S1 E4 - Episode 4</title>
+    <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
   </programme>
 </tv>
