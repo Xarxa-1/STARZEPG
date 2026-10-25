@@ -3,88 +3,88 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261024054900 +0200" stop="20261024064400 +0200" channel="starz-stz1">
-    <title lang="en">S1 E4 - Episode 4</title>
-    <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
-  </programme>
-  <programme start="20261024064400 +0200" stop="20261024073600 +0200" channel="starz-stz1">
-    <title lang="en">S1 E5 - Molotov Cocktail Attire</title>
-    <desc lang="en">The Exiles race to protect a targeted dignitary at a gala. Malik's growing web of secrets puts him on a collision course with the rest of the team.</desc>
-  </programme>
-  <programme start="20261024073600 +0200" stop="20261024084000 +0200" channel="starz-stz1">
-    <title lang="en">S2 E6 - Small Mercies</title>
-    <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
-  </programme>
-  <programme start="20261024084000 +0200" stop="20261024093700 +0200" channel="starz-stz1">
-    <title lang="en">S1 E4 - Episode 4</title>
-    <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
-  </programme>
-  <programme start="20261024093700 +0200" stop="20261024120000 +0200" channel="starz-stz1">
-    <title lang="en">Star Wars: The Force Awakens</title>
-    <desc lang="en">As a new threat emerges, Rey, a scavenger from the desert, and Finn, a former stormtrooper, team up with Han Solo to find the key to restoring peace.</desc>
-  </programme>
-  <programme start="20261024120000 +0200" stop="20261024134000 +0200" channel="starz-stz1">
-    <title lang="en">Clueless</title>
-    <desc lang="en">Cher loves fixing everyone’s love life until two guys upend her own: a cute classmate and her ex‑stepbrother. Maybe she’s clueless after all.</desc>
-  </programme>
-  <programme start="20261024134000 +0200" stop="20261024152000 +0200" channel="starz-stz1">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
-  </programme>
-  <programme start="20261024152000 +0200" stop="20261024172500 +0200" channel="starz-stz1">
-    <title lang="en">Sahara</title>
-    <desc lang="en">Two thrill-seeking adventurers cross paths with a beautiful doctor and they find themselves on the hunt for a treasure that claims all who seek it.</desc>
-  </programme>
-  <programme start="20261024172500 +0200" stop="20261024181100 +0200" channel="starz-stz1">
-    <title lang="en">S1 E5 - Molotov Cocktail Attire</title>
-    <desc lang="en">The Exiles race to protect a targeted dignitary at a gala. Malik's growing web of secrets puts him on a collision course with the rest of the team.</desc>
-  </programme>
-  <programme start="20261024181100 +0200" stop="20261024191100 +0200" channel="starz-stz1">
-    <title lang="en">S2 E6 - Small Mercies</title>
-    <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
-  </programme>
-  <programme start="20261024191100 +0200" stop="20261024200000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E5 - Molotov Cocktail Attire</title>
-    <desc lang="en">The Exiles race to protect a targeted dignitary at a gala. Malik's growing web of secrets puts him on a collision course with the rest of the team.</desc>
-  </programme>
-  <programme start="20261024200000 +0200" stop="20261024205100 +0200" channel="starz-stz1">
-    <title lang="en">S1 E4 - Episode 4</title>
-    <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
-  </programme>
-  <programme start="20261024205100 +0200" stop="20261024215100 +0200" channel="starz-stz1">
-    <title lang="en">S2 E6 - Small Mercies</title>
-    <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
-  </programme>
-  <programme start="20261024215100 +0200" stop="20261024233000 +0200" channel="starz-stz1">
-    <title lang="en">Alarum</title>
-    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
-  </programme>
-  <programme start="20261024233000 +0200" stop="20261025010000 +0200" channel="starz-stz1">
-    <title lang="en">Haunted Heist</title>
-    <desc lang="en">A robbery at a haunted house forces four estranged friends to battle ghosts, and each other, through one wild night.</desc>
-  </programme>
-  <programme start="20261025010000 +0200" stop="20261025020000 +0200" channel="starz-stz1">
-    <title lang="en">S2 E6 - Small Mercies</title>
-    <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
-  </programme>
-  <programme start="20261025020000 +0200" stop="20261025025300 +0200" channel="starz-stz1">
-    <title lang="en">S1 E4 - Episode 4</title>
-    <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
-  </programme>
-  <programme start="20261025025300 +0200" stop="20261025024200 +0100" channel="starz-stz1">
-    <title lang="en">S1 E5 - Molotov Cocktail Attire</title>
-    <desc lang="en">The Exiles race to protect a targeted dignitary at a gala. Malik's growing web of secrets puts him on a collision course with the rest of the team.</desc>
-  </programme>
-  <programme start="20261025024200 +0100" stop="20261025034200 +0100" channel="starz-stz1">
-    <title lang="en">S2 E6 - Small Mercies</title>
-    <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
-  </programme>
-  <programme start="20261025034200 +0100" stop="20261025043500 +0100" channel="starz-stz1">
-    <title lang="en">S1 E4 - Episode 4</title>
-    <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
-  </programme>
   <programme start="20261025043500 +0100" stop="20261025053500 +0100" channel="starz-stz1">
     <title lang="en">S2 E6 - Small Mercies</title>
     <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
+  </programme>
+  <programme start="20261025053500 +0100" stop="20261025062800 +0100" channel="starz-stz1">
+    <title lang="en">S1 E4 - Episode 4</title>
+    <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
+  </programme>
+  <programme start="20261025062800 +0100" stop="20261025071700 +0100" channel="starz-stz1">
+    <title lang="en">S1 E5 - Molotov Cocktail Attire</title>
+    <desc lang="en">The Exiles race to protect a targeted dignitary at a gala. Malik's growing web of secrets puts him on a collision course with the rest of the team.</desc>
+  </programme>
+  <programme start="20261025071700 +0100" stop="20261025090600 +0100" channel="starz-stz1">
+    <title lang="en">Shelter</title>
+    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
+  </programme>
+  <programme start="20261025090600 +0100" stop="20261025104500 +0100" channel="starz-stz1">
+    <title lang="en">Alarum</title>
+    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  </programme>
+  <programme start="20261025104500 +0100" stop="20261025125000 +0100" channel="starz-stz1">
+    <title lang="en">Sahara</title>
+    <desc lang="en">Two thrill-seeking adventurers cross paths with a beautiful doctor and they find themselves on the hunt for a treasure that claims all who seek it.</desc>
+  </programme>
+  <programme start="20261025125000 +0100" stop="20261025143000 +0100" channel="starz-stz1">
+    <title lang="en">Little Man</title>
+    <desc lang="en">A pint-sized thief hides a diamond in a woman's bag, then pretends to be her baby. Chaos, diapers, and laughs follow as he tries to grab it back!</desc>
+  </programme>
+  <programme start="20261025143000 +0100" stop="20261025160000 +0100" channel="starz-stz1">
+    <title lang="en">Haunted Heist</title>
+    <desc lang="en">A robbery at a haunted house forces four estranged friends to battle ghosts, and each other, through one wild night.</desc>
+  </programme>
+  <programme start="20261025160000 +0100" stop="20261025164600 +0100" channel="starz-stz1">
+    <title lang="en">S1 E5 - Molotov Cocktail Attire</title>
+    <desc lang="en">The Exiles race to protect a targeted dignitary at a gala. Malik's growing web of secrets puts him on a collision course with the rest of the team.</desc>
+  </programme>
+  <programme start="20261025164600 +0100" stop="20261025173900 +0100" channel="starz-stz1">
+    <title lang="en">S1 E4 - Episode 4</title>
+    <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
+  </programme>
+  <programme start="20261025173900 +0100" stop="20261025183900 +0100" channel="starz-stz1">
+    <title lang="en">S2 E6 - Small Mercies</title>
+    <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
+  </programme>
+  <programme start="20261025183900 +0100" stop="20261025192800 +0100" channel="starz-stz1">
+    <title lang="en">S1 E5 - Molotov Cocktail Attire</title>
+    <desc lang="en">The Exiles race to protect a targeted dignitary at a gala. Malik's growing web of secrets puts him on a collision course with the rest of the team.</desc>
+  </programme>
+  <programme start="20261025192800 +0100" stop="20261025212900 +0100" channel="starz-stz1">
+    <title lang="en">Ant-Man</title>
+    <desc lang="en">From Marvel: Looking for a new start, master thief Scott Lang is approached by Dr. Pym, creator of a technology that can shrink a man to insect size.</desc>
+  </programme>
+  <programme start="20261025212900 +0100" stop="20261025230000 +0100" channel="starz-stz1">
+    <title lang="en">Haunted Heist</title>
+    <desc lang="en">A robbery at a haunted house forces four estranged friends to battle ghosts, and each other, through one wild night.</desc>
+  </programme>
+  <programme start="20261025230000 +0100" stop="20261026000000 +0100" channel="starz-stz1">
+    <title lang="en">S2 E6 - Small Mercies</title>
+    <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
+  </programme>
+  <programme start="20261026000000 +0100" stop="20261026005300 +0100" channel="starz-stz1">
+    <title lang="en">S1 E4 - Episode 4</title>
+    <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
+  </programme>
+  <programme start="20261026005300 +0100" stop="20261026015300 +0100" channel="starz-stz1">
+    <title lang="en">S2 E6 - Small Mercies</title>
+    <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
+  </programme>
+  <programme start="20261026015300 +0100" stop="20261026024600 +0100" channel="starz-stz1">
+    <title lang="en">S1 E4 - Episode 4</title>
+    <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
+  </programme>
+  <programme start="20261026024600 +0100" stop="20261026033500 +0100" channel="starz-stz1">
+    <title lang="en">S1 E5 - Molotov Cocktail Attire</title>
+    <desc lang="en">The Exiles race to protect a targeted dignitary at a gala. Malik's growing web of secrets puts him on a collision course with the rest of the team.</desc>
+  </programme>
+  <programme start="20261026033500 +0100" stop="20261026043500 +0100" channel="starz-stz1">
+    <title lang="en">S2 E6 - Small Mercies</title>
+    <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
+  </programme>
+  <programme start="20261026043500 +0100" stop="20261026052800 +0100" channel="starz-stz1">
+    <title lang="en">S1 E4 - Episode 4</title>
+    <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
   </programme>
 </tv>
