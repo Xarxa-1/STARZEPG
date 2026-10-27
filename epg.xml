@@ -3,82 +3,64 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261026043500 +0100" stop="20261026052800 +0100" channel="starz-stz1">
-    <title lang="en">S1 E4 - Episode 4</title>
-    <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
-  </programme>
-  <programme start="20261026052800 +0100" stop="20261026062800 +0100" channel="starz-stz1">
-    <title lang="en">S2 E6 - Small Mercies</title>
-    <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
-  </programme>
-  <programme start="20261026062800 +0100" stop="20261026082900 +0100" channel="starz-stz1">
-    <title lang="en">Ant-Man</title>
-    <desc lang="en">From Marvel: Looking for a new start, master thief Scott Lang is approached by Dr. Pym, creator of a technology that can shrink a man to insect size.</desc>
-  </programme>
-  <programme start="20261026082900 +0100" stop="20261026101100 +0100" channel="starz-stz1">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
-  <programme start="20261026101100 +0100" stop="20261026110100 +0100" channel="starz-stz1">
-    <title lang="en">S1 E4 - Episode 4</title>
-    <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
-  </programme>
-  <programme start="20261026110100 +0100" stop="20261026125300 +0100" channel="starz-stz1">
-    <title lang="en">Assault On Precinct 13</title>
-    <desc lang="en">A police sergeant rallies cops and prisoners to protect them in a police station on New Year's Eve as corrupt policemen plan to kill everyone inside.</desc>
-  </programme>
-  <programme start="20261026125300 +0100" stop="20261026145000 +0100" channel="starz-stz1">
-    <title lang="en">The Furious</title>
-    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
-</desc>
-  </programme>
-  <programme start="20261026145000 +0100" stop="20261026165100 +0100" channel="starz-stz1">
-    <title lang="en">Ant-Man</title>
-    <desc lang="en">From Marvel: Looking for a new start, master thief Scott Lang is approached by Dr. Pym, creator of a technology that can shrink a man to insect size.</desc>
-  </programme>
-  <programme start="20261026165100 +0100" stop="20261026175100 +0100" channel="starz-stz1">
-    <title lang="en">S2 E6 - Small Mercies</title>
-    <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
-  </programme>
-  <programme start="20261026175100 +0100" stop="20261026184000 +0100" channel="starz-stz1">
-    <title lang="en">S1 E5 - Molotov Cocktail Attire</title>
-    <desc lang="en">The Exiles race to protect a targeted dignitary at a gala. Malik's growing web of secrets puts him on a collision course with the rest of the team.</desc>
-  </programme>
-  <programme start="20261026184000 +0100" stop="20261026193000 +0100" channel="starz-stz1">
-    <title lang="en">S1 E4 - Episode 4</title>
-    <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
-  </programme>
-  <programme start="20261026193000 +0100" stop="20261026203000 +0100" channel="starz-stz1">
-    <title lang="en">S2 E6 - Small Mercies</title>
-    <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
-  </programme>
-  <programme start="20261026203000 +0100" stop="20261026211600 +0100" channel="starz-stz1">
-    <title lang="en">S1 E5 - Molotov Cocktail Attire</title>
-    <desc lang="en">The Exiles race to protect a targeted dignitary at a gala. Malik's growing web of secrets puts him on a collision course with the rest of the team.</desc>
-  </programme>
-  <programme start="20261026211600 +0100" stop="20261026230800 +0100" channel="starz-stz1">
-    <title lang="en">Assault On Precinct 13</title>
-    <desc lang="en">A police sergeant rallies cops and prisoners to protect them in a police station on New Year's Eve as corrupt policemen plan to kill everyone inside.</desc>
-  </programme>
-  <programme start="20261026230800 +0100" stop="20261027010500 +0100" channel="starz-stz1">
-    <title lang="en">The Furious</title>
-    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
-</desc>
-  </programme>
-  <programme start="20261027010500 +0100" stop="20261027015400 +0100" channel="starz-stz1">
-    <title lang="en">S1 E5 - Molotov Cocktail Attire</title>
-    <desc lang="en">The Exiles race to protect a targeted dignitary at a gala. Malik's growing web of secrets puts him on a collision course with the rest of the team.</desc>
-  </programme>
-  <programme start="20261027015400 +0100" stop="20261027025400 +0100" channel="starz-stz1">
-    <title lang="en">S2 E6 - Small Mercies</title>
-    <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
-  </programme>
-  <programme start="20261027025400 +0100" stop="20261027034700 +0100" channel="starz-stz1">
-    <title lang="en">S1 E4 - Episode 4</title>
-    <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
-  </programme>
   <programme start="20261027034700 +0100" stop="20261027053000 +0100" channel="starz-stz1">
     <title lang="en">In The Grey</title>
     <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20261027053000 +0100" stop="20261027072000 +0100" channel="starz-stz1">
+    <title lang="en">Non-Stop</title>
+    <desc lang="en">U.S. air marshal Bill Marks is thrust into a crisis when a passenger's life is threatened every 20 minutes unless $150 million is transferred.</desc>
+  </programme>
+  <programme start="20261027072000 +0100" stop="20261027085400 +0100" channel="starz-stz1">
+    <title lang="en">Camp Pleasant Lake</title>
+    <desc lang="en">A couple open a camp on a haunted site that connects them to a 20-year-old mystery.</desc>
+  </programme>
+  <programme start="20261027085400 +0100" stop="20261027102800 +0100" channel="starz-stz1">
+    <title lang="en">The Strangers: Chapter 3</title>
+    <desc lang="en">As the killers’ mythology grows darker, Maya is dragged deeper into their cycle of terror and forced toward a final confrontation she can’t outrun.</desc>
+  </programme>
+  <programme start="20261027102800 +0100" stop="20261027120300 +0100" channel="starz-stz1">
+    <title lang="en">Naked Singularity</title>
+    <desc lang="en">An idealistic NYC public defender burned out by the system takes matters into his own hands when he joins an old client on a high-stakes drug heist.</desc>
+  </programme>
+  <programme start="20261027120300 +0100" stop="20261027135400 +0100" channel="starz-stz1">
+    <title lang="en">Shelter</title>
+    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
+  </programme>
+  <programme start="20261027135400 +0100" stop="20261027152500 +0100" channel="starz-stz1">
+    <title lang="en">Priest</title>
+    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
+  </programme>
+  <programme start="20261027152500 +0100" stop="20261027170500 +0100" channel="starz-stz1">
+    <title lang="en">Power Ballad</title>
+    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
+  </programme>
+  <programme start="20261027170500 +0100" stop="20261027191500 +0100" channel="starz-stz1">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20261027191500 +0100" stop="20261027210500 +0100" channel="starz-stz1">
+    <title lang="en">Non-Stop</title>
+    <desc lang="en">U.S. air marshal Bill Marks is thrust into a crisis when a passenger's life is threatened every 20 minutes unless $150 million is transferred.</desc>
+  </programme>
+  <programme start="20261027210500 +0100" stop="20261027224000 +0100" channel="starz-stz1">
+    <title lang="en">The Strangers: Chapter 3</title>
+    <desc lang="en">As the killers’ mythology grows darker, Maya is dragged deeper into their cycle of terror and forced toward a final confrontation she can’t outrun.</desc>
+  </programme>
+  <programme start="20261027224000 +0100" stop="20261028002000 +0100" channel="starz-stz1">
+    <title lang="en">Power Ballad</title>
+    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
+  </programme>
+  <programme start="20261028002000 +0100" stop="20261028023000 +0100" channel="starz-stz1">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20261028023000 +0100" stop="20261028040100 +0100" channel="starz-stz1">
+    <title lang="en">Priest</title>
+    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
+  </programme>
+  <programme start="20261028040100 +0100" stop="20261028055200 +0100" channel="starz-stz1">
+    <title lang="en">Shelter</title>
+    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
   </programme>
 </tv>
