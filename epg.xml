@@ -3,64 +3,65 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261027034700 +0100" stop="20261027053000 +0100" channel="starz-stz1">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
-  <programme start="20261027053000 +0100" stop="20261027072000 +0100" channel="starz-stz1">
-    <title lang="en">Non-Stop</title>
-    <desc lang="en">U.S. air marshal Bill Marks is thrust into a crisis when a passenger's life is threatened every 20 minutes unless $150 million is transferred.</desc>
-  </programme>
-  <programme start="20261027072000 +0100" stop="20261027085400 +0100" channel="starz-stz1">
-    <title lang="en">Camp Pleasant Lake</title>
-    <desc lang="en">A couple open a camp on a haunted site that connects them to a 20-year-old mystery.</desc>
-  </programme>
-  <programme start="20261027085400 +0100" stop="20261027102800 +0100" channel="starz-stz1">
-    <title lang="en">The Strangers: Chapter 3</title>
-    <desc lang="en">As the killers’ mythology grows darker, Maya is dragged deeper into their cycle of terror and forced toward a final confrontation she can’t outrun.</desc>
-  </programme>
-  <programme start="20261027102800 +0100" stop="20261027120300 +0100" channel="starz-stz1">
-    <title lang="en">Naked Singularity</title>
-    <desc lang="en">An idealistic NYC public defender burned out by the system takes matters into his own hands when he joins an old client on a high-stakes drug heist.</desc>
-  </programme>
-  <programme start="20261027120300 +0100" stop="20261027135400 +0100" channel="starz-stz1">
-    <title lang="en">Shelter</title>
-    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
-  </programme>
-  <programme start="20261027135400 +0100" stop="20261027152500 +0100" channel="starz-stz1">
-    <title lang="en">Priest</title>
-    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
-  </programme>
-  <programme start="20261027152500 +0100" stop="20261027170500 +0100" channel="starz-stz1">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
-  </programme>
-  <programme start="20261027170500 +0100" stop="20261027191500 +0100" channel="starz-stz1">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20261027191500 +0100" stop="20261027210500 +0100" channel="starz-stz1">
-    <title lang="en">Non-Stop</title>
-    <desc lang="en">U.S. air marshal Bill Marks is thrust into a crisis when a passenger's life is threatened every 20 minutes unless $150 million is transferred.</desc>
-  </programme>
-  <programme start="20261027210500 +0100" stop="20261027224000 +0100" channel="starz-stz1">
-    <title lang="en">The Strangers: Chapter 3</title>
-    <desc lang="en">As the killers’ mythology grows darker, Maya is dragged deeper into their cycle of terror and forced toward a final confrontation she can’t outrun.</desc>
-  </programme>
-  <programme start="20261027224000 +0100" stop="20261028002000 +0100" channel="starz-stz1">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
-  </programme>
-  <programme start="20261028002000 +0100" stop="20261028023000 +0100" channel="starz-stz1">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20261028023000 +0100" stop="20261028040100 +0100" channel="starz-stz1">
-    <title lang="en">Priest</title>
-    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
-  </programme>
   <programme start="20261028040100 +0100" stop="20261028055200 +0100" channel="starz-stz1">
     <title lang="en">Shelter</title>
     <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
+  </programme>
+  <programme start="20261028055200 +0100" stop="20261028072800 +0100" channel="starz-stz1">
+    <title lang="en">Catacombs</title>
+    <desc lang="en">On a trip to Paris, Victoria attends a rave in the catacombs beneath the city. After getting lost in the tunnels, she senses a dark presence with her.</desc>
+  </programme>
+  <programme start="20261028072800 +0100" stop="20261028091300 +0100" channel="starz-stz1">
+    <title lang="en">Jennifer's Body</title>
+    <desc lang="en">Small‑town beauty Jennifer becomes demon‑possessed, and the guys who never had a chance with her now draw her deadly, supernatural attention.</desc>
+  </programme>
+  <programme start="20261028091300 +0100" stop="20261028105300 +0100" channel="starz-stz1">
+    <title lang="en">Power Ballad</title>
+    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
+  </programme>
+  <programme start="20261028105300 +0100" stop="20261028122300 +0100" channel="starz-stz1">
+    <title lang="en">Mariah Carey: Merry Christmas to All!</title>
+    <desc lang="en">Pop icon Mariah Carey ushers in the holidays with a festive extravaganza featuring classic hits, seasonal staples and a lineup of very special guests.</desc>
+  </programme>
+  <programme start="20261028122300 +0100" stop="20261028143300 +0100" channel="starz-stz1">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20261028143300 +0100" stop="20261028155600 +0100" channel="starz-stz1">
+    <title lang="en">Welcome to Sudden Death</title>
+    <desc lang="en">When terrorists take a packed arena and kidnap his daughter, an ex-special forces security guard races against the clock to save everyone inside.</desc>
+  </programme>
+  <programme start="20261028155600 +0100" stop="20261028173200 +0100" channel="starz-stz1">
+    <title lang="en">Catacombs</title>
+    <desc lang="en">On a trip to Paris, Victoria attends a rave in the catacombs beneath the city. After getting lost in the tunnels, she senses a dark presence with her.</desc>
+  </programme>
+  <programme start="20261028173200 +0100" stop="20261028190300 +0100" channel="starz-stz1">
+    <title lang="en">Haunted Heist</title>
+    <desc lang="en">A robbery at a haunted house forces four estranged friends to battle ghosts, and each other, through one wild night.</desc>
+  </programme>
+  <programme start="20261028190300 +0100" stop="20261028211600 +0100" channel="starz-stz1">
+    <title lang="en">Pain &amp; Gain</title>
+    <desc lang="en">When an ambitious group of personal trainers go after the American Dream, they get caught up in a criminal enterprise that goes horribly wrong.</desc>
+  </programme>
+  <programme start="20261028211600 +0100" stop="20261028230100 +0100" channel="starz-stz1">
+    <title lang="en">Jennifer's Body</title>
+    <desc lang="en">Small‑town beauty Jennifer becomes demon‑possessed, and the guys who never had a chance with her now draw her deadly, supernatural attention.</desc>
+  </programme>
+  <programme start="20261028230100 +0100" stop="20261029002700 +0100" channel="starz-stz1">
+    <title lang="en">Paranormal Activity</title>
+    <desc lang="en">A couple's peace is shattered when they encounter a disturbing demonic presence in their suburban home each night.
+</desc>
+  </programme>
+  <programme start="20261029002700 +0100" stop="20261029020000 +0100" channel="starz-stz1">
+    <title lang="en">Paranormal Activity 2</title>
+    <desc lang="en">After a series of break-ins, a family sets up security cameras around their home, only to realize that the events unfolding before them are sinister.</desc>
+  </programme>
+  <programme start="20261029020000 +0100" stop="20261029033100 +0100" channel="starz-stz1">
+    <title lang="en">Haunted Heist</title>
+    <desc lang="en">A robbery at a haunted house forces four estranged friends to battle ghosts, and each other, through one wild night.</desc>
+  </programme>
+  <programme start="20261029033100 +0100" stop="20261029051600 +0100" channel="starz-stz1">
+    <title lang="en">Ride Along 2</title>
+    <desc lang="en">The brothers-in-law are back! Ben and James get into a compromising situation that threatens to derail a major case… and Ben's upcoming wedding day.</desc>
   </programme>
 </tv>
