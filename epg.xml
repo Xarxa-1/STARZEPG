@@ -3,88 +3,96 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261031045100 +0100" stop="20261031054000 +0100" channel="starz-stz1">
-    <title lang="en">S1 E5 - Episode 5</title>
-    <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
-  </programme>
-  <programme start="20261031054000 +0100" stop="20261031063000 +0100" channel="starz-stz1">
-    <title lang="en">S1 E6 - Hate Crime</title>
-    <desc lang="en">Pulled back undercover by the FBI, Jude infiltrates a white supremacist crew, forcing the Exiles to question if they can still trust him.</desc>
-  </programme>
-  <programme start="20261031063000 +0100" stop="20261031073300 +0100" channel="starz-stz1">
-    <title lang="en">S2 E7 - Heart of the Highlands</title>
-    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
-  </programme>
-  <programme start="20261031073300 +0100" stop="20261031092700 +0100" channel="starz-stz1">
-    <title lang="en">Speak No Evil</title>
-    <desc lang="en">A family accepts an invitation to spend a weekend at a secluded country home, only to discover unsettling truths about their hosts as the days unfold.</desc>
-  </programme>
-  <programme start="20261031092700 +0100" stop="20261031111100 +0100" channel="starz-stz1">
-    <title lang="en">Dawn Of The Dead</title>
-    <desc lang="en">A gripping, gory remake of the cult film: the undead walk the earth as flesh-eating zombies, trapping a group of desperate people in a shopping mall.</desc>
-  </programme>
-  <programme start="20261031111100 +0100" stop="20261031124000 +0100" channel="starz-stz1">
-    <title lang="en">Haunted Heist</title>
-    <desc lang="en">A robbery at a haunted house forces four estranged friends to battle ghosts, and each other, through one wild night.</desc>
-  </programme>
-  <programme start="20261031124000 +0100" stop="20261031144200 +0100" channel="starz-stz1">
-    <title lang="en">Underworld</title>
-    <desc lang="en">Selene, a vampire warrior, is in a war between vampires and werewolves - then she falls in love with Michael, a werewolf who longs for the war to end.</desc>
-  </programme>
-  <programme start="20261031144200 +0100" stop="20261031153000 +0100" channel="starz-stz1">
-    <title lang="en">S1 E6 - Hate Crime</title>
-    <desc lang="en">Pulled back undercover by the FBI, Jude infiltrates a white supremacist crew, forcing the Exiles to question if they can still trust him.</desc>
-  </programme>
-  <programme start="20261031153000 +0100" stop="20261031163000 +0100" channel="starz-stz1">
-    <title lang="en">S2 E7 - Heart of the Highlands</title>
-    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
-  </programme>
-  <programme start="20261031163000 +0100" stop="20261031180100 +0100" channel="starz-stz1">
-    <title lang="en">Haunted Heist</title>
-    <desc lang="en">A robbery at a haunted house forces four estranged friends to battle ghosts, and each other, through one wild night.</desc>
-  </programme>
-  <programme start="20261031180100 +0100" stop="20261031184900 +0100" channel="starz-stz1">
-    <title lang="en">S1 E6 - Hate Crime</title>
-    <desc lang="en">Pulled back undercover by the FBI, Jude infiltrates a white supremacist crew, forcing the Exiles to question if they can still trust him.</desc>
-  </programme>
-  <programme start="20261031184900 +0100" stop="20261031193900 +0100" channel="starz-stz1">
-    <title lang="en">S1 E5 - Episode 5</title>
-    <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
-  </programme>
-  <programme start="20261031193900 +0100" stop="20261031204000 +0100" channel="starz-stz1">
-    <title lang="en">S2 E7 - Heart of the Highlands</title>
-    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
-  </programme>
-  <programme start="20261031204000 +0100" stop="20261031223200 +0100" channel="starz-stz1">
-    <title lang="en">Speak No Evil</title>
-    <desc lang="en">A family accepts an invitation to spend a weekend at a secluded country home, only to discover unsettling truths about their hosts as the days unfold.</desc>
-  </programme>
-  <programme start="20261031223200 +0100" stop="20261101000200 +0100" channel="starz-stz1">
-    <title lang="en">Haunted Heist</title>
-    <desc lang="en">A robbery at a haunted house forces four estranged friends to battle ghosts, and each other, through one wild night.</desc>
-  </programme>
-  <programme start="20261101000200 +0100" stop="20261101010500 +0100" channel="starz-stz1">
-    <title lang="en">S2 E7 - Heart of the Highlands</title>
-    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
-  </programme>
-  <programme start="20261101010500 +0100" stop="20261101015600 +0100" channel="starz-stz1">
-    <title lang="en">S1 E5 - Episode 5</title>
-    <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
-  </programme>
-  <programme start="20261101015600 +0100" stop="20261101024500 +0100" channel="starz-stz1">
-    <title lang="en">S1 E6 - Hate Crime</title>
-    <desc lang="en">Pulled back undercover by the FBI, Jude infiltrates a white supremacist crew, forcing the Exiles to question if they can still trust him.</desc>
-  </programme>
-  <programme start="20261101024500 +0100" stop="20261101034500 +0100" channel="starz-stz1">
-    <title lang="en">S2 E7 - Heart of the Highlands</title>
-    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
-  </programme>
-  <programme start="20261101034500 +0100" stop="20261101043500 +0100" channel="starz-stz1">
-    <title lang="en">S1 E5 - Episode 5</title>
-    <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
-  </programme>
   <programme start="20261101043500 +0100" stop="20261101053800 +0100" channel="starz-stz1">
     <title lang="en">S2 E7 - Heart of the Highlands</title>
     <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
+  </programme>
+  <programme start="20261101053800 +0100" stop="20261101063000 +0100" channel="starz-stz1">
+    <title lang="en">S1 E5 - Episode 5</title>
+    <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
+  </programme>
+  <programme start="20261101063000 +0100" stop="20261101071300 +0100" channel="starz-stz1">
+    <title lang="en">Shaun Of The Dead</title>
+    <desc lang="en">When zombies overrun London, lazy Shaun must step up. With his best friend by his side, he grabs a pint, a cricket bat, and a plan... kind of.</desc>
+  </programme>
+  <programme start="20261101071300 +0100" stop="20261101090700 +0100" channel="starz-stz1">
+    <title lang="en">I Can Only Imagine 2</title>
+    <desc lang="en">Bart Millard, lead singer of MercyMe, has a personal crisis at the height of his career. He grapples with his faith, searching for a way to overcome.</desc>
+  </programme>
+  <programme start="20261101090700 +0100" stop="20261101095800 +0100" channel="starz-stz1">
+    <title lang="en">S1 E6 - Hate Crime</title>
+    <desc lang="en">Pulled back undercover by the FBI, Jude infiltrates a white supremacist crew, forcing the Exiles to question if they can still trust him.</desc>
+  </programme>
+  <programme start="20261101095800 +0100" stop="20261101120200 +0100" channel="starz-stz1">
+    <title lang="en">S2 E7 - Heart of the Highlands</title>
+    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
+  </programme>
+  <programme start="20261101120200 +0100" stop="20261101141300 +0100" channel="starz-stz1">
+    <title lang="en">Pain &amp; Gain</title>
+    <desc lang="en">When an ambitious group of personal trainers go after the American Dream, they get caught up in a criminal enterprise that goes horribly wrong.</desc>
+  </programme>
+  <programme start="20261101141300 +0100" stop="20261101161500 +0100" channel="starz-stz1">
+    <title lang="en">Hot Fuzz</title>
+    <desc lang="en">When elite cop Nicholas Angel is sent to a sleepy village, suspicious deaths force him and his bumbling partner into action.</desc>
+  </programme>
+  <programme start="20261101161500 +0100" stop="20261101170300 +0100" channel="starz-stz1">
+    <title lang="en">S1 E6 - Hate Crime</title>
+    <desc lang="en">Pulled back undercover by the FBI, Jude infiltrates a white supremacist crew, forcing the Exiles to question if they can still trust him.</desc>
+  </programme>
+  <programme start="20261101170300 +0100" stop="20261101175300 +0100" channel="starz-stz1">
+    <title lang="en">S1 E5 - Episode 5</title>
+    <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
+  </programme>
+  <programme start="20261101175300 +0100" stop="20261101185600 +0100" channel="starz-stz1">
+    <title lang="en">S2 E7 - Heart of the Highlands</title>
+    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
+  </programme>
+  <programme start="20261101185600 +0100" stop="20261101194500 +0100" channel="starz-stz1">
+    <title lang="en">S1 E6 - Hate Crime</title>
+    <desc lang="en">Pulled back undercover by the FBI, Jude infiltrates a white supremacist crew, forcing the Exiles to question if they can still trust him.</desc>
+  </programme>
+  <programme start="20261101194500 +0100" stop="20261101203600 +0100" channel="starz-stz1">
+    <title lang="en">S1 E1 - Episode 1</title>
+    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
+  </programme>
+  <programme start="20261101203600 +0100" stop="20261101212900 +0100" channel="starz-stz1">
+    <title lang="en">S1 E2 - Episode 2</title>
+    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
+  </programme>
+  <programme start="20261101212900 +0100" stop="20261101222200 +0100" channel="starz-stz1">
+    <title lang="en">S1 E3 - Episode 3</title>
+    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
+  </programme>
+  <programme start="20261101222200 +0100" stop="20261101231500 +0100" channel="starz-stz1">
+    <title lang="en">S1 E4 - Episode 4</title>
+    <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
+  </programme>
+  <programme start="20261101231500 +0100" stop="20261102000500 +0100" channel="starz-stz1">
+    <title lang="en">S1 E5 - Episode 5</title>
+    <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
+  </programme>
+  <programme start="20261102000500 +0100" stop="20261102020200 +0100" channel="starz-stz1">
+    <title lang="en">The Longest Yard</title>
+    <desc lang="en">After landing in prison, Paul &quot;Wrecking&quot; Crewe must form an inmate football team to face the guards - only the &quot;Mean Machine&quot; decides to fight back.</desc>
+  </programme>
+  <programme start="20261102020200 +0100" stop="20261102030300 +0100" channel="starz-stz1">
+    <title lang="en">S2 E7 - Heart of the Highlands</title>
+    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
+  </programme>
+  <programme start="20261102030300 +0100" stop="20261102035500 +0100" channel="starz-stz1">
+    <title lang="en">S1 E5 - Episode 5</title>
+    <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
+  </programme>
+  <programme start="20261102035500 +0100" stop="20261102044500 +0100" channel="starz-stz1">
+    <title lang="en">S1 E6 - Hate Crime</title>
+    <desc lang="en">Pulled back undercover by the FBI, Jude infiltrates a white supremacist crew, forcing the Exiles to question if they can still trust him.</desc>
+  </programme>
+  <programme start="20261102044500 +0100" stop="20261102054700 +0100" channel="starz-stz1">
+    <title lang="en">S2 E7 - Heart of the Highlands</title>
+    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
+  </programme>
+  <programme start="20261102054700 +0100" stop="20261102063500 +0100" channel="starz-stz1">
+    <title lang="en">S1 E5 - Episode 5</title>
+    <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
   </programme>
 </tv>
