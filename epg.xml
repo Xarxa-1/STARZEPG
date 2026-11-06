@@ -3,68 +3,76 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261105043800 +0100" stop="20261105071700 +0100" channel="starz-stz1">
-    <title lang="en">American Gangster</title>
-    <desc lang="en">An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas, whose real life inspired this partly biographical film.</desc>
+  <programme start="20261106060000 +0100" stop="20261106064700 +0100" channel="starz-stz1">
+    <title lang="en">S1 E7 - The Project</title>
+    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
   </programme>
-  <programme start="20261105071700 +0100" stop="20261105091200 +0100" channel="starz-stz1">
-    <title lang="en">Beast</title>
-    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
+  <programme start="20261106064700 +0100" stop="20261106085700 +0100" channel="starz-stz1">
+    <title lang="en">The Lost World: Jurassic Park</title>
+    <desc lang="en">Four years after Jurassic Park, an expedition to a dinosaur-filled island turns deadly when rival groups seek to exploit its prehistoric inhabitants.</desc>
   </programme>
-  <programme start="20261105091200 +0100" stop="20261105110100 +0100" channel="starz-stz1">
-    <title lang="en">Replicas</title>
-    <desc lang="en">Following a devastating loss, neuroscientist William Foster turns to cloning and cutting‑edge technology to bring his family back, despite the risks.</desc>
+  <programme start="20261106085700 +0100" stop="20261106095500 +0100" channel="starz-stz1">
+    <title lang="en">S2 E7 - A House Divided</title>
+    <desc lang="en">Tensions escalate as Edith wields newfound power. As Queen Elizabeth's schemes unravel, Catherine must secure power and navigate a web of deceit.</desc>
   </programme>
-  <programme start="20261105110100 +0100" stop="20261105123200 +0100" channel="starz-stz1">
-    <title lang="en">Oscar Shaw</title>
-    <desc lang="en">A retired cop embarks on a quest for vengeance after his best friend's death, determined to achieve justice on his own terms.</desc>
+  <programme start="20261106095500 +0100" stop="20261106110500 +0100" channel="starz-stz1">
+    <title lang="en">S2 E8 - All Saints Day</title>
+    <desc lang="en">Can Catherine's desperate measures prevent total war, or has she unleashed forces beyond her control?</desc>
   </programme>
-  <programme start="20261105123200 +0100" stop="20261105142500 +0100" channel="starz-stz1">
-    <title lang="en">Things Never Said</title>
-    <desc lang="en">Kal, an aspiring poet with low self-esteem, meets Curtis. Their unexpected connection helps her discover her voice and a sense of identity.</desc>
+  <programme start="20261106110500 +0100" stop="20261106124800 +0100" channel="starz-stz1">
+    <title lang="en">Something New</title>
+    <desc lang="en">An accountant finds love in the most unexpected place when she agrees to go on a blind date with a sexy and free-spirited landscaper.</desc>
   </programme>
-  <programme start="20261105142500 +0100" stop="20261105160500 +0100" channel="starz-stz1">
-    <title lang="en">Wanderlust</title>
-    <desc lang="en">After losing his Manhattan job, George and his wife, Linda, hit the road and land at Elysium, a free-spirited community of hippies and nudists.</desc>
+  <programme start="20261106124800 +0100" stop="20261106145300 +0100" channel="starz-stz1">
+    <title lang="en">Oblivion</title>
+    <desc lang="en">Two weeks before leaving a devastated Earth forever, a drone repairman rescues a woman from a crash, unleashing a final battle to save humanity.</desc>
   </programme>
-  <programme start="20261105160500 +0100" stop="20261105175000 +0100" channel="starz-stz1">
-    <title lang="en">The Vow</title>
-    <desc lang="en">A young married woman loses her memory after a car crash - can her disconsolate husband convince his wife to fall in love with him all over again?</desc>
-  </programme>
-  <programme start="20261105175000 +0100" stop="20261105200000 +0100" channel="starz-stz1">
+  <programme start="20261106145300 +0100" stop="20261106170000 +0100" channel="starz-stz1">
     <title lang="en">Jurassic Park</title>
     <desc lang="en">Scientists and investors tour a revolutionary island park where living dinosaurs have been brought back to life, with disastrous consequences.</desc>
   </programme>
-  <programme start="20261105200000 +0100" stop="20261105205500 +0100" channel="starz-stz1">
-    <title lang="en">S2 E5 - Time with the Family</title>
-    <desc lang="en">With religious war on the horizon and Queen Elizabeth arriving in the Netherlands, can a marriage be France's saving grace?</desc>
+  <programme start="20261106170000 +0100" stop="20261106191000 +0100" channel="starz-stz1">
+    <title lang="en">The Lost World: Jurassic Park</title>
+    <desc lang="en">Four years after Jurassic Park, an expedition to a dinosaur-filled island turns deadly when rival groups seek to exploit its prehistoric inhabitants.</desc>
   </programme>
-  <programme start="20261105205500 +0100" stop="20261105215200 +0100" channel="starz-stz1">
-    <title lang="en">S2 E6 - Courting the Valois</title>
-    <desc lang="en">Queen Elizabeth's arrival sparks manipulation and intrigue within the Valois Court.</desc>
+  <programme start="20261106191000 +0100" stop="20261106204500 +0100" channel="starz-stz1">
+    <title lang="en">Jurassic Park III</title>
+    <desc lang="en">Years after Jurassic Park, a paleontologist returns to an island overrun by dinosaurs, where a search for a missing boy becomes a fight to stay alive.</desc>
   </programme>
-  <programme start="20261105215200 +0100" stop="20261105232500 +0100" channel="starz-stz1">
-    <title lang="en">Oscar Shaw</title>
-    <desc lang="en">A retired cop embarks on a quest for vengeance after his best friend's death, determined to achieve justice on his own terms.</desc>
+  <programme start="20261106204500 +0100" stop="20261106214500 +0100" channel="starz-stz1">
+    <title lang="en">S2 E7 - A House Divided</title>
+    <desc lang="en">Tensions escalate as Edith wields newfound power. As Queen Elizabeth's schemes unravel, Catherine must secure power and navigate a web of deceit.</desc>
   </programme>
-  <programme start="20261105232500 +0100" stop="20261106013500 +0100" channel="starz-stz1">
-    <title lang="en">Jurassic Park</title>
-    <desc lang="en">Scientists and investors tour a revolutionary island park where living dinosaurs have been brought back to life, with disastrous consequences.</desc>
+  <programme start="20261106214500 +0100" stop="20261106225500 +0100" channel="starz-stz1">
+    <title lang="en">S2 E8 - All Saints Day</title>
+    <desc lang="en">Can Catherine's desperate measures prevent total war, or has she unleashed forces beyond her control?</desc>
   </programme>
-  <programme start="20261106013500 +0100" stop="20261106032000 +0100" channel="starz-stz1">
-    <title lang="en">The Vow</title>
-    <desc lang="en">A young married woman loses her memory after a car crash - can her disconsolate husband convince his wife to fall in love with him all over again?</desc>
+  <programme start="20261106225500 +0100" stop="20261107010200 +0100" channel="starz-stz1">
+    <title lang="en">Oblivion</title>
+    <desc lang="en">Two weeks before leaving a devastated Earth forever, a drone repairman rescues a woman from a crash, unleashing a final battle to save humanity.</desc>
   </programme>
-  <programme start="20261106032000 +0100" stop="20261106042000 +0100" channel="starz-stz1">
+  <programme start="20261107010200 +0100" stop="20261107020300 +0100" channel="starz-stz1">
     <title lang="en">S2 E7 - Heart of the Highlands</title>
     <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
   </programme>
-  <programme start="20261106042000 +0100" stop="20261106051100 +0100" channel="starz-stz1">
-    <title lang="en">S1 E5 - Episode 5</title>
-    <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
+  <programme start="20261107020300 +0100" stop="20261107030200 +0100" channel="starz-stz1">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
   </programme>
-  <programme start="20261106051100 +0100" stop="20261106060000 +0100" channel="starz-stz1">
-    <title lang="en">S1 E6 - Hate Crime</title>
-    <desc lang="en">Pulled back undercover by the FBI, Jude infiltrates a white supremacist crew, forcing the Exiles to question if they can still trust him.</desc>
+  <programme start="20261107030200 +0100" stop="20261107040000 +0100" channel="starz-stz1">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  </programme>
+  <programme start="20261107040000 +0100" stop="20261107044900 +0100" channel="starz-stz1">
+    <title lang="en">S1 E7 - The Project</title>
+    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
+  </programme>
+  <programme start="20261107044900 +0100" stop="20261107054700 +0100" channel="starz-stz1">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  </programme>
+  <programme start="20261107054700 +0100" stop="20261107064500 +0100" channel="starz-stz1">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
   </programme>
 </tv>
