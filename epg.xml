@@ -3,76 +3,76 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261106060000 +0100" stop="20261106064700 +0100" channel="starz-stz1">
-    <title lang="en">S1 E7 - The Project</title>
-    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
-  </programme>
-  <programme start="20261106064700 +0100" stop="20261106085700 +0100" channel="starz-stz1">
-    <title lang="en">The Lost World: Jurassic Park</title>
-    <desc lang="en">Four years after Jurassic Park, an expedition to a dinosaur-filled island turns deadly when rival groups seek to exploit its prehistoric inhabitants.</desc>
-  </programme>
-  <programme start="20261106085700 +0100" stop="20261106095500 +0100" channel="starz-stz1">
-    <title lang="en">S2 E7 - A House Divided</title>
-    <desc lang="en">Tensions escalate as Edith wields newfound power. As Queen Elizabeth's schemes unravel, Catherine must secure power and navigate a web of deceit.</desc>
-  </programme>
-  <programme start="20261106095500 +0100" stop="20261106110500 +0100" channel="starz-stz1">
-    <title lang="en">S2 E8 - All Saints Day</title>
-    <desc lang="en">Can Catherine's desperate measures prevent total war, or has she unleashed forces beyond her control?</desc>
-  </programme>
-  <programme start="20261106110500 +0100" stop="20261106124800 +0100" channel="starz-stz1">
-    <title lang="en">Something New</title>
-    <desc lang="en">An accountant finds love in the most unexpected place when she agrees to go on a blind date with a sexy and free-spirited landscaper.</desc>
-  </programme>
-  <programme start="20261106124800 +0100" stop="20261106145300 +0100" channel="starz-stz1">
-    <title lang="en">Oblivion</title>
-    <desc lang="en">Two weeks before leaving a devastated Earth forever, a drone repairman rescues a woman from a crash, unleashing a final battle to save humanity.</desc>
-  </programme>
-  <programme start="20261106145300 +0100" stop="20261106170000 +0100" channel="starz-stz1">
-    <title lang="en">Jurassic Park</title>
-    <desc lang="en">Scientists and investors tour a revolutionary island park where living dinosaurs have been brought back to life, with disastrous consequences.</desc>
-  </programme>
-  <programme start="20261106170000 +0100" stop="20261106191000 +0100" channel="starz-stz1">
-    <title lang="en">The Lost World: Jurassic Park</title>
-    <desc lang="en">Four years after Jurassic Park, an expedition to a dinosaur-filled island turns deadly when rival groups seek to exploit its prehistoric inhabitants.</desc>
-  </programme>
-  <programme start="20261106191000 +0100" stop="20261106204500 +0100" channel="starz-stz1">
-    <title lang="en">Jurassic Park III</title>
-    <desc lang="en">Years after Jurassic Park, a paleontologist returns to an island overrun by dinosaurs, where a search for a missing boy becomes a fight to stay alive.</desc>
-  </programme>
-  <programme start="20261106204500 +0100" stop="20261106214500 +0100" channel="starz-stz1">
-    <title lang="en">S2 E7 - A House Divided</title>
-    <desc lang="en">Tensions escalate as Edith wields newfound power. As Queen Elizabeth's schemes unravel, Catherine must secure power and navigate a web of deceit.</desc>
-  </programme>
-  <programme start="20261106214500 +0100" stop="20261106225500 +0100" channel="starz-stz1">
-    <title lang="en">S2 E8 - All Saints Day</title>
-    <desc lang="en">Can Catherine's desperate measures prevent total war, or has she unleashed forces beyond her control?</desc>
-  </programme>
-  <programme start="20261106225500 +0100" stop="20261107010200 +0100" channel="starz-stz1">
-    <title lang="en">Oblivion</title>
-    <desc lang="en">Two weeks before leaving a devastated Earth forever, a drone repairman rescues a woman from a crash, unleashing a final battle to save humanity.</desc>
-  </programme>
-  <programme start="20261107010200 +0100" stop="20261107020300 +0100" channel="starz-stz1">
-    <title lang="en">S2 E7 - Heart of the Highlands</title>
-    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
-  </programme>
-  <programme start="20261107020300 +0100" stop="20261107030200 +0100" channel="starz-stz1">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261107030200 +0100" stop="20261107040000 +0100" channel="starz-stz1">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261107040000 +0100" stop="20261107044900 +0100" channel="starz-stz1">
-    <title lang="en">S1 E7 - The Project</title>
-    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
-  </programme>
-  <programme start="20261107044900 +0100" stop="20261107054700 +0100" channel="starz-stz1">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
   <programme start="20261107054700 +0100" stop="20261107064500 +0100" channel="starz-stz1">
     <title lang="en">S2 E8 - The Dance</title>
     <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  </programme>
+  <programme start="20261107064500 +0100" stop="20261107073400 +0100" channel="starz-stz1">
+    <title lang="en">S1 E7 - The Project</title>
+    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
+  </programme>
+  <programme start="20261107073400 +0100" stop="20261107083200 +0100" channel="starz-stz1">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  </programme>
+  <programme start="20261107083200 +0100" stop="20261107102500 +0100" channel="starz-stz1">
+    <title lang="en">Fifty Shades Freed (Extended Version)</title>
+    <desc lang="en">New threats emerge that could destroy Christian and Anastasia's future before it even begins. The extended version: passion reigns, danger follows.</desc>
+  </programme>
+  <programme start="20261107102500 +0100" stop="20261107123100 +0100" channel="starz-stz1">
+    <title lang="en">Oblivion</title>
+    <desc lang="en">Two weeks before leaving a devastated Earth forever, a drone repairman rescues a woman from a crash, unleashing a final battle to save humanity.</desc>
+  </programme>
+  <programme start="20261107123100 +0100" stop="20261107142000 +0100" channel="starz-stz1">
+    <title lang="en">Replicas</title>
+    <desc lang="en">Following a devastating loss, neuroscientist William Foster turns to cloning and cutting‑edge technology to bring his family back, despite the risks.</desc>
+  </programme>
+  <programme start="20261107142000 +0100" stop="20261107161600 +0100" channel="starz-stz1">
+    <title lang="en">Beast</title>
+    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
+  </programme>
+  <programme start="20261107161600 +0100" stop="20261107170500 +0100" channel="starz-stz1">
+    <title lang="en">S1 E7 - The Project</title>
+    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
+  </programme>
+  <programme start="20261107170500 +0100" stop="20261107180300 +0100" channel="starz-stz1">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  </programme>
+  <programme start="20261107180300 +0100" stop="20261107185200 +0100" channel="starz-stz1">
+    <title lang="en">S1 E7 - The Project</title>
+    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
+  </programme>
+  <programme start="20261107185200 +0100" stop="20261107195000 +0100" channel="starz-stz1">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  </programme>
+  <programme start="20261107195000 +0100" stop="20261107220000 +0100" channel="starz-stz1">
+    <title lang="en">Fifty Shades of Grey (Extended Version)</title>
+    <desc lang="en">She’s innocent. He’s anything but. Their affair burns in the extended version - more provocative, more intense, more Grey.</desc>
+  </programme>
+  <programme start="20261107220000 +0100" stop="20261108001200 +0100" channel="starz-stz1">
+    <title lang="en">Fifty Shades Darker (Extended Version)</title>
+    <desc lang="en">Christian’s past resurfaces, threatening everything. The extended version: darker, hotter, and more dangerous.</desc>
+  </programme>
+  <programme start="20261108001200 +0100" stop="20261108020500 +0100" channel="starz-stz1">
+    <title lang="en">Fifty Shades Freed (Extended Version)</title>
+    <desc lang="en">New threats emerge that could destroy Christian and Anastasia's future before it even begins. The extended version: passion reigns, danger follows.</desc>
+  </programme>
+  <programme start="20261108020500 +0100" stop="20261108030100 +0100" channel="starz-stz1">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  </programme>
+  <programme start="20261108030100 +0100" stop="20261108035000 +0100" channel="starz-stz1">
+    <title lang="en">S1 E7 - The Project</title>
+    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
+  </programme>
+  <programme start="20261108035000 +0100" stop="20261108044600 +0100" channel="starz-stz1">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  </programme>
+  <programme start="20261108044600 +0100" stop="20261108063000 +0100" channel="starz-stz1">
+    <title lang="en">Salt</title>
+    <desc lang="en">After being accused of working as a Russian sleeper agent, CIA officer Evelyn Salt goes on the run to uncover the truth and prove her innocence.</desc>
   </programme>
 </tv>
