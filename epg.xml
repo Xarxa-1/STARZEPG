@@ -3,76 +3,60 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261109055000 +0100" stop="20261109074000 +0100" channel="starz-stz1">
-    <title lang="en">Colombiana</title>
-    <desc lang="en">A nine-year-old girl witnesses the brutal murder of her parents in Colombia. Taken in by a criminal uncle, she grows up to be a professional assassin.</desc>
-  </programme>
-  <programme start="20261109074000 +0100" stop="20261109083600 +0100" channel="starz-stz1">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261109083600 +0100" stop="20261109103100 +0100" channel="starz-stz1">
-    <title lang="en">Manhattan Night</title>
-    <desc lang="en">A reporter investigates a filmmaker's strange death and becomes entangled with a mysterious widow, uncovering secrets that place everything at risk.</desc>
-  </programme>
-  <programme start="20261109103100 +0100" stop="20261109121100 +0100" channel="starz-stz1">
-    <title lang="en">Failure to Launch</title>
-    <desc lang="en">Still living at home at 35, Tripp becomes the target of a scheme designed to get him out of the house. But he’s not about to make it easy.</desc>
-  </programme>
-  <programme start="20261109121100 +0100" stop="20261109140400 +0100" channel="starz-stz1">
-    <title lang="en">I Can Only Imagine 2</title>
-    <desc lang="en">Bart Millard, lead singer of MercyMe, has a personal crisis at the height of his career. He grapples with his faith, searching for a way to overcome.</desc>
-  </programme>
-  <programme start="20261109140400 +0100" stop="20261109155500 +0100" channel="starz-stz1">
-    <title lang="en">Colombiana</title>
-    <desc lang="en">A nine-year-old girl witnesses the brutal murder of her parents in Colombia. Taken in by a criminal uncle, she grows up to be a professional assassin.</desc>
-  </programme>
-  <programme start="20261109155500 +0100" stop="20261109165100 +0100" channel="starz-stz1">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261109165100 +0100" stop="20261109174000 +0100" channel="starz-stz1">
-    <title lang="en">S1 E7 - The Project</title>
-    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
-  </programme>
-  <programme start="20261109174000 +0100" stop="20261109192500 +0100" channel="starz-stz1">
-    <title lang="en">The Bounce Back</title>
-    <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
-  </programme>
-  <programme start="20261109192500 +0100" stop="20261109202100 +0100" channel="starz-stz1">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261109202100 +0100" stop="20261109211000 +0100" channel="starz-stz1">
-    <title lang="en">S1 E7 - The Project</title>
-    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
-  </programme>
-  <programme start="20261109211000 +0100" stop="20261109224500 +0100" channel="starz-stz1">
-    <title lang="en">The Call</title>
-    <desc lang="en">Worlds collide when a 911 operator takes a call from an abducted teenage girl. The operator must confront a killer from her own past to save the girl.</desc>
-  </programme>
-  <programme start="20261109224500 +0100" stop="20261110002500 +0100" channel="starz-stz1">
-    <title lang="en">Failure to Launch</title>
-    <desc lang="en">Still living at home at 35, Tripp becomes the target of a scheme designed to get him out of the house. But he’s not about to make it easy.</desc>
-  </programme>
-  <programme start="20261110002500 +0100" stop="20261110021100 +0100" channel="starz-stz1">
-    <title lang="en">The Bounce Back</title>
-    <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
-  </programme>
-  <programme start="20261110021100 +0100" stop="20261110030000 +0100" channel="starz-stz1">
-    <title lang="en">S1 E7 - The Project</title>
-    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
-  </programme>
-  <programme start="20261110030000 +0100" stop="20261110035800 +0100" channel="starz-stz1">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261110035800 +0100" stop="20261110053600 +0100" channel="starz-stz1">
-    <title lang="en">The Call</title>
-    <desc lang="en">Worlds collide when a 911 operator takes a call from an abducted teenage girl. The operator must confront a killer from her own past to save the girl.</desc>
-  </programme>
   <programme start="20261110053600 +0100" stop="20261110071700 +0100" channel="starz-stz1">
     <title lang="en">In The Grey</title>
     <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20261110071700 +0100" stop="20261110085400 +0100" channel="starz-stz1">
+    <title lang="en">Alarum</title>
+    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  </programme>
+  <programme start="20261110085400 +0100" stop="20261110104200 +0100" channel="starz-stz1">
+    <title lang="en">The Vow</title>
+    <desc lang="en">A young married woman loses her memory after a car crash - can her disconsolate husband convince his wife to fall in love with him all over again?</desc>
+  </programme>
+  <programme start="20261110104200 +0100" stop="20261110125000 +0100" channel="starz-stz1">
+    <title lang="en">Trainwreck</title>
+    <desc lang="en">A hard-partying writer who doesn't believe in monogamy finds herself falling for a successful doctor and facing the possibility of real love.</desc>
+  </programme>
+  <programme start="20261110125000 +0100" stop="20261110142100 +0100" channel="starz-stz1">
+    <title lang="en">Wrapped Up in Christmas</title>
+    <desc lang="en">A cynical mall manager must close struggling stores for Christmas, but unknowingly falls for the substitute mall Santa hired to decorate the mall.</desc>
+  </programme>
+  <programme start="20261110142100 +0100" stop="20261110155300 +0100" channel="starz-stz1">
+    <title lang="en">The Wedding Date</title>
+    <desc lang="en">A young woman hires a male escort to pose as her boyfriend at her sister's wedding, but her plan to make her ex-fiancé jealous goes hilariously wrong.</desc>
+  </programme>
+  <programme start="20261110155300 +0100" stop="20261110174100 +0100" channel="starz-stz1">
+    <title lang="en">The Vow</title>
+    <desc lang="en">A young married woman loses her memory after a car crash - can her disconsolate husband convince his wife to fall in love with him all over again?</desc>
+  </programme>
+  <programme start="20261110174100 +0100" stop="20261110192200 +0100" channel="starz-stz1">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20261110192200 +0100" stop="20261110213000 +0100" channel="starz-stz1">
+    <title lang="en">Trainwreck</title>
+    <desc lang="en">A hard-partying writer who doesn't believe in monogamy finds herself falling for a successful doctor and facing the possibility of real love.</desc>
+  </programme>
+  <programme start="20261110213000 +0100" stop="20261110232500 +0100" channel="starz-stz1">
+    <title lang="en">Beast</title>
+    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
+  </programme>
+  <programme start="20261110232500 +0100" stop="20261111010000 +0100" channel="starz-stz1">
+    <title lang="en">Alarum</title>
+    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  </programme>
+  <programme start="20261111010000 +0100" stop="20261111030000 +0100" channel="starz-stz1">
+    <title lang="en">The 40-Year-Old Virgin</title>
+    <desc lang="en">Andy’s 40 and has never had sex. Add in a hot single mom with a &quot;no-touch&quot; policy and you’ve got one frustrated late bloomer.</desc>
+  </programme>
+  <programme start="20261111030000 +0100" stop="20261111050800 +0100" channel="starz-stz1">
+    <title lang="en">Trainwreck</title>
+    <desc lang="en">A hard-partying writer who doesn't believe in monogamy finds herself falling for a successful doctor and facing the possibility of real love.</desc>
+  </programme>
+  <programme start="20261111050800 +0100" stop="20261111070900 +0100" channel="starz-stz1">
+    <title lang="en">What Men Want</title>
+    <desc lang="en">After gaining the ability to hear men’s thoughts, sports agent Ali uses her new power to outplay her coworkers and chase chase a superstar client.</desc>
   </programme>
 </tv>
