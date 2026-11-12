@@ -3,60 +3,60 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261111050800 +0100" stop="20261111070900 +0100" channel="starz-stz1">
-    <title lang="en">What Men Want</title>
-    <desc lang="en">After gaining the ability to hear men’s thoughts, sports agent Ali uses her new power to outplay her coworkers and chase chase a superstar client.</desc>
-  </programme>
-  <programme start="20261111070900 +0100" stop="20261111083800 +0100" channel="starz-stz1">
-    <title lang="en">Christmas Cover-Up</title>
-    <desc lang="en">Tori, Gwen and Sam have dreamed of killing their boss for years. This Christmas is no different—but some wishes are better left unspoken.</desc>
-  </programme>
-  <programme start="20261111083800 +0100" stop="20261111100000 +0100" channel="starz-stz1">
-    <title lang="en">Adam Sandler's Eight Crazy Nights</title>
-    <desc lang="en">A local troublemaker spends Hanukkah dodging consequences, clashing with townspeople, and stumbling toward redemption.</desc>
-  </programme>
-  <programme start="20261111105000 +0100" stop="20261111121900 +0100" channel="starz-stz1">
-    <title lang="en">Make or Bake Christmas</title>
-    <desc lang="en">A young woman goes undercover to acquire a Christmas bakery, and unexpectedly falls for its owner.</desc>
-  </programme>
-  <programme start="20261111121900 +0100" stop="20261111134000 +0100" channel="starz-stz1">
-    <title lang="en">Adam Sandler's Eight Crazy Nights</title>
-    <desc lang="en">A local troublemaker spends Hanukkah dodging consequences, clashing with townspeople, and stumbling toward redemption.</desc>
-  </programme>
-  <programme start="20261111134000 +0100" stop="20261111152500 +0100" channel="starz-stz1">
-    <title lang="en">Miss Bala</title>
-    <desc lang="en">After her friend is abducted, Gloria becomes entangled in a dangerous conflict between government agents and a cartel boss, forcing her to fight back.</desc>
-  </programme>
-  <programme start="20261111152500 +0100" stop="20261111173500 +0100" channel="starz-stz1">
-    <title lang="en">Fifty Shades of Grey (Extended Version)</title>
-    <desc lang="en">She’s innocent. He’s anything but. Their affair burns in the extended version - more provocative, more intense, more Grey.</desc>
-  </programme>
-  <programme start="20261111173500 +0100" stop="20261111191000 +0100" channel="starz-stz1">
-    <title lang="en">Walk Of Shame</title>
-    <desc lang="en">Stranded in L.A. after a one-night stand, a reporter races to make the biggest job interview of her life - without her phone, ID, car, or money.</desc>
-  </programme>
-  <programme start="20261111191000 +0100" stop="20261111205000 +0100" channel="starz-stz1">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
-  <programme start="20261111205000 +0100" stop="20261111225000 +0100" channel="starz-stz1">
-    <title lang="en">The 40-Year-Old Virgin</title>
-    <desc lang="en">Andy’s 40 and has never had sex. Add in a hot single mom with a &quot;no-touch&quot; policy and you’ve got one frustrated late bloomer.</desc>
-  </programme>
-  <programme start="20261111225000 +0100" stop="20261112004800 +0100" channel="starz-stz1">
-    <title lang="en">Enough</title>
-    <desc lang="en">A woman discovers her husband's dark side. She takes their daughter and leaves, but he relentlessly pursues her - until she decides take a stand.</desc>
-  </programme>
-  <programme start="20261112004800 +0100" stop="20261112030000 +0100" channel="starz-stz1">
-    <title lang="en">Fifty Shades of Grey (Extended Version)</title>
-    <desc lang="en">She’s innocent. He’s anything but. Their affair burns in the extended version - more provocative, more intense, more Grey.</desc>
-  </programme>
-  <programme start="20261112030000 +0100" stop="20261112051400 +0100" channel="starz-stz1">
-    <title lang="en">Fifty Shades Darker (Extended Version)</title>
-    <desc lang="en">Christian’s past resurfaces, threatening everything. The extended version: darker, hotter, and more dangerous.</desc>
-  </programme>
   <programme start="20261112051400 +0100" stop="20261112070600 +0100" channel="starz-stz1">
     <title lang="en">Fifty Shades Freed (Extended Version)</title>
     <desc lang="en">New threats emerge that could destroy Christian and Anastasia's future before it even begins. The extended version: passion reigns, danger follows.</desc>
+  </programme>
+  <programme start="20261112070600 +0100" stop="20261112090500 +0100" channel="starz-stz1">
+    <title lang="en">Marshall</title>
+    <desc lang="en">Thurgood Marshall, a pioneering lawyer destined to become the first African-American Supreme Court Justice, faces a case that defines his career.</desc>
+  </programme>
+  <programme start="20261112090500 +0100" stop="20261112103100 +0100" channel="starz-stz1">
+    <title lang="en">Curve</title>
+    <desc lang="en">A bride-to-be takes an unexpected detour. When her car breaks down, a hitchhiker offers assistance, hinting at a twist of fate.</desc>
+  </programme>
+  <programme start="20261112103100 +0100" stop="20261112125600 +0100" channel="starz-stz1">
+    <title lang="en">Avengers: Age Of Ultron</title>
+    <desc lang="en">From Marvel Studios: An A.I. known as Ultron has the promise to bring world peace. But when Ultron turns against humanity, The Avengers must assemble.</desc>
+  </programme>
+  <programme start="20261112125600 +0100" stop="20261112144500 +0100" channel="starz-stz1">
+    <title lang="en">Pixels</title>
+    <desc lang="en">When aliens invade using classic arcade games as their battle plans, a former video game champion must lead a team of gamers to stop them.</desc>
+  </programme>
+  <programme start="20261112144500 +0100" stop="20261112163000 +0100" channel="starz-stz1">
+    <title lang="en">The Night Before</title>
+    <desc lang="en">Three lifelong friends set out for one last unforgettable Christmas Eve in search of the Holy Grail of Christmas parties in New York.</desc>
+  </programme>
+  <programme start="20261112163000 +0100" stop="20261112185300 +0100" channel="starz-stz1">
+    <title lang="en">The Talented Mr. Ripley</title>
+    <desc lang="en">Tom Ripley travels to Italy to bring home a wealthy heir, but his fascination with Dickie Greenleaf's life soon grows into a dangerous obsession.</desc>
+  </programme>
+  <programme start="20261112185300 +0100" stop="20261112205100 +0100" channel="starz-stz1">
+    <title lang="en">Enough</title>
+    <desc lang="en">A woman discovers her husband's dark side. She takes their daughter and leaves, but he relentlessly pursues her - until she decides take a stand.</desc>
+  </programme>
+  <programme start="20261112205100 +0100" stop="20261112222500 +0100" channel="starz-stz1">
+    <title lang="en">Brick Mansions</title>
+    <desc lang="en">With an ex-con as his only possible partner, an undercover cop infiltrates the deadliest city in America to take down a ruthless crime lord.</desc>
+  </programme>
+  <programme start="20261112222500 +0100" stop="20261113000100 +0100" channel="starz-stz1">
+    <title lang="en">Dìdi</title>
+    <desc lang="en">In 2008, during the last summer before high school begins, a 13-year-old Taiwanese American boy learns to skate, flirt, and love his mom.</desc>
+  </programme>
+  <programme start="20261113000100 +0100" stop="20261113015000 +0100" channel="starz-stz1">
+    <title lang="en">Pixels</title>
+    <desc lang="en">When aliens invade using classic arcade games as their battle plans, a former video game champion must lead a team of gamers to stop them.</desc>
+  </programme>
+  <programme start="20261113015000 +0100" stop="20261113041500 +0100" channel="starz-stz1">
+    <title lang="en">Avengers: Age Of Ultron</title>
+    <desc lang="en">From Marvel Studios: An A.I. known as Ultron has the promise to bring world peace. But when Ultron turns against humanity, The Avengers must assemble.</desc>
+  </programme>
+  <programme start="20261113041500 +0100" stop="20261113051100 +0100" channel="starz-stz1">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  </programme>
+  <programme start="20261113051100 +0100" stop="20261113060000 +0100" channel="starz-stz1">
+    <title lang="en">S1 E7 - The Project</title>
+    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
   </programme>
 </tv>
