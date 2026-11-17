@@ -3,68 +3,64 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261116045000 +0100" stop="20261116064800 +0100" channel="starz-stz1">
-    <title lang="en">Beast</title>
-    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
-  </programme>
-  <programme start="20261116064800 +0100" stop="20261116084800 +0100" channel="starz-stz1">
-    <title lang="en">Get Rich Or Die Tryin'</title>
-    <desc lang="en">An inner-city drug dealer decides to leave behind his criminal lifestyle to follow his dream of becoming a rap artist.</desc>
-  </programme>
-  <programme start="20261116084800 +0100" stop="20261116104300 +0100" channel="starz-stz1">
-    <title lang="en">Cosmopolis</title>
-    <desc lang="en">A billionaire’s cross‑town limo trip becomes a surreal odyssey of riots, strange encounters, and financial ruin as his ordered life begins to implode.</desc>
-  </programme>
-  <programme start="20261116104300 +0100" stop="20261116121500 +0100" channel="starz-stz1">
-    <title lang="en">Oscar Shaw</title>
-    <desc lang="en">A retired cop embarks on a quest for vengeance after his best friend's death, determined to achieve justice on his own terms.</desc>
-  </programme>
-  <programme start="20261116121500 +0100" stop="20261116134500 +0100" channel="starz-stz1">
-    <title lang="en">Don't Be A Menace To South Central While Drinking Your Juice In The Hood</title>
-    <desc lang="en">A Los Angeles teen with an irresponsible father seeks guidance from a cousin whose weapons color-coordinate with his sneakers.</desc>
-  </programme>
-  <programme start="20261116134500 +0100" stop="20261116155500 +0100" channel="starz-stz1">
-    <title lang="en">Inside Man</title>
-    <desc lang="en">A police detective, a bank robber, and a broker enter high-stakes negotiations after the criminal's brilliant heist spirals into a hostage situation.</desc>
-  </programme>
-  <programme start="20261116155500 +0100" stop="20261116164300 +0100" channel="starz-stz1">
-    <title lang="en">S1 E8 - Edgemont</title>
-    <desc lang="en">A school lockdown turns personal when an AI-radicalized student targets his old campus. The Exiles realize the real threat may be wearing a badge.</desc>
-  </programme>
-  <programme start="20261116164300 +0100" stop="20261116184300 +0100" channel="starz-stz1">
-    <title lang="en">The Devil You Know</title>
-    <desc lang="en">After a lifetime of trouble, a man has the chance to turn things around. He finds himself spiraling back into the dark place he overcame.</desc>
-  </programme>
-  <programme start="20261116184300 +0100" stop="20261116201600 +0100" channel="starz-stz1">
-    <title lang="en">Oscar Shaw</title>
-    <desc lang="en">A retired cop embarks on a quest for vengeance after his best friend's death, determined to achieve justice on his own terms.</desc>
-  </programme>
-  <programme start="20261116201600 +0100" stop="20261116220500 +0100" channel="starz-stz1">
-    <title lang="en">Mindhunters</title>
-    <desc lang="en">Young FBI profilers train on a remote island, but when deaths occur, they realize one of them has become a killer - and escape may be impossible.</desc>
-  </programme>
-  <programme start="20261116220500 +0100" stop="20261116225400 +0100" channel="starz-stz1">
-    <title lang="en">S1 E8 - Edgemont</title>
-    <desc lang="en">A school lockdown turns personal when an AI-radicalized student targets his old campus. The Exiles realize the real threat may be wearing a badge.</desc>
-  </programme>
-  <programme start="20261116225400 +0100" stop="20261117003000 +0100" channel="starz-stz1">
-    <title lang="en">Alarum</title>
-    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
-  </programme>
-  <programme start="20261117003000 +0100" stop="20261117020100 +0100" channel="starz-stz1">
-    <title lang="en">Don't Be A Menace To South Central While Drinking Your Juice In The Hood</title>
-    <desc lang="en">A Los Angeles teen with an irresponsible father seeks guidance from a cousin whose weapons color-coordinate with his sneakers.</desc>
-  </programme>
-  <programme start="20261117020100 +0100" stop="20261117025000 +0100" channel="starz-stz1">
-    <title lang="en">S1 E8 - Edgemont</title>
-    <desc lang="en">A school lockdown turns personal when an AI-radicalized student targets his old campus. The Exiles realize the real threat may be wearing a badge.</desc>
-  </programme>
-  <programme start="20261117025000 +0100" stop="20261117045000 +0100" channel="starz-stz1">
-    <title lang="en">Get Rich Or Die Tryin'</title>
-    <desc lang="en">An inner-city drug dealer decides to leave behind his criminal lifestyle to follow his dream of becoming a rap artist.</desc>
-  </programme>
   <programme start="20261117045000 +0100" stop="20261117064300 +0100" channel="starz-stz1">
     <title lang="en">Cosmopolis</title>
     <desc lang="en">A billionaire’s cross‑town limo trip becomes a surreal odyssey of riots, strange encounters, and financial ruin as his ordered life begins to implode.</desc>
+  </programme>
+  <programme start="20261117064300 +0100" stop="20261117082100 +0100" channel="starz-stz1">
+    <title lang="en">Alarum</title>
+    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  </programme>
+  <programme start="20261117082100 +0100" stop="20261117103000 +0100" channel="starz-stz1">
+    <title lang="en">Jurassic World</title>
+    <desc lang="en">Years after Jurassic Park, a thriving dinosaur park pushes the limits of genetic engineering, with disastrous consequences.</desc>
+  </programme>
+  <programme start="20261117103000 +0100" stop="20261117120000 +0100" channel="starz-stz1">
+    <title lang="en">Mariah Carey: Merry Christmas to All!</title>
+    <desc lang="en">Pop icon Mariah Carey ushers in the holidays with a festive extravaganza featuring classic hits, seasonal staples and a lineup of very special guests.</desc>
+  </programme>
+  <programme start="20261117120000 +0100" stop="20261117134600 +0100" channel="starz-stz1">
+    <title lang="en">Unexpected Christmas</title>
+    <desc lang="en">A family's perfect Christmas reunion is upended when old rivalries, secrets, and romantic mix-ups come to a head.</desc>
+  </programme>
+  <programme start="20261117134600 +0100" stop="20261117154000 +0100" channel="starz-stz1">
+    <title lang="en">I Can Only Imagine 2</title>
+    <desc lang="en">Bart Millard, lead singer of MercyMe, has a personal crisis at the height of his career. He grapples with his faith, searching for a way to overcome.</desc>
+  </programme>
+  <programme start="20261117154000 +0100" stop="20261117173100 +0100" channel="starz-stz1">
+    <title lang="en">No Strings Attached</title>
+    <desc lang="en">Emma and Adam enter a seemingly perfect, sex‑only arrangement with one cardinal rule: no strings attached. But growing feelings may change everything.</desc>
+  </programme>
+  <programme start="20261117173100 +0100" stop="20261117182600 +0100" channel="starz-stz1">
+    <title lang="en">S1 E1 - The Second Son</title>
+    <desc lang="en">Mary Villiers develops a cunning plan to transform her family’s fortunes forever.</desc>
+  </programme>
+  <programme start="20261117182600 +0100" stop="20261117192000 +0100" channel="starz-stz1">
+    <title lang="en">S1 E2 - The Hunt</title>
+    <desc lang="en">Mary resorts to drastic measures to earn George an opportunity to impress the King. George must pull out all the stops to prove himself.</desc>
+  </programme>
+  <programme start="20261117192000 +0100" stop="20261117213200 +0100" channel="starz-stz1">
+    <title lang="en">The Lost World: Jurassic Park</title>
+    <desc lang="en">Four years after Jurassic Park, an expedition to a dinosaur-filled island turns deadly when rival groups seek to exploit its prehistoric inhabitants.</desc>
+  </programme>
+  <programme start="20261117213200 +0100" stop="20261117231100 +0100" channel="starz-stz1">
+    <title lang="en">First Sunday</title>
+    <desc lang="en">Two desperate men try to rob a church, but when the money disappears, they hold the congregation hostage to find out who stole it first.</desc>
+  </programme>
+  <programme start="20261117231100 +0100" stop="20261118005200 +0100" channel="starz-stz1">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20261118005200 +0100" stop="20261118030000 +0100" channel="starz-stz1">
+    <title lang="en">Jurassic World</title>
+    <desc lang="en">Years after Jurassic Park, a thriving dinosaur park pushes the limits of genetic engineering, with disastrous consequences.</desc>
+  </programme>
+  <programme start="20261118030000 +0100" stop="20261118043700 +0100" channel="starz-stz1">
+    <title lang="en">Splash City</title>
+    <desc lang="en">In this gritty crime thriller, two brothers navigate the streets of San Francisco as loyalty and survival are put to the test.</desc>
+  </programme>
+  <programme start="20261118043700 +0100" stop="20261118060800 +0100" channel="starz-stz1">
+    <title lang="en">Paper Soldiers</title>
+    <desc lang="en">Under the guidance from an experienced thief, a rookie burglar navigates the relationships in his life - all while committing robberies.</desc>
   </programme>
 </tv>
