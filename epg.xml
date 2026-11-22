@@ -3,76 +3,80 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261121055400 +0100" stop="20261121065700 +0100" channel="starz-stz1">
-    <title lang="en">S2 E9 - Another Man's Shadow</title>
-    <desc lang="en">Colum suffers a tragedy, and Maura urges Dougal to lead. Murtagh defends Grace, with terrible ramifications. Henry watches a dangerous romance unfold.</desc>
-  </programme>
-  <programme start="20261121065700 +0100" stop="20261121074800 +0100" channel="starz-stz1">
-    <title lang="en">S1 E9 - The Vault</title>
-    <desc lang="en">Hondo is pulled into an off-the-books mission after a conspiracy surfaces. As the Exiles close in on the truth, the line between ally and enemy blurs.</desc>
-  </programme>
-  <programme start="20261121074800 +0100" stop="20261121085300 +0100" channel="starz-stz1">
-    <title lang="en">S2 E9 - Another Man's Shadow</title>
-    <desc lang="en">Colum suffers a tragedy, and Maura urges Dougal to lead. Murtagh defends Grace, with terrible ramifications. Henry watches a dangerous romance unfold.</desc>
-  </programme>
-  <programme start="20261121085300 +0100" stop="20261121104600 +0100" channel="starz-stz1">
-    <title lang="en">No Strings Attached</title>
-    <desc lang="en">Emma and Adam enter a seemingly perfect, sex‑only arrangement with one cardinal rule: no strings attached. But growing feelings may change everything.</desc>
-  </programme>
-  <programme start="20261121104600 +0100" stop="20261121125900 +0100" channel="starz-stz1">
-    <title lang="en">Pain &amp; Gain</title>
-    <desc lang="en">When an ambitious group of personal trainers go after the American Dream, they get caught up in a criminal enterprise that goes horribly wrong.</desc>
-  </programme>
-  <programme start="20261121125900 +0100" stop="20261121143000 +0100" channel="starz-stz1">
-    <title lang="en">Motives</title>
-    <desc lang="en">After Emery Simms betrays his wife for a one-night stand, he learns that in a world of high society and shady business, someone is always watching.</desc>
-  </programme>
-  <programme start="20261121143000 +0100" stop="20261121160700 +0100" channel="starz-stz1">
-    <title lang="en">Motives 2: Retribution</title>
-    <desc lang="en">After a framed convict is killed in prison, his brother uncovers evidence implicating his best friend, pulling him into a deadly web of lies.</desc>
-  </programme>
-  <programme start="20261121160700 +0100" stop="20261121165600 +0100" channel="starz-stz1">
-    <title lang="en">S1 E9 - The Vault</title>
-    <desc lang="en">Hondo is pulled into an off-the-books mission after a conspiracy surfaces. As the Exiles close in on the truth, the line between ally and enemy blurs.</desc>
-  </programme>
-  <programme start="20261121165600 +0100" stop="20261121175900 +0100" channel="starz-stz1">
-    <title lang="en">S2 E9 - Another Man's Shadow</title>
-    <desc lang="en">Colum suffers a tragedy, and Maura urges Dougal to lead. Murtagh defends Grace, with terrible ramifications. Henry watches a dangerous romance unfold.</desc>
-  </programme>
-  <programme start="20261121175900 +0100" stop="20261121184900 +0100" channel="starz-stz1">
-    <title lang="en">S1 E9 - The Vault</title>
-    <desc lang="en">Hondo is pulled into an off-the-books mission after a conspiracy surfaces. As the Exiles close in on the truth, the line between ally and enemy blurs.</desc>
-  </programme>
-  <programme start="20261121184900 +0100" stop="20261121195200 +0100" channel="starz-stz1">
-    <title lang="en">S2 E9 - Another Man's Shadow</title>
-    <desc lang="en">Colum suffers a tragedy, and Maura urges Dougal to lead. Murtagh defends Grace, with terrible ramifications. Henry watches a dangerous romance unfold.</desc>
-  </programme>
-  <programme start="20261121195200 +0100" stop="20261121223300 +0100" channel="starz-stz1">
-    <title lang="en">American Gangster</title>
-    <desc lang="en">Ruthless kingpin Frank Lucas rules Harlem's drug trade until outcast cop Richie Roberts sets out to take down his empire in a legendary confrontation.</desc>
-  </programme>
-  <programme start="20261121223300 +0100" stop="20261122001000 +0100" channel="starz-stz1">
-    <title lang="en">Splash City</title>
-    <desc lang="en">In this gritty crime thriller, two brothers navigate the streets of San Francisco as loyalty and survival are put to the test.</desc>
-  </programme>
-  <programme start="20261122001000 +0100" stop="20261122020000 +0100" channel="starz-stz1">
-    <title lang="en">Shelter</title>
-    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
-  </programme>
-  <programme start="20261122020000 +0100" stop="20261122030300 +0100" channel="starz-stz1">
-    <title lang="en">S2 E9 - Another Man's Shadow</title>
-    <desc lang="en">Colum suffers a tragedy, and Maura urges Dougal to lead. Murtagh defends Grace, with terrible ramifications. Henry watches a dangerous romance unfold.</desc>
-  </programme>
-  <programme start="20261122030300 +0100" stop="20261122035200 +0100" channel="starz-stz1">
-    <title lang="en">S1 E9 - The Vault</title>
-    <desc lang="en">Hondo is pulled into an off-the-books mission after a conspiracy surfaces. As the Exiles close in on the truth, the line between ally and enemy blurs.</desc>
-  </programme>
-  <programme start="20261122035200 +0100" stop="20261122045500 +0100" channel="starz-stz1">
-    <title lang="en">S2 E9 - Another Man's Shadow</title>
-    <desc lang="en">Colum suffers a tragedy, and Maura urges Dougal to lead. Murtagh defends Grace, with terrible ramifications. Henry watches a dangerous romance unfold.</desc>
-  </programme>
   <programme start="20261122045500 +0100" stop="20261122063600 +0100" channel="starz-stz1">
     <title lang="en">All About the Benjamins</title>
     <desc lang="en">A bounty hunter chasing a fast-talking con man uncovers a criminal plot tied to a fortune worth millions, forcing the pair to work together.</desc>
+  </programme>
+  <programme start="20261122063600 +0100" stop="20261122073700 +0100" channel="starz-stz1">
+    <title lang="en">S2 E9 - Another Man's Shadow</title>
+    <desc lang="en">Colum suffers a tragedy, and Maura urges Dougal to lead. Murtagh defends Grace, with terrible ramifications. Henry watches a dangerous romance unfold.</desc>
+  </programme>
+  <programme start="20261122073700 +0100" stop="20261122082600 +0100" channel="starz-stz1">
+    <title lang="en">S1 E9 - The Vault</title>
+    <desc lang="en">Hondo is pulled into an off-the-books mission after a conspiracy surfaces. As the Exiles close in on the truth, the line between ally and enemy blurs.</desc>
+  </programme>
+  <programme start="20261122082600 +0100" stop="20261122092700 +0100" channel="starz-stz1">
+    <title lang="en">S2 E9 - Another Man's Shadow</title>
+    <desc lang="en">Colum suffers a tragedy, and Maura urges Dougal to lead. Murtagh defends Grace, with terrible ramifications. Henry watches a dangerous romance unfold.</desc>
+  </programme>
+  <programme start="20261122092700 +0100" stop="20261122105600 +0100" channel="starz-stz1">
+    <title lang="en">Haunted Heist</title>
+    <desc lang="en">A robbery at a haunted house forces four estranged friends to battle ghosts, and each other, through one wild night.</desc>
+  </programme>
+  <programme start="20261122105600 +0100" stop="20261122130600 +0100" channel="starz-stz1">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20261122130600 +0100" stop="20261122154200 +0100" channel="starz-stz1">
+    <title lang="en">Ray</title>
+    <desc lang="en">Blind since childhood, Ray Charles overcomes poverty, hardship and addiction, becoming an American music legend in the process.</desc>
+  </programme>
+  <programme start="20261122154200 +0100" stop="20261122171000 +0100" channel="starz-stz1">
+    <title lang="en">Undercover Brother</title>
+    <desc lang="en">A cool secret agent battles a bizarre plan to brainwash the world, using clever gadgets, martial arts, and plenty of swagger to stop it.</desc>
+  </programme>
+  <programme start="20261122171000 +0100" stop="20261122175900 +0100" channel="starz-stz1">
+    <title lang="en">S1 E9 - The Vault</title>
+    <desc lang="en">Hondo is pulled into an off-the-books mission after a conspiracy surfaces. As the Exiles close in on the truth, the line between ally and enemy blurs.</desc>
+  </programme>
+  <programme start="20261122175900 +0100" stop="20261122200000 +0100" channel="starz-stz1">
+    <title lang="en">Marshall</title>
+    <desc lang="en">Thurgood Marshall, a pioneering lawyer destined to become the first African-American Supreme Court Justice, faces a case that defines his career.</desc>
+  </programme>
+  <programme start="20261122200000 +0100" stop="20261122204900 +0100" channel="starz-stz1">
+    <title lang="en">S1 E9 - The Vault</title>
+    <desc lang="en">Hondo is pulled into an off-the-books mission after a conspiracy surfaces. As the Exiles close in on the truth, the line between ally and enemy blurs.</desc>
+  </programme>
+  <programme start="20261122204900 +0100" stop="20261122230000 +0100" channel="starz-stz1">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20261122230000 +0100" stop="20261123000300 +0100" channel="starz-stz1">
+    <title lang="en">S2 E9 - Another Man's Shadow</title>
+    <desc lang="en">Colum suffers a tragedy, and Maura urges Dougal to lead. Murtagh defends Grace, with terrible ramifications. Henry watches a dangerous romance unfold.</desc>
+  </programme>
+  <programme start="20261123000300 +0100" stop="20261123015900 +0100" channel="starz-stz1">
+    <title lang="en">The Change-Up</title>
+    <desc lang="en">Dave is married with three kids, and Mitch is single and at the prime of his sexual life. One night, lightning strikes and they switch bodies!</desc>
+  </programme>
+  <programme start="20261123015900 +0100" stop="20261123030000 +0100" channel="starz-stz1">
+    <title lang="en">S2 E9 - Another Man's Shadow</title>
+    <desc lang="en">Colum suffers a tragedy, and Maura urges Dougal to lead. Murtagh defends Grace, with terrible ramifications. Henry watches a dangerous romance unfold.</desc>
+  </programme>
+  <programme start="20261123030000 +0100" stop="20261123040100 +0100" channel="starz-stz1">
+    <title lang="en">S2 E9 - Another Man's Shadow</title>
+    <desc lang="en">Colum suffers a tragedy, and Maura urges Dougal to lead. Murtagh defends Grace, with terrible ramifications. Henry watches a dangerous romance unfold.</desc>
+  </programme>
+  <programme start="20261123040100 +0100" stop="20261123045000 +0100" channel="starz-stz1">
+    <title lang="en">S1 E9 - The Vault</title>
+    <desc lang="en">Hondo is pulled into an off-the-books mission after a conspiracy surfaces. As the Exiles close in on the truth, the line between ally and enemy blurs.</desc>
+  </programme>
+  <programme start="20261123045000 +0100" stop="20261123055300 +0100" channel="starz-stz1">
+    <title lang="en">S2 E9 - Another Man's Shadow</title>
+    <desc lang="en">Colum suffers a tragedy, and Maura urges Dougal to lead. Murtagh defends Grace, with terrible ramifications. Henry watches a dangerous romance unfold.</desc>
+  </programme>
+  <programme start="20261123055300 +0100" stop="20261123080000 +0100" channel="starz-stz1">
+    <title lang="en">Trainwreck</title>
+    <desc lang="en">A hard-partying writer who doesn't believe in monogamy finds herself falling for a successful doctor and facing the possibility of real love.</desc>
   </programme>
 </tv>
