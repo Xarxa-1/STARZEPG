@@ -3,76 +3,76 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261123055300 +0100" stop="20261123080000 +0100" channel="starz-stz1">
-    <title lang="en">Trainwreck</title>
-    <desc lang="en">A hard-partying writer who doesn't believe in monogamy finds herself falling for a successful doctor and facing the possibility of real love.</desc>
-  </programme>
-  <programme start="20261123080000 +0100" stop="20261123090500 +0100" channel="starz-stz1">
-    <title lang="en">S2 E9 - Another Man's Shadow</title>
-    <desc lang="en">Colum suffers a tragedy, and Maura urges Dougal to lead. Murtagh defends Grace, with terrible ramifications. Henry watches a dangerous romance unfold.</desc>
-  </programme>
-  <programme start="20261123090500 +0100" stop="20261123105400 +0100" channel="starz-stz1">
-    <title lang="en">The Bounce Back</title>
-    <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
-  </programme>
-  <programme start="20261123105400 +0100" stop="20261123123300 +0100" channel="starz-stz1">
-    <title lang="en">Dìdi</title>
-    <desc lang="en">In 2008, during the last summer before high school begins, a 13-year-old Taiwanese American boy learns to skate, flirt, and love his mom.</desc>
-  </programme>
-  <programme start="20261123123300 +0100" stop="20261123141000 +0100" channel="starz-stz1">
-    <title lang="en">Splash City</title>
-    <desc lang="en">In this gritty crime thriller, two brothers navigate the streets of San Francisco as loyalty and survival are put to the test.</desc>
-  </programme>
-  <programme start="20261123141000 +0100" stop="20261123163100 +0100" channel="starz-stz1">
-    <title lang="en">The Talented Mr. Ripley</title>
-    <desc lang="en">Tom Ripley travels to Italy to bring home a wealthy heir, but his fascination with Dickie Greenleaf's life soon grows into a dangerous obsession.</desc>
-  </programme>
-  <programme start="20261123163100 +0100" stop="20261123172000 +0100" channel="starz-stz1">
-    <title lang="en">S1 E9 - The Vault</title>
-    <desc lang="en">Hondo is pulled into an off-the-books mission after a conspiracy surfaces. As the Exiles close in on the truth, the line between ally and enemy blurs.</desc>
-  </programme>
-  <programme start="20261123172000 +0100" stop="20261123182300 +0100" channel="starz-stz1">
-    <title lang="en">S2 E9 - Another Man's Shadow</title>
-    <desc lang="en">Colum suffers a tragedy, and Maura urges Dougal to lead. Murtagh defends Grace, with terrible ramifications. Henry watches a dangerous romance unfold.</desc>
-  </programme>
-  <programme start="20261123182300 +0100" stop="20261123191200 +0100" channel="starz-stz1">
-    <title lang="en">S1 E9 - The Vault</title>
-    <desc lang="en">Hondo is pulled into an off-the-books mission after a conspiracy surfaces. As the Exiles close in on the truth, the line between ally and enemy blurs.</desc>
-  </programme>
-  <programme start="20261123191200 +0100" stop="20261123201500 +0100" channel="starz-stz1">
-    <title lang="en">S2 E9 - Another Man's Shadow</title>
-    <desc lang="en">Colum suffers a tragedy, and Maura urges Dougal to lead. Murtagh defends Grace, with terrible ramifications. Henry watches a dangerous romance unfold.</desc>
-  </programme>
-  <programme start="20261123201500 +0100" stop="20261123220200 +0100" channel="starz-stz1">
-    <title lang="en">The Bounce Back</title>
-    <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
-  </programme>
-  <programme start="20261123220200 +0100" stop="20261123225100 +0100" channel="starz-stz1">
-    <title lang="en">S1 E9 - The Vault</title>
-    <desc lang="en">Hondo is pulled into an off-the-books mission after a conspiracy surfaces. As the Exiles close in on the truth, the line between ally and enemy blurs.</desc>
-  </programme>
-  <programme start="20261123225100 +0100" stop="20261124003200 +0100" channel="starz-stz1">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
-  <programme start="20261124003200 +0100" stop="20261124021000 +0100" channel="starz-stz1">
-    <title lang="en">Splash City</title>
-    <desc lang="en">In this gritty crime thriller, two brothers navigate the streets of San Francisco as loyalty and survival are put to the test.</desc>
-  </programme>
-  <programme start="20261124021000 +0100" stop="20261124030000 +0100" channel="starz-stz1">
-    <title lang="en">S1 E9 - The Vault</title>
-    <desc lang="en">Hondo is pulled into an off-the-books mission after a conspiracy surfaces. As the Exiles close in on the truth, the line between ally and enemy blurs.</desc>
-  </programme>
-  <programme start="20261124030000 +0100" stop="20261124040300 +0100" channel="starz-stz1">
-    <title lang="en">S2 E9 - Another Man's Shadow</title>
-    <desc lang="en">Colum suffers a tragedy, and Maura urges Dougal to lead. Murtagh defends Grace, with terrible ramifications. Henry watches a dangerous romance unfold.</desc>
-  </programme>
-  <programme start="20261124040300 +0100" stop="20261124054500 +0100" channel="starz-stz1">
-    <title lang="en">Salt</title>
-    <desc lang="en">After being accused of working as a Russian sleeper agent, CIA officer Evelyn Salt goes on the run to uncover the truth and prove her innocence.</desc>
-  </programme>
   <programme start="20261124054500 +0100" stop="20261124074500 +0100" channel="starz-stz1">
     <title lang="en">What Men Want</title>
     <desc lang="en">After gaining the ability to hear men’s thoughts, sports agent Ali uses her new power to outplay her coworkers and chase chase a superstar client.</desc>
+  </programme>
+  <programme start="20261124074500 +0100" stop="20261124091900 +0100" channel="starz-stz1">
+    <title lang="en">Trouble Man</title>
+    <desc lang="en">A PI gets hired to find a missing R&amp;B star and accidentally uncovers a larger conspiracy, forcing him to question those around him and his own past.</desc>
+  </programme>
+  <programme start="20261124091900 +0100" stop="20261124105000 +0100" channel="starz-stz1">
+    <title lang="en">Brick Mansions</title>
+    <desc lang="en">With an ex-con as his only possible partner, an undercover cop infiltrates the deadliest city in America to take down a ruthless crime lord.</desc>
+  </programme>
+  <programme start="20261124105000 +0100" stop="20261124123000 +0100" channel="starz-stz1">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20261124123000 +0100" stop="20261124142300 +0100" channel="starz-stz1">
+    <title lang="en">I Can Only Imagine 2</title>
+    <desc lang="en">Bart Millard, lead singer of MercyMe, has a personal crisis at the height of his career. He grapples with his faith, searching for a way to overcome.</desc>
+  </programme>
+  <programme start="20261124142300 +0100" stop="20261124160800 +0100" channel="starz-stz1">
+    <title lang="en">The Night Before</title>
+    <desc lang="en">Three lifelong friends set out for one last unforgettable Christmas Eve in search of the Holy Grail of Christmas parties in New York.</desc>
+  </programme>
+  <programme start="20261124160800 +0100" stop="20261124174500 +0100" channel="starz-stz1">
+    <title lang="en">Splash City</title>
+    <desc lang="en">In this gritty crime thriller, two brothers navigate the streets of San Francisco as loyalty and survival are put to the test.</desc>
+  </programme>
+  <programme start="20261124174500 +0100" stop="20261124184100 +0100" channel="starz-stz1">
+    <title lang="en">S1 E1 - The Only Round That Matters Is the Next One</title>
+    <desc lang="en">After eight years in a Nevada prison, former heavyweight boxing champion Duke Kilroy returns home to London, intent on avenging his brother's death.</desc>
+  </programme>
+  <programme start="20261124184100 +0100" stop="20261124193600 +0100" channel="starz-stz1">
+    <title lang="en">S1 E2 - Brick by Brick</title>
+    <desc lang="en">Duke must improvise to keep his mission on track, but he finds that success comes at a cost.</desc>
+  </programme>
+  <programme start="20261124193600 +0100" stop="20261124203200 +0100" channel="starz-stz1">
+    <title lang="en">S1 E3 - No Innocents</title>
+    <desc lang="en">Turning up the heat on the Marshalls, Duke is drawn in deeper than he ever could have imagined.</desc>
+  </programme>
+  <programme start="20261124203200 +0100" stop="20261124212600 +0100" channel="starz-stz1">
+    <title lang="en">S1 E4 - Protect Yourself at All Times</title>
+    <desc lang="en">London's gangland is pushed to the brink of war. But for Duke, the consequences strike painfully close to home.</desc>
+  </programme>
+  <programme start="20261124212600 +0100" stop="20261124222000 +0100" channel="starz-stz1">
+    <title lang="en">S1 E5 - I Want This</title>
+    <desc lang="en">A deadly rescue mission creates new possibilities for Duke, until an almighty twist causes his overwhelming need for revenge to eclipse him once more.</desc>
+  </programme>
+  <programme start="20261124222000 +0100" stop="20261124231600 +0100" channel="starz-stz1">
+    <title lang="en">S1 E6 - There Is a War Coming</title>
+    <desc lang="en">Duke prepares for his long-awaited shot at revenge, while others take matters into their own hands.</desc>
+  </programme>
+  <programme start="20261124231600 +0100" stop="20261125001000 +0100" channel="starz-stz1">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20261125001000 +0100" stop="20261125010300 +0100" channel="starz-stz1">
+    <title lang="en">S1 E8 - You Won't See Me Coming</title>
+    <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
+  </programme>
+  <programme start="20261125010300 +0100" stop="20261125030000 +0100" channel="starz-stz1">
+    <title lang="en">Beast</title>
+    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
+  </programme>
+  <programme start="20261125030000 +0100" stop="20261125043500 +0100" channel="starz-stz1">
+    <title lang="en">Splash City</title>
+    <desc lang="en">In this gritty crime thriller, two brothers navigate the streets of San Francisco as loyalty and survival are put to the test.</desc>
+  </programme>
+  <programme start="20261125043500 +0100" stop="20261125063500 +0100" channel="starz-stz1">
+    <title lang="en">Get Rich Or Die Tryin'</title>
+    <desc lang="en">An inner-city drug dealer decides to leave behind his criminal lifestyle to follow his dream of becoming a rap artist.</desc>
   </programme>
 </tv>
