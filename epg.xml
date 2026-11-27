@@ -3,56 +3,84 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261126051000 +0100" stop="20261126064800 +0100" channel="starz-stz1">
-    <title lang="en">Alarum</title>
-    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  <programme start="20261127060000 +0100" stop="20261127064900 +0100" channel="starz-stz1">
+    <title lang="en">S1 E10 - Hard Exit</title>
+    <desc lang="en">With bodies piling up, Hondo and the Exiles make their final move against the conspiracy that's been hunting S.W.A.T. from the inside.</desc>
   </programme>
-  <programme start="20261126064800 +0100" stop="20261126085900 +0100" channel="starz-stz1">
-    <title lang="en">Fifty Shades of Grey (Extended Version)</title>
-    <desc lang="en">She’s innocent. He’s anything but. Their affair burns in the extended version - more provocative, more intense, more Grey.</desc>
+  <programme start="20261127064900 +0100" stop="20261127084100 +0100" channel="starz-stz1">
+    <title lang="en">Colombiana</title>
+    <desc lang="en">A nine-year-old girl witnesses the brutal murder of her parents in Colombia. Taken in by a criminal uncle, she grows up to be a professional assassin.</desc>
   </programme>
-  <programme start="20261126085900 +0100" stop="20261126105700 +0100" channel="starz-stz1">
-    <title lang="en">Enough</title>
-    <desc lang="en">After her husband reveals a violent dark side, Slim flees with her daughter - only to be relentlessly stalked until she is forced to fight back.</desc>
+  <programme start="20261127084100 +0100" stop="20261127094300 +0100" channel="starz-stz1">
+    <title lang="en">S2 E2 - The Veil of Time</title>
+    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
   </programme>
-  <programme start="20261126105700 +0100" stop="20261126131000 +0100" channel="starz-stz1">
-    <title lang="en">Pain &amp; Gain</title>
-    <desc lang="en">When an ambitious group of personal trainers go after the American Dream, they get caught up in a criminal enterprise that goes horribly wrong.</desc>
+  <programme start="20261127094300 +0100" stop="20261127112100 +0100" channel="starz-stz1">
+    <title lang="en">Splash City</title>
+    <desc lang="en">In this gritty crime thriller, two brothers navigate the streets of San Francisco as loyalty and survival are put to the test.</desc>
   </programme>
-  <programme start="20261126131000 +0100" stop="20261126151700 +0100" channel="starz-stz1">
-    <title lang="en">Jurassic World</title>
-    <desc lang="en">Years after Jurassic Park, a thriving dinosaur park pushes the limits of genetic engineering, with disastrous consequences.</desc>
+  <programme start="20261127112100 +0100" stop="20261127134500 +0100" channel="starz-stz1">
+    <title lang="en">Avengers: Age Of Ultron</title>
+    <desc lang="en">From Marvel Studios: An A.I. known as Ultron has the promise to bring world peace. But when Ultron turns against humanity, The Avengers must assemble.</desc>
   </programme>
-  <programme start="20261126151700 +0100" stop="20261126165500 +0100" channel="starz-stz1">
-    <title lang="en">Alarum</title>
-    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  <programme start="20261127134500 +0100" stop="20261127153000 +0100" channel="starz-stz1">
+    <title lang="en">Unexpected Christmas</title>
+    <desc lang="en">A family's perfect Christmas reunion is upended when old rivalries, secrets, and romantic mix-ups come to a head.</desc>
   </programme>
-  <programme start="20261126165500 +0100" stop="20261126185200 +0100" channel="starz-stz1">
-    <title lang="en">Beast</title>
-    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
+  <programme start="20261127153000 +0100" stop="20261127171000 +0100" channel="starz-stz1">
+    <title lang="en">Power Ballad</title>
+    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
   </programme>
-  <programme start="20261126185200 +0100" stop="20261126210000 +0100" channel="starz-stz1">
-    <title lang="en">The Preacher's Wife</title>
-    <desc lang="en">When God overhears a church preacher despairing the potential loss of a youth center, he dispatches an angel to help him out.</desc>
+  <programme start="20261127171000 +0100" stop="20261127181700 +0100" channel="starz-stz1">
+    <title lang="en">S2 E1 - Remembrance Day</title>
+    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
   </programme>
-  <programme start="20261126210000 +0100" stop="20261126224000 +0100" channel="starz-stz1">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  <programme start="20261127181700 +0100" stop="20261127191500 +0100" channel="starz-stz1">
+    <title lang="en">S2 E2 - The Veil of Time</title>
+    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
   </programme>
-  <programme start="20261126224000 +0100" stop="20261127005100 +0100" channel="starz-stz1">
-    <title lang="en">Fifty Shades of Grey (Extended Version)</title>
-    <desc lang="en">She’s innocent. He’s anything but. Their affair burns in the extended version - more provocative, more intense, more Grey.</desc>
+  <programme start="20261127191500 +0100" stop="20261127201000 +0100" channel="starz-stz1">
+    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
+    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
   </programme>
-  <programme start="20261127005100 +0100" stop="20261127030500 +0100" channel="starz-stz1">
-    <title lang="en">Fifty Shades Darker (Extended Version)</title>
-    <desc lang="en">Christian’s past resurfaces, threatening everything. The extended version: darker, hotter, and more dangerous.</desc>
+  <programme start="20261127201000 +0100" stop="20261127211300 +0100" channel="starz-stz1">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
   </programme>
-  <programme start="20261127030500 +0100" stop="20261127045700 +0100" channel="starz-stz1">
-    <title lang="en">Fifty Shades Freed (Extended Version)</title>
-    <desc lang="en">New threats emerge that could destroy Christian and Anastasia's future before it even begins. The extended version: passion reigns, danger follows.</desc>
+  <programme start="20261127211300 +0100" stop="20261127220700 +0100" channel="starz-stz1">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
   </programme>
-  <programme start="20261127045700 +0100" stop="20261127060000 +0100" channel="starz-stz1">
+  <programme start="20261127220700 +0100" stop="20261127230500 +0100" channel="starz-stz1">
+    <title lang="en">S2 E6 - Small Mercies</title>
+    <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
+  </programme>
+  <programme start="20261127230500 +0100" stop="20261128000500 +0100" channel="starz-stz1">
+    <title lang="en">S2 E7 - Heart of the Highlands</title>
+    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
+  </programme>
+  <programme start="20261128000500 +0100" stop="20261128010000 +0100" channel="starz-stz1">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  </programme>
+  <programme start="20261128010000 +0100" stop="20261128020100 +0100" channel="starz-stz1">
     <title lang="en">S2 E9 - Another Man's Shadow</title>
     <desc lang="en">Colum suffers a tragedy, and Maura urges Dougal to lead. Murtagh defends Grace, with terrible ramifications. Henry watches a dangerous romance unfold.</desc>
+  </programme>
+  <programme start="20261128020100 +0100" stop="20261128031400 +0100" channel="starz-stz1">
+    <title lang="en">S2 E10 - Twelfth Night</title>
+    <desc lang="en">Friends and enemies alike attend annual Twelfth Night Festivities - with murderous results. Julia attempts a desperate escape.</desc>
+  </programme>
+  <programme start="20261128031400 +0100" stop="20261128040300 +0100" channel="starz-stz1">
+    <title lang="en">S1 E9 - The Vault</title>
+    <desc lang="en">Hondo is pulled into an off-the-books mission after a conspiracy surfaces. As the Exiles close in on the truth, the line between ally and enemy blurs.</desc>
+  </programme>
+  <programme start="20261128040300 +0100" stop="20261128045200 +0100" channel="starz-stz1">
+    <title lang="en">S1 E10 - Hard Exit</title>
+    <desc lang="en">With bodies piling up, Hondo and the Exiles make their final move against the conspiracy that's been hunting S.W.A.T. from the inside.</desc>
+  </programme>
+  <programme start="20261128045200 +0100" stop="20261128060800 +0100" channel="starz-stz1">
+    <title lang="en">S2 E10 - Twelfth Night</title>
+    <desc lang="en">Friends and enemies alike attend annual Twelfth Night Festivities - with murderous results. Julia attempts a desperate escape.</desc>
   </programme>
 </tv>
