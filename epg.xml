@@ -3,83 +3,79 @@
   <channel id="starz-stz1">
     <display-name>STARZ STZ1</display-name>
   </channel>
-  <programme start="20261127060000 +0100" stop="20261127064900 +0100" channel="starz-stz1">
-    <title lang="en">S1 E10 - Hard Exit</title>
-    <desc lang="en">With bodies piling up, Hondo and the Exiles make their final move against the conspiracy that's been hunting S.W.A.T. from the inside.</desc>
-  </programme>
-  <programme start="20261127064900 +0100" stop="20261127084100 +0100" channel="starz-stz1">
-    <title lang="en">Colombiana</title>
-    <desc lang="en">A nine-year-old girl witnesses the brutal murder of her parents in Colombia. Taken in by a criminal uncle, she grows up to be a professional assassin.</desc>
-  </programme>
-  <programme start="20261127084100 +0100" stop="20261127094300 +0100" channel="starz-stz1">
-    <title lang="en">S2 E2 - The Veil of Time</title>
-    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
-  </programme>
-  <programme start="20261127094300 +0100" stop="20261127112100 +0100" channel="starz-stz1">
-    <title lang="en">Splash City</title>
-    <desc lang="en">In this gritty crime thriller, two brothers navigate the streets of San Francisco as loyalty and survival are put to the test.</desc>
-  </programme>
-  <programme start="20261127112100 +0100" stop="20261127134500 +0100" channel="starz-stz1">
-    <title lang="en">Avengers: Age Of Ultron</title>
-    <desc lang="en">From Marvel Studios: An A.I. known as Ultron has the promise to bring world peace. But when Ultron turns against humanity, The Avengers must assemble.</desc>
-  </programme>
-  <programme start="20261127134500 +0100" stop="20261127153000 +0100" channel="starz-stz1">
-    <title lang="en">Unexpected Christmas</title>
-    <desc lang="en">A family's perfect Christmas reunion is upended when old rivalries, secrets, and romantic mix-ups come to a head.</desc>
-  </programme>
-  <programme start="20261127153000 +0100" stop="20261127171000 +0100" channel="starz-stz1">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
-  </programme>
-  <programme start="20261127171000 +0100" stop="20261127181700 +0100" channel="starz-stz1">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
-  </programme>
-  <programme start="20261127181700 +0100" stop="20261127191500 +0100" channel="starz-stz1">
-    <title lang="en">S2 E2 - The Veil of Time</title>
-    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
-  </programme>
-  <programme start="20261127191500 +0100" stop="20261127201000 +0100" channel="starz-stz1">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261127201000 +0100" stop="20261127211300 +0100" channel="starz-stz1">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
-  <programme start="20261127211300 +0100" stop="20261127220700 +0100" channel="starz-stz1">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
-  </programme>
-  <programme start="20261127220700 +0100" stop="20261127230500 +0100" channel="starz-stz1">
-    <title lang="en">S2 E6 - Small Mercies</title>
-    <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
-  </programme>
-  <programme start="20261127230500 +0100" stop="20261128000500 +0100" channel="starz-stz1">
-    <title lang="en">S2 E7 - Heart of the Highlands</title>
-    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
-  </programme>
-  <programme start="20261128000500 +0100" stop="20261128010000 +0100" channel="starz-stz1">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261128010000 +0100" stop="20261128020100 +0100" channel="starz-stz1">
-    <title lang="en">S2 E9 - Another Man's Shadow</title>
-    <desc lang="en">Colum suffers a tragedy, and Maura urges Dougal to lead. Murtagh defends Grace, with terrible ramifications. Henry watches a dangerous romance unfold.</desc>
-  </programme>
-  <programme start="20261128020100 +0100" stop="20261128031400 +0100" channel="starz-stz1">
+  <programme start="20261128045200 +0100" stop="20261128060800 +0100" channel="starz-stz1">
     <title lang="en">S2 E10 - Twelfth Night</title>
     <desc lang="en">Friends and enemies alike attend annual Twelfth Night Festivities - with murderous results. Julia attempts a desperate escape.</desc>
   </programme>
-  <programme start="20261128031400 +0100" stop="20261128040300 +0100" channel="starz-stz1">
-    <title lang="en">S1 E9 - The Vault</title>
-    <desc lang="en">Hondo is pulled into an off-the-books mission after a conspiracy surfaces. As the Exiles close in on the truth, the line between ally and enemy blurs.</desc>
+  <programme start="20261128060800 +0100" stop="20261128072100 +0100" channel="starz-stz1">
+    <title lang="en">S2 E10 - Twelfth Night</title>
+    <desc lang="en">Friends and enemies alike attend annual Twelfth Night Festivities - with murderous results. Julia attempts a desperate escape.</desc>
   </programme>
-  <programme start="20261128040300 +0100" stop="20261128045200 +0100" channel="starz-stz1">
+  <programme start="20261128072100 +0100" stop="20261128081000 +0100" channel="starz-stz1">
     <title lang="en">S1 E10 - Hard Exit</title>
     <desc lang="en">With bodies piling up, Hondo and the Exiles make their final move against the conspiracy that's been hunting S.W.A.T. from the inside.</desc>
   </programme>
-  <programme start="20261128045200 +0100" stop="20261128060800 +0100" channel="starz-stz1">
+  <programme start="20261128081000 +0100" stop="20261128092400 +0100" channel="starz-stz1">
+    <title lang="en">S2 E10 - Twelfth Night</title>
+    <desc lang="en">Friends and enemies alike attend annual Twelfth Night Festivities - with murderous results. Julia attempts a desperate escape.</desc>
+  </programme>
+  <programme start="20261128092400 +0100" stop="20261128105800 +0100" channel="starz-stz1">
+    <title lang="en">Serendipity</title>
+    <desc lang="en">A chance meeting leads Jonathan and Sara to trust fate. Years later, they remain unable to forget each other despite new lives and commitments.</desc>
+  </programme>
+  <programme start="20261128105800 +0100" stop="20261128121500 +0100" channel="starz-stz1">
+    <title lang="en">Adam Sandler's Eight Crazy Nights</title>
+    <desc lang="en">A local troublemaker spends Hanukkah dodging consequences, clashing with townspeople, and stumbling toward redemption.</desc>
+  </programme>
+  <programme start="20261128121500 +0100" stop="20261128135000 +0100" channel="starz-stz1">
+    <title lang="en">Black Nativity</title>
+    <desc lang="en">Sent to live with his estranged grandparents in New York City, Langston embarks on a journey of self-discovery that brings his family closer together.</desc>
+  </programme>
+  <programme start="20261128135000 +0100" stop="20261128152000 +0100" channel="starz-stz1">
+    <title lang="en">Mariah Carey: Merry Christmas to All!</title>
+    <desc lang="en">Pop icon Mariah Carey ushers in the holidays with a festive extravaganza featuring classic hits, seasonal staples and a lineup of very special guests.</desc>
+  </programme>
+  <programme start="20261128152000 +0100" stop="20261128173100 +0100" channel="starz-stz1">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20261128173100 +0100" stop="20261128182000 +0100" channel="starz-stz1">
+    <title lang="en">S1 E10 - Hard Exit</title>
+    <desc lang="en">With bodies piling up, Hondo and the Exiles make their final move against the conspiracy that's been hunting S.W.A.T. from the inside.</desc>
+  </programme>
+  <programme start="20261128182000 +0100" stop="20261128193500 +0100" channel="starz-stz1">
+    <title lang="en">S2 E10 - Twelfth Night</title>
+    <desc lang="en">Friends and enemies alike attend annual Twelfth Night Festivities - with murderous results. Julia attempts a desperate escape.</desc>
+  </programme>
+  <programme start="20261128193500 +0100" stop="20261128202400 +0100" channel="starz-stz1">
+    <title lang="en">S1 E10 - Hard Exit</title>
+    <desc lang="en">With bodies piling up, Hondo and the Exiles make their final move against the conspiracy that's been hunting S.W.A.T. from the inside.</desc>
+  </programme>
+  <programme start="20261128202400 +0100" stop="20261128220000 +0100" channel="starz-stz1">
+    <title lang="en">A Richer Christmas</title>
+    <desc lang="en">When a wealthy family loses everything before the holidays, their world falls apart — but in the chaos, they discover the true meaning of Christmas.</desc>
+  </programme>
+  <programme start="20261128220000 +0100" stop="20261128231600 +0100" channel="starz-stz1">
+    <title lang="en">S2 E10 - Twelfth Night</title>
+    <desc lang="en">Friends and enemies alike attend annual Twelfth Night Festivities - with murderous results. Julia attempts a desperate escape.</desc>
+  </programme>
+  <programme start="20261128231600 +0100" stop="20261129000500 +0100" channel="starz-stz1">
+    <title lang="en">S1 E10 - Hard Exit</title>
+    <desc lang="en">With bodies piling up, Hondo and the Exiles make their final move against the conspiracy that's been hunting S.W.A.T. from the inside.</desc>
+  </programme>
+  <programme start="20261129000500 +0100" stop="20261129021500 +0100" channel="starz-stz1">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20261129021500 +0100" stop="20261129033100 +0100" channel="starz-stz1">
+    <title lang="en">S2 E10 - Twelfth Night</title>
+    <desc lang="en">Friends and enemies alike attend annual Twelfth Night Festivities - with murderous results. Julia attempts a desperate escape.</desc>
+  </programme>
+  <programme start="20261129033100 +0100" stop="20261129052000 +0100" channel="starz-stz1">
+    <title lang="en">A Bad Moms Christmas</title>
+    <desc lang="en">Amy, Kiki, and Carla rebel against the Super Bowl for moms: Christmas, while hosting and entertaining their own mothers during the holiday chaos.</desc>
+  </programme>
+  <programme start="20261129052000 +0100" stop="20261129063600 +0100" channel="starz-stz1">
     <title lang="en">S2 E10 - Twelfth Night</title>
     <desc lang="en">Friends and enemies alike attend annual Twelfth Night Festivities - with murderous results. Julia attempts a desperate escape.</desc>
   </programme>
